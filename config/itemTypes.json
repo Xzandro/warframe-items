@@ -1,5 +1,14 @@
 [{
+  "id": "/Archwing/Primary",
+  "name": "Arch-Gun"
+}, {
+  "id": "/Archwing/Melee",
+  "name": "Arch-Melee"
+}, {
   "id": "/Archwing",
+  "name": "Archwing"
+}, {
+  "id": "/HeavyWeapons",
   "name": "Archwing"
 }, {
   "id": "/Powersuits",
@@ -22,6 +31,9 @@
 }, {
   "id": "/Skins",
   "name": "Skin"
+}, {
+  "id": "/Game/QuartersWallpapers",
+  "name": "Ship Decoration"
 }, {
   "id": "/ShipDecos",
   "name": "Ship Decoration"
@@ -86,11 +98,20 @@
   "id": "/Mods/Warframe",
   "name": "Warframe Mod"
 }, {
+  "id": "/Pets/CreaturePets/CreaturePrecepts/",
+  "name": "Creature Mod"
+}, {
   "id": "/Mods/Sentinel",
   "name": "Companion Mod"
 }, {
   "id": "/Mods/Archwing",
   "name": "Archwing Mod"
+}, {
+  "id": "/CreaturePetParts",
+  "name": "Pet Parts"
+}, {
+  "id": "/Pets/CreaturePets",
+  "name": "Pets"
 }, {
   "id": "/Mods/Hoverboard",
   "name": "K-Drive Mod"
@@ -128,6 +149,24 @@
   "id": "/MiscItems",
   "name": "Misc"
 }, {
+  "id": "/Items/RelayRebuild/Phase",
+  "name": "Resource"
+}, {
+  "id": "Items/Deimos/EntratiFragment",
+  "name": "Resource"
+}, {
+  "id": "Nemesis/KuvaLich/CapturedLichToken",
+  "name": "Resource"
+}, {
+  "id": "/Solaris/DebtToken",
+  "name": "Resource"
+}, {
+  "id": "/Tokens/GreedTokens",
+  "name": "Resource"
+}, {
+  "id": "Nightwave/CephalonFissureTimePointItem",
+  "name": "Resource"
+}, {
   "id": "/Resources",
   "name": "Resource"
 }, {
@@ -139,4 +178,127 @@
 }, {
   "id": "/AvatarImages",
   "name": "Glyph"
+}, {
+  "id": "SolNode",
+  "name": "Node"
+}, {
+  "id": "ClanNode",
+  "name": "Node"
+}, {
+  "id": "SettlementNode",
+  "name": "Node"
+}, {
+  "id": "CosmeticEnhancers",
+  "name": "Arcane"
+}, {
+  "id": "SettlementNode",
+  "name": "Grineer Settlement Node"
+}, {
+  "id": "Colors",
+  "name": "Fur Color"
+}, {
+  "id": "/HoverboardParts",
+  "name": "K-Drive Component"
+}, {
+  "id": "/AnimalTag",
+  "name": "Conservation Tag"
+}, {
+  "id": "SentinelWeapon",
+  "name": "Sentinel Weapon"
+}, {
+  "id": "Scarves",
+  "name": "Syandana"
+}, {
+  "id": "SuitCustomizations/NinjaColourPickerItem",
+  "name": "Color Palette"
+}, {
+  "id": "StoreItems/SuitCustomizations/ColourPicker",
+  "name": "Color Palette"
+}, {
+  "id": "LotusModularPistolRandomMod",
+  "name": "Secondary"
+}, {
+  "id": "LotusModularMeleeRandomMod",
+  "name": "Melee"
+}, {
+  "id": "LotusArchgunRandomMod",
+  "name": "Arch-Gun"
+}, {
+  "id": "Mods/Archwing/Rifle",
+  "name": "Arch-Gun"
+}, {
+  "id": "LotusPistolRandomMod",
+  "name": "Secondary"
+}, {
+  "id": "LotusRifleRandomMod",
+  "name": "Rifle"
+}, {
+  "id": "LotusShotgunRandom",
+  "name": "Shotgun"
+}, {
+  "id": "MeleeWeaponRandomMod",
+  "name": "Melee"
+}, {
+  "id": "KubrowPet/Patterns",
+  "name": "Fur Pattern"
+}, {
+  "id": "CatbrowPet/Patterns",
+  "name": "Fur Pattern"
+}, {
+  "id": "/InfestedKavatPet/Patterns/",
+  "name": "Fur Pattern"
+}, {
+  "id": "Essence",
+  "name": "Resource"
+}, {
+  "id": "Element",
+  "name": "Resource"
+}, {
+  "id": "FusexOrnament",
+  "name": "Ayatan Star"
+}, {
+  "id": "/FusionTreasures/",
+  "name": "Ayatan Sculpture"
+}, {
+  "id": "ArcadeItem",
+  "name": "Arcade Minigame Unlock"
+}, {
+  "id": "MoaPetPayload",
+  "name": "Moa Gyro"
+}, {
+  "id": "MoaPetEngine",
+  "name": "Moa Core"
+}, {
+  "id": "MoaPetLeg",
+  "name": "Moa Bracket"
+}, {
+  "id": "PetCollar",
+  "name": "Pet Collar"
+}, {
+  "id": "RailjackMiscItems",
+  "name": "Resource"
+}, {
+  "id": "KubrowPetFood",
+  "name": "Pet Resource"
+}, {
+  "id": "BlankTraitPrint",
+  "name": "Pet Resource"
+}, {
+  "id": "/Items/Emotes/",
+  "name": "Emotes"
+}, {
+  "id": "EggHatcher",
+  "name": "Pet Resource"
+}, {
+  "id": "CatbrowGeneticSignature",
+  "name": "Pet Resource"
+}, {
+  "id": "Eggs/KubrowEgg",
+  "name": "Pet Resource"
+}, {
+  "id": "RelayRebuild/PhaseOneClanItem",
+  "name": "Resource"
+}, {
+  "id": "SentinelWeapons",
+  "name": "Sentinel"
 }]

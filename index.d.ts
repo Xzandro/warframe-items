@@ -86,6 +86,7 @@ declare module 'warframe-items' {
         sex?: Sex;
         sprint?: number;
         passiveDescription?: string;
+        areaAttack?: AreaAttack;
         secondary?: Secondary;
         secondaryArea?: SecondaryArea;
         statusChance?: number;
@@ -96,6 +97,47 @@ declare module 'warframe-items' {
         repairRate?: number;
         capacityMultiplier?: number[];
         specialities?: string[];
+        showInInventory?: boolean;
+        systemIndex?: number;
+        systemName?: string;
+        nodeType?: number;
+        missionIndex?: number;
+        factionIndex?: number;
+        minEnemyLevel?: number;
+        maxEnemyLevel?: number;
+        compatName?: string;
+        isAugment?: boolean;
+        transmutable?: boolean;
+        productCategory?: ProductCategory;
+        multishot?: number;
+        blockingAngle?: number;
+        comboDuration?: number;
+        followThrough?: number;
+        range?: number;
+        slamAttack?: number;
+        slamRadialDamage?: number;
+        slamRadius?: number;
+        slideAttack?: number;
+        heavyAttackDamage?: number;
+        heavySlamAttack?: number;
+        heavySlamRadialDamage?: number;
+        heavySlamRadius?: number;
+        windUp?: number;
+        isUtility?: boolean;
+        modSet?: string;
+        rewardName?: string;
+        tier?: number;
+        probability?: number;
+        isExilus?: boolean;
+        fusionPoints?: number;
+        chargeTime?: number;
+        exalted?: string[];
+        primeOmegaAttenuation?: number;
+        primeSellingPrice?: number;
+        maxLevelCap?: number;
+        modSetValues?: number[];
+        excludeFromCodex?: boolean;
+        levelStats?: LevelStat[];
     }
 
     interface Component {
@@ -128,6 +170,7 @@ declare module 'warframe-items' {
         masteryReq?: number;
         omegaAttenuation?: number;
         ammo?: number;
+        chargeTime?: number;
         damage?: number | string;
         damageTypes?: DamageTypes;
         flight?: number;
@@ -149,6 +192,23 @@ declare module 'warframe-items' {
         estimatedVaultDate?: string;
         vaultDate?: string;
         releaseDate?: string;
+        excludeFromCodex?: boolean;
+        productCategory?: ProductCategory;
+        multishot?: number;
+        primeSellingPrice?: number;
+        blockingAngle?: number;
+        comboDuration?: number;
+        followThrough?: number;
+        range?: number;
+        slamAttack?: number;
+        slamRadialDamage?: number;
+        slamRadius?: number;
+        slideAttack?: number;
+        heavyAttackDamage?: number;
+        heavySlamAttack?: number;
+        heavySlamRadialDamage?: number;
+        heavySlamRadius?: number;
+        windUp?: number;
     }
 
     interface Secondary {
@@ -170,6 +230,19 @@ declare module 'warframe-items' {
         blast?: number;
         corrosive?: number;
         radiation?: number;
+    }
+
+    interface AreaAttack {
+        name: string;
+        status_chance?: number;
+        radius?: number;
+        blast?: number;
+        heat?: number;
+        radiation?: number;
+        damage: string;
+        pellet?: Pellet;
+        duration?: number;
+        speed?: number;
     }
 
     interface SecondaryArea {
@@ -198,6 +271,10 @@ declare module 'warframe-items' {
 
     interface Colour {
         value: string;
+    }
+
+    interface LevelStat {
+        stats: string[];
     }
 
     interface Complication {
@@ -255,6 +332,20 @@ declare module 'warframe-items' {
         value: number;
         locTag?: string;
     }
+
+    type ProductCategory =
+        'KubrowPets' |
+        'LongGuns' |
+        'MechSuits' |
+        'Melee' |
+        'Pistols' |
+        'SentinelWeapons' |
+        'Sentinels' |
+        'SpaceGuns' |
+        'SpaceMelee' |
+        'SpaceSuits' |
+        'SpecialItems' |
+        'Suits'
 
     type Aura =
         'madurai' |

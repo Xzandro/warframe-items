@@ -2,62 +2,1816 @@
   {
     "uniqueName": "/Lotus/Types/Game/CatbrowPet/MirrorCatbrowPetPowerSuit",
     "name": "Adarza Kavat",
-    "description": "Piercing eyes reflect deadly instincts.",
     "health": 40,
     "shield": 70,
     "armor": 50,
     "stamina": 8,
     "power": 100,
+    "description": "Piercing eyes reflect deadly instincts.",
+    "productCategory": "KubrowPets",
     "type": "Pets",
     "imageName": "adarza-kavat.png",
+    "category": "Pets",
+    "tradable": false,
+    "patchlogs": [
+      {
+        "name": "Shrine of the Eidolon: Hotfix 22.13.3",
+        "date": "2018-02-21T20:18:33Z",
+        "url": "https://forums.warframe.com/topic/924885-shrine-of-the-eidolon-hotfix-22133/",
+        "additions": "",
+        "changes": "Adarza Kavat’s Cat’s Eye Critical Chance Buff no longer apply to Operators.",
+        "fixes": ""
+      },
+      {
+        "name": "Update: Specters of the Rail",
+        "date": "2016-07-08T14:12:48Z",
+        "url": "https://forums.warframe.com/topic/668132-update-specters-of-the-rail/",
+        "additions": "",
+        "changes": "Adarza Kavat grants increased critical chance to all nearby Tenno for a short duration.",
+        "fixes": ""
+      }
+    ]
+  },
+  {
+    "name": "Adra Mutagen",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterMutagenA",
+    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "totalDamage": 0,
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "excludeFromCodex": true,
+    "omegaAttenuation": 1,
+    "buildPrice": 1000,
+    "buildTime": 60,
+    "skipBuildTimePrice": 5,
+    "buildQuantity": 1,
+    "consumeOnBuild": false,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Pets/InfestedCritterMutagenABlueprint",
+        "name": "Blueprint",
+        "description": "",
+        "itemCount": 1,
+        "imageName": "blueprint.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericInfestedFishPartItem",
+        "name": "Ferment Bladder",
+        "description": "Many Deimos fish secrete reagents in a pouchlike organ, creating volatile gases that enable limited periods of levitation. Guaranteed to drop from these sources:OSTIMYRAQUAPULMOVITREOSPINACRYPTOSUCTUSBARBISTEOKYMAEROSAMNIOPHYSIGLUTINOX",
+        "itemCount": 20,
+        "imageName": "ferment-bladder.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/InfGorgaricusSeedItem",
+        "name": "Pustulite",
+        "description": "Half-formed, incomplete spore bearers, little more than twitching flesh with claws to latch on with.",
+        "itemCount": 15,
+        "imageName": "pustulite.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishEPartItem",
+        "name": "Sporulate Sac",
+        "description": "These pressurized repositories of Infested spores require careful extraction or explosive rupture and local contamination may occur.Source:GLUTINOX",
+        "itemCount": 12,
+        "imageName": "sporulate-sac.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Game/FishBait/Infested/OrokinFishBaitA",
+        "name": "Vome Residue",
+        "description": "A gobbet of raw flesh, fallen from the wyrm Vome in her death spasm. Used to attract Chondricord and Duroid.",
+        "itemCount": 6,
+        "imageName": "vome-residue.png",
+        "tradable": false
+      }
+    ],
+    "type": "Pet Parts",
+    "imageName": "adra-mutagen.png",
+    "category": "Pets",
+    "tradable": false
+  },
+  {
+    "name": "Aegron Gyro",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadAegron",
+    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "totalDamage": 0,
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
+    "buildPrice": 50000,
+    "buildTime": 86400,
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetPayloadAegronBlueprint",
+        "name": "Blueprint",
+        "description": "",
+        "itemCount": 1,
+        "imageName": "blueprint.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishMuonBatteryItem",
+        "name": "Brickie Muon Battery",
+        "description": "A small, atomic power source.Acquired by disassembling Brickie Servofish.",
+        "itemCount": 10,
+        "imageName": "brickie-muon-battery.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemBCutItem",
+        "name": "Heart Noctrul",
+        "description": "Polished and cut to perfection.",
+        "itemCount": 5,
+        "imageName": "heart-noctrul.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
+        "name": "Plastids",
+        "description": "A disgusting nanite-infested tissue mass.Locations: Phobos, Saturn, Uranus, Pluto, and Eris.",
+        "itemCount": 1000,
+        "imageName": "plastids.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/CoolantItem",
+        "name": "Thermal Sludge",
+        "description": "A by-product from the Weeping Towers terraforming processes.",
+        "itemCount": 20,
+        "imageName": "thermal-sludge.png",
+        "tradable": false,
+        "drops": [
+          {
+            "location": "Thermal Sludge Cannister",
+            "type": "Thermal Sludge",
+            "chance": 1,
+            "rarity": "Common"
+          }
+        ]
+      }
+    ],
+    "type": "Moa Gyro",
+    "imageName": "aegron-gyro.png",
+    "category": "Pets",
+    "tradable": false
+  },
+  {
+    "name": "Alcrom Core",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetEngineArcotek",
+    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "totalDamage": 0,
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
+    "buildPrice": 50000,
+    "buildTime": 86400,
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreBAlloyItem",
+        "name": "Axidrol Alloy",
+        "description": "A compound formed from Axidite.",
+        "itemCount": 25,
+        "imageName": "axidrol-alloy.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetEngineArcotekBlueprint",
+        "name": "Blueprint",
+        "description": "",
+        "itemCount": 1,
+        "imageName": "blueprint.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishMuonBatteryItem",
+        "name": "Brickie Muon Battery",
+        "description": "A small, atomic power source.Acquired by disassembling Brickie Servofish.",
+        "itemCount": 10,
+        "imageName": "brickie-muon-battery.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemACutItem",
+        "name": "Smooth Phasmin",
+        "description": "Polished and cut to perfection.",
+        "itemCount": 15,
+        "imageName": "smooth-phasmin.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreAAlloyItem",
+        "name": "Travocyte Alloy",
+        "description": "A compound formed from Travoride.",
+        "itemCount": 25,
+        "imageName": "travocyte-alloy.png",
+        "tradable": false
+      }
+    ],
+    "type": "Moa Core",
+    "imageName": "alcrom-core.png",
+    "category": "Pets",
+    "tradable": false
+  },
+  {
+    "name": "Arioli Mutagen",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorMutagenC",
+    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "totalDamage": 0,
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "excludeFromCodex": true,
+    "omegaAttenuation": 1,
+    "buildPrice": 1000,
+    "buildTime": 60,
+    "skipBuildTimePrice": 5,
+    "buildQuantity": 1,
+    "consumeOnBuild": false,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Pets/InfestedPredatorMutagenCBlueprint",
+        "name": "Blueprint",
+        "description": "",
+        "itemCount": 1,
+        "imageName": "blueprint.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/InfGorgaricusSeedItem",
+        "name": "Pustulite",
+        "description": "Half-formed, incomplete spore bearers, little more than twitching flesh with claws to latch on with.",
+        "itemCount": 15,
+        "imageName": "pustulite.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishBPartItem",
+        "name": "Spinal Core Section",
+        "description": "Many delicate and complex nerve fibers are housed in the jointed vertebrae, which are one of the creature's most resilient parts. Found from Vitreospina fish known to eke out a primitive existence in cave systems.Guaranteed to drop from these sources:VITREOSPINACHONDRICORD",
+        "itemCount": 8,
+        "imageName": "spinal-core-section.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericOrokinFishPartItem",
+        "name": "Tubercular Gill System",
+        "description": "Adaptive membranes allow many Deimos fish to move freely between fluid and gaseous environments.Guaranteed to drop from these sources:OSTIMYRAQUAPULMOVITREOSPINAMYXOSTOMATADUROID",
+        "itemCount": 20,
+        "imageName": "tubercular-gill-system.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Game/FishBait/Infested/OrokinFishBaitA",
+        "name": "Vome Residue",
+        "description": "A gobbet of raw flesh, fallen from the wyrm Vome in her death spasm. Used to attract Chondricord and Duroid.",
+        "itemCount": 6,
+        "imageName": "vome-residue.png",
+        "tradable": false
+      }
+    ],
+    "type": "Pet Parts",
+    "imageName": "arioli-mutagen.png",
+    "category": "Pets",
+    "tradable": false
+  },
+  {
+    "name": "Atheca Gyro",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadThermocor",
+    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "totalDamage": 0,
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
+    "buildPrice": 50000,
+    "buildTime": 86400,
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetPayloadThermocorBlueprint",
+        "name": "Blueprint",
+        "description": "",
+        "itemCount": 1,
+        "imageName": "blueprint.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/ControlModule",
+        "name": "Control Module",
+        "description": "Autonomy processor for Robotics. A Corpus design.Locations: Europa, Neptune, and the Void.",
+        "itemCount": 2,
+        "imageName": "control-module.png",
+        "tradable": false,
+        "drops": [
+          {
+            "location": "Neptune/Cephalon Capture (Conclave), Rotation B",
+            "type": "Control Module",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Annihilation (Conclave), Rotation B",
+            "type": "Control Module",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Annihilation (Conclave), Rotation B",
+            "type": "Control Module",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Cephalon Capture (Conclave), Rotation B",
+            "type": "Control Module",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Cephalon Capture (Conclave), Rotation B",
+            "type": "Control Module",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Lunaro (Conclave), Rotation B",
+            "type": "Control Module",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Lunaro (Conclave), Rotation B",
+            "type": "Control Module",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Team Annihilation (Conclave), Rotation B",
+            "type": "Control Module",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Team Annihilation (Conclave), Rotation B",
+            "type": "Control Module",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Variant Annihilation (Conclave), Rotation B",
+            "type": "Control Module",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Variant Annihilation (Conclave), Rotation B",
+            "type": "Control Module",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Variant Cephalon Capture (Conclave), Rotation B",
+            "type": "Control Module",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Variant Cephalon Capture (Conclave), Rotation B",
+            "type": "Control Module",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Variant Team Annihilation (Conclave), Rotation B",
+            "type": "Control Module",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          }
+        ]
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisRareGemACutItem",
+        "name": "Star Amarast",
+        "description": "Polished and cut to perfection.",
+        "itemCount": 5,
+        "imageName": "star-amarast.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/VenusTreeItem",
+        "name": "Tepa Nodule",
+        "description": "The irradescent nodules on these plants glow brightly in cold environments.",
+        "itemCount": 20,
+        "imageName": "tepa-nodule.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/OrokinFishEntroplasmaItem",
+        "name": "Tromyzon Entroplasma",
+        "description": "A solvent that reconstitutes waste product from the Weeping Towers into degenerated matter.Acquired by disassembling Tromyzon Servofish.",
+        "itemCount": 5,
+        "imageName": "tromyzon-entroplasma.png",
+        "tradable": false,
+        "drops": [
+          {
+            "location": "Exploiter Orb",
+            "type": "Tromyzon Entroplasma",
+            "chance": 0.5001,
+            "rarity": "Uncommon"
+          }
+        ]
+      }
+    ],
+    "type": "Moa Gyro",
+    "imageName": "atheca-gyro.png",
     "category": "Pets",
     "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Game/KubrowPet/RetrieverKubrowPetPowerSuit",
     "name": "Chesa Kubrow",
-    "description": "This Kubrow will disarm adversaries and retrieve the spoils of battle.",
     "health": 125,
     "shield": 75,
     "armor": 50,
     "stamina": 8,
     "power": 100,
+    "description": "This Kubrow will disarm adversaries and retrieve the spoils of battle.",
+    "productCategory": "KubrowPets",
     "type": "Pets",
     "imageName": "chesa-kubrow.png",
+    "category": "Pets",
+    "tradable": false,
+    "patchlogs": [
+      {
+        "name": "Warframe Revised: Railjack Revisited (Part 1): Update 27.4",
+        "date": "2020-05-01T13:21:46Z",
+        "url": "https://forums.warframe.com/topic/1189247-warframe-revised-railjack-revisited-part-1-update-274/",
+        "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/e969430fdbe58fef45f62420e448ee81.jpg",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed a script error that could occur when leaving an open world area with a Chesa Kubrow using the Retrieve Precept. "
+      },
+      {
+        "name": "Buried Debts: Update 24.4.0",
+        "date": "2019-03-08T02:01:23Z",
+        "url": "https://forums.warframe.com/topic/1067397-buried-debts-update-2440/",
+        "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/f07ee60119e2c8efc746da7ecf4cb49e.png",
+        "additions": "",
+        "changes": "The Chesa Kubrow Retrieve Precept has been changed to reflect the following mechanic:",
+        "fixes": ""
+      },
+      {
+        "name": "Plains of Eidolon: Update 22.5.0 + 22.5.0.1",
+        "date": "2017-11-30T16:52:51Z",
+        "url": "https://forums.warframe.com/topic/887725-plains-of-eidolon-update-2250-22501/",
+        "additions": "",
+        "changes": "Improvements towards the Chesa Kubrow Retrieve functionality when retrieving items in nearby crates and when in the Plains.",
+        "fixes": ""
+      },
+      {
+        "name": "Chains of Harrow: Hotfix 21.2.1",
+        "date": "2017-08-01T17:58:55Z",
+        "url": "https://forums.warframe.com/topic/825578-chains-of-harrow-hotfix-2121/",
+        "additions": "",
+        "changes": "Optimized Feral and Chesa Kubrow AI to reduce time spent looking for pickups.",
+        "fixes": ""
+      },
+      {
+        "name": "Hotfix 18.6.3",
+        "date": "2016-03-23T21:00:12Z",
+        "url": "https://forums.warframe.com/topic/629210-hotfix-1863/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Improved the interaction between the Chesa Kubrow’s Scavenge and Retrieve Abilities, reducing the amount of downtime between the Kubrow smashing crates and picking up items."
+      },
+      {
+        "name": "Update 18.5: Sands of Inaros",
+        "date": "2016-03-04T18:20:53Z",
+        "url": "https://forums.warframe.com/topic/618642-update-185-sands-of-inaros-%C2%A0/",
+        "additions": "",
+        "changes": "",
+        "fixes": "The Chesa Kubrow will now be more responsive when picking up multiple items in close proximity.\nFixed Chesa Kubrow getting stuck when trying to pick up unreachable items.\nFixed Chesa Kubrow becoming stuck when trying to attack a crate it can’t reach."
+      },
+      {
+        "name": "Hotfix 18.4.7",
+        "date": "2016-02-04T22:43:36Z",
+        "url": "https://forums.warframe.com/topic/605204-hotfix-1847/",
+        "additions": "",
+        "changes": "Chesa Kubrow now instantly pick up dropped non-Mod items instead of bringing them back to the player.  Mods will be carried back to the player as normal.",
+        "fixes": ""
+      },
+      {
+        "name": "Update 17.8.0",
+        "date": "2015-10-21T21:58:23Z",
+        "url": "https://forums.warframe.com/topic/549118-update-1780/",
+        "additions": "Due to an error in Kubrow egg type generation many players hunting for Chesa Kubrow have been unable to obtain the breed since the release of Chesa without purchasing the egg from the Market.  While the error has been fixed we understand the frustration this has caused Kubrow enthusiasts, and will be releasing an alert that offers 2 Chesa Kubrow Genetic Code Templates as a reward.",
+        "changes": "",
+        "fixes": "Fixed an error preventing the Chesa Kubrow from being a potential egg type on drop tables."
+      },
+      {
+        "name": "Update 17.2",
+        "date": "2015-08-19T21:49:41Z",
+        "url": "https://forums.warframe.com/topic/514266-update-172/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed the Chesa Kubrow`s name and description not displaying on the Imprint display screen."
+      },
+      {
+        "name": "Hotfix 17.0.4",
+        "date": "2015-08-06T14:48:33Z",
+        "url": "https://forums.warframe.com/topic/504855-hotfix-1704/",
+        "additions": "",
+        "changes": "The Chesa Kubrow’s Retrieve ability will now grab multiple items at once.",
+        "fixes": ""
+      }
+    ]
+  },
+  {
+    "name": "Chiten Mutagen",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorMutagenB",
+    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "totalDamage": 0,
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "excludeFromCodex": true,
+    "omegaAttenuation": 1,
+    "buildPrice": 1000,
+    "buildTime": 60,
+    "skipBuildTimePrice": 5,
+    "buildQuantity": 1,
+    "consumeOnBuild": false,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishAPartItem",
+        "name": "Biotic Filter",
+        "description": "Sifting the glutinous Exocrine is an essential part of the survival process, and a reminder of the creature's original function.Guaranteed to drop from these sources:AQUAPULMODUROID",
+        "itemCount": 12,
+        "imageName": "biotic-filter.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Pets/InfestedPredatorMutagenBBlueprint",
+        "name": "Blueprint",
+        "description": "",
+        "itemCount": 1,
+        "imageName": "blueprint.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericInfestedFishPartItem",
+        "name": "Ferment Bladder",
+        "description": "Many Deimos fish secrete reagents in a pouchlike organ, creating volatile gases that enable limited periods of levitation. Guaranteed to drop from these sources:OSTIMYRAQUAPULMOVITREOSPINACRYPTOSUCTUSBARBISTEOKYMAEROSAMNIOPHYSIGLUTINOX",
+        "itemCount": 20,
+        "imageName": "ferment-bladder.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/InfGorgaricusSeedItem",
+        "name": "Pustulite",
+        "description": "Half-formed, incomplete spore bearers, little more than twitching flesh with claws to latch on with.",
+        "itemCount": 15,
+        "imageName": "pustulite.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Game/FishBait/Infested/OrokinFishBaitA",
+        "name": "Vome Residue",
+        "description": "A gobbet of raw flesh, fallen from the wyrm Vome in her death spasm. Used to attract Chondricord and Duroid.",
+        "itemCount": 6,
+        "imageName": "vome-residue.png",
+        "tradable": false
+      }
+    ],
+    "type": "Pet Parts",
+    "imageName": "chiten-mutagen.png",
+    "category": "Pets",
+    "tradable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/HornedInfestedCatbrowPetPowerSuit",
+    "name": "Crescent Vulpaphyla",
+    "health": 90,
+    "shield": 95,
+    "armor": 50,
+    "stamina": 8,
+    "power": 100,
+    "description": "Fast and foxy, Vulpaphyla are agile allies to bring along on your next adventure.",
+    "productCategory": "KubrowPets",
+    "type": "Pets",
+    "imageName": "crescent-vulpaphyla.png",
+    "category": "Pets",
+    "tradable": false
+  },
+  {
+    "name": "Desus Antigen",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterAntigenB",
+    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "totalDamage": 0,
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "excludeFromCodex": true,
+    "omegaAttenuation": 1,
+    "buildPrice": 1000,
+    "buildTime": 60,
+    "skipBuildTimePrice": 5,
+    "buildQuantity": 1,
+    "consumeOnBuild": false,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
+        "name": "Benign Infested Tumor",
+        "description": "The Infestation infects all fish on Deimos, even those that do not show any external mutations.Guaranteed to drop from all fish on Deimos.",
+        "itemCount": 30,
+        "imageName": "benign-infested-tumor.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Pets/InfestedCritterAntigenBBlueprint",
+        "name": "Blueprint",
+        "description": "",
+        "itemCount": 1,
+        "imageName": "blueprint.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishBPartItem",
+        "name": "Dendrite Blastoma",
+        "description": "Elements of other lifeforms are detectable in Infested body parts, such as this apparently parasitic clump of land-dwelling animal tissue.Guaranteed to drop from these sources:VITREOSPINABARBISTEO",
+        "itemCount": 15,
+        "imageName": "dendrite-blastoma.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Game/FishBait/Infested/InfestedFishBaitA",
+        "name": "Fass Residue",
+        "description": "A chunk of the wyrm Fass, collected after his explosive death. Used to attract Glutinox, Ostimyr, and Vitreospina.",
+        "itemCount": 6,
+        "imageName": "fass-residue.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/InfMapricoFruitItem",
+        "name": "Ganglion",
+        "description": "A fallen clump of entangled nerve fibers, redundant organs, and thin sensory membranes.",
+        "itemCount": 15,
+        "imageName": "ganglion.png",
+        "tradable": false
+      }
+    ],
+    "type": "Pet Parts",
+    "imageName": "desus-antigen.png",
+    "category": "Pets",
+    "tradable": false
+  },
+  {
+    "name": "Drex Core",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetEngineThricore",
+    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "totalDamage": 0,
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
+    "buildPrice": 50000,
+    "buildTime": 86400,
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreBAlloyItem",
+        "name": "Axidrol Alloy",
+        "description": "A compound formed from Axidite.",
+        "itemCount": 25,
+        "imageName": "axidrol-alloy.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetEngineThricoreBlueprint",
+        "name": "Blueprint",
+        "description": "",
+        "itemCount": 1,
+        "imageName": "blueprint.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishMuonBatteryItem",
+        "name": "Brickie Muon Battery",
+        "description": "A small, atomic power source.Acquired by disassembling Brickie Servofish.",
+        "itemCount": 10,
+        "imageName": "brickie-muon-battery.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemACutItem",
+        "name": "Smooth Phasmin",
+        "description": "Polished and cut to perfection.",
+        "itemCount": 15,
+        "imageName": "smooth-phasmin.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreAAlloyItem",
+        "name": "Travocyte Alloy",
+        "description": "A compound formed from Travoride.",
+        "itemCount": 25,
+        "imageName": "travocyte-alloy.png",
+        "tradable": false
+      }
+    ],
+    "type": "Moa Core",
+    "imageName": "drex-core.png",
+    "category": "Pets",
+    "tradable": false
+  },
+  {
+    "name": "Drimper Bracket",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetLegA",
+    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "totalDamage": 0,
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
+    "buildPrice": 50000,
+    "buildTime": 86400,
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreBAlloyItem",
+        "name": "Axidrol Alloy",
+        "description": "A compound formed from Axidite.",
+        "itemCount": 25,
+        "imageName": "axidrol-alloy.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetLegABlueprint",
+        "name": "Blueprint",
+        "description": "",
+        "itemCount": 1,
+        "imageName": "blueprint.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/FungusHeartItem",
+        "name": "Mytocardia Spore",
+        "description": "A fungal body prized for its varied uses.",
+        "itemCount": 15,
+        "imageName": "mytocardia-spore.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/CoolantItem",
+        "name": "Thermal Sludge",
+        "description": "A by-product from the Weeping Towers terraforming processes.",
+        "itemCount": 15,
+        "imageName": "thermal-sludge.png",
+        "tradable": false,
+        "drops": [
+          {
+            "location": "Thermal Sludge Cannister",
+            "type": "Thermal Sludge",
+            "chance": 1,
+            "rarity": "Common"
+          }
+        ]
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreAAlloyItem",
+        "name": "Travocyte Alloy",
+        "description": "A compound formed from Travoride.",
+        "itemCount": 25,
+        "imageName": "travocyte-alloy.png",
+        "tradable": false
+      }
+    ],
+    "type": "Moa Bracket",
+    "imageName": "drimper-bracket.png",
+    "category": "Pets",
+    "tradable": false,
+    "patchlogs": [
+      {
+        "name": "The Deadlock Protocol: Hotfix 28.0.2",
+        "date": "2020-06-12T00:17:00Z",
+        "url": "https://forums.warframe.com/topic/1199763-the-deadlock-protocol-hotfix-2802/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed the Moa \"Drimper Bracket\" using the same model as the new \"Hona Bracket\" when viewed in Legs’ Shop. "
+      }
+    ]
+  },
+  {
+    "name": "Elasmun Antigen",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorAntigenA",
+    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "totalDamage": 0,
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "excludeFromCodex": true,
+    "omegaAttenuation": 1,
+    "buildPrice": 1000,
+    "buildTime": 60,
+    "skipBuildTimePrice": 5,
+    "buildQuantity": 1,
+    "consumeOnBuild": false,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
+        "name": "Benign Infested Tumor",
+        "description": "The Infestation infects all fish on Deimos, even those that do not show any external mutations.Guaranteed to drop from all fish on Deimos.",
+        "itemCount": 30,
+        "imageName": "benign-infested-tumor.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Pets/InfestedPredatorAntigenABlueprint",
+        "name": "Blueprint",
+        "description": "",
+        "itemCount": 1,
+        "imageName": "blueprint.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Game/FishBait/Infested/InfestedFishBaitA",
+        "name": "Fass Residue",
+        "description": "A chunk of the wyrm Fass, collected after his explosive death. Used to attract Glutinox, Ostimyr, and Vitreospina.",
+        "itemCount": 6,
+        "imageName": "fass-residue.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/InfMapricoFruitItem",
+        "name": "Ganglion",
+        "description": "A fallen clump of entangled nerve fibers, redundant organs, and thin sensory membranes.",
+        "itemCount": 15,
+        "imageName": "ganglion.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishAPartItem",
+        "name": "Pustulent Cognitive Nodule",
+        "description": "The Infestation provokes the growth of multiple, seemingly redundant brain-like clusters, whose function may be linked to hivemind activity. Guaranteed to drop from these sources:AQUAPULMOCRYPTOSUCTUS",
+        "itemCount": 15,
+        "imageName": "pustulent-cognitive-nodule.png",
+        "tradable": false
+      }
+    ],
+    "type": "Pet Parts",
+    "imageName": "elasmun-antigen.png",
+    "category": "Pets",
+    "tradable": false
+  },
+  {
+    "name": "Elsa Mutagen",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterMutagenB",
+    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "totalDamage": 0,
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "excludeFromCodex": true,
+    "omegaAttenuation": 1,
+    "buildPrice": 1000,
+    "buildTime": 60,
+    "skipBuildTimePrice": 5,
+    "buildQuantity": 1,
+    "consumeOnBuild": false,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishAPartItem",
+        "name": "Biotic Filter",
+        "description": "Sifting the glutinous Exocrine is an essential part of the survival process, and a reminder of the creature's original function.Guaranteed to drop from these sources:AQUAPULMODUROID",
+        "itemCount": 12,
+        "imageName": "biotic-filter.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Pets/InfestedCritterMutagenBBlueprint",
+        "name": "Blueprint",
+        "description": "",
+        "itemCount": 1,
+        "imageName": "blueprint.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericInfestedFishPartItem",
+        "name": "Ferment Bladder",
+        "description": "Many Deimos fish secrete reagents in a pouchlike organ, creating volatile gases that enable limited periods of levitation. Guaranteed to drop from these sources:OSTIMYRAQUAPULMOVITREOSPINACRYPTOSUCTUSBARBISTEOKYMAEROSAMNIOPHYSIGLUTINOX",
+        "itemCount": 20,
+        "imageName": "ferment-bladder.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/InfGorgaricusSeedItem",
+        "name": "Pustulite",
+        "description": "Half-formed, incomplete spore bearers, little more than twitching flesh with claws to latch on with.",
+        "itemCount": 15,
+        "imageName": "pustulite.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Game/FishBait/Infested/OrokinFishBaitA",
+        "name": "Vome Residue",
+        "description": "A gobbet of raw flesh, fallen from the wyrm Vome in her death spasm. Used to attract Chondricord and Duroid.",
+        "itemCount": 6,
+        "imageName": "vome-residue.png",
+        "tradable": false
+      }
+    ],
+    "type": "Pet Parts",
+    "imageName": "elsa-mutagen.png",
+    "category": "Pets",
+    "tradable": false
+  },
+  {
+    "name": "Gauth Bracket",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetLegD",
+    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "totalDamage": 0,
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
+    "buildPrice": 50000,
+    "buildTime": 86400,
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetLegDBlueprint",
+        "name": "Blueprint",
+        "description": "",
+        "itemCount": 1,
+        "imageName": "blueprint.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonGemACutItem",
+        "name": "Goblite Tears",
+        "description": "Polished and cut to perfection.",
+        "itemCount": 20,
+        "imageName": "goblite-tears.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/VenusTreeItem",
+        "name": "Tepa Nodule",
+        "description": "The irradescent nodules on these plants glow brightly in cold environments.",
+        "itemCount": 15,
+        "imageName": "tepa-nodule.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/SolarisFishDissipatorCoilItem",
+        "name": "Tink Dissipator Coil",
+        "description": "Discharges excess heat and energy through the casing.Acquired by disassembling Tink Servofish.",
+        "itemCount": 15,
+        "imageName": "tink-dissipator-coil.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreAAlloyItem",
+        "name": "Venerdo Alloy",
+        "description": "A compound formed from Venerol.",
+        "itemCount": 40,
+        "imageName": "venerdo-alloy.png",
+        "tradable": false
+      }
+    ],
+    "type": "Moa Bracket",
+    "imageName": "gauth-bracket.png",
+    "category": "Pets",
+    "tradable": false
+  },
+  {
+    "name": "Harpen Gyro",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadDarta",
+    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "totalDamage": 0,
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
+    "buildPrice": 50000,
+    "buildTime": 86400,
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetPayloadDartaBlueprint",
+        "name": "Blueprint",
+        "description": "",
+        "itemCount": 1,
+        "imageName": "blueprint.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
+        "name": "Circuits",
+        "description": "Various electronic components.Locations: Venus, Ceres, and the Kuva Fortress.",
+        "itemCount": 1000,
+        "imageName": "circuits.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/FungusHeartItem",
+        "name": "Mytocardia Spore",
+        "description": "A fungal body prized for its varied uses.",
+        "itemCount": 20,
+        "imageName": "mytocardia-spore.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemACutItem",
+        "name": "Smooth Phasmin",
+        "description": "Polished and cut to perfection.",
+        "itemCount": 5,
+        "imageName": "smooth-phasmin.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/SolarisFishDissipatorCoilItem",
+        "name": "Tink Dissipator Coil",
+        "description": "Discharges excess heat and energy through the casing.Acquired by disassembling Tink Servofish.",
+        "itemCount": 10,
+        "imageName": "tink-dissipator-coil.png",
+        "tradable": false
+      }
+    ],
+    "type": "Moa Gyro",
+    "imageName": "harpen-gyro.png",
     "category": "Pets",
     "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Game/KubrowPet/ChargerKubrowPetPowerSuit",
     "name": "Helminth Charger",
-    "description": "An Infested pet bred from the Helminth Cyst",
     "health": 95,
     "shield": 85,
     "armor": 50,
     "stamina": 8,
     "power": 100,
+    "description": "An Infested pet bred from the Helminth Cyst",
+    "productCategory": "KubrowPets",
     "type": "Pets",
     "imageName": "helminth-charger.png",
+    "category": "Pets",
+    "tradable": false,
+    "patchlogs": [
+      {
+        "name": "Warframe Revised: Railjack Revisited (Part 1): Update 27.4",
+        "date": "2020-05-01T13:21:46Z",
+        "url": "https://forums.warframe.com/topic/1189247-warframe-revised-railjack-revisited-part-1-update-274/",
+        "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/e969430fdbe58fef45f62420e448ee81.jpg",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed script error related to Helminth Chargers Strain Eruption Maggots exploding. "
+      },
+      {
+        "name": "Wukong Deluxe: Update 25.5.0 + 25.5.0.1",
+        "date": "2019-07-31T18:05:01Z",
+        "url": "https://forums.warframe.com/topic/1116515-wukong-deluxe-update-2550-25501/",
+        "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/10f57f536898b00d489655e1161bc09c.jpg",
+        "additions": "",
+        "changes": "Adjusted the Emblem offset on the Helminth Charger, Drahk Pattern, and Underbrush Pattern Kubrows to fix them disappearing completely.",
+        "fixes": ""
+      },
+      {
+        "name": "The Jovian Concord: Hotfix 25.0.2 + 25.0.2.1",
+        "date": "2019-05-23T20:41:54Z",
+        "url": "https://forums.warframe.com/topic/1095724-the-jovian-concord-hotfix-2502-25021/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed the emissive colors on the Helminth Charger Metus Skin appearing all blue."
+      },
+      {
+        "name": "Fortuna: Hotfix 24.2.8",
+        "date": "2019-01-15T14:46:54Z",
+        "url": "https://forums.warframe.com/topic/1054314-fortuna-hotfix-2428/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed the Helminth Charger standing in place and swiping at the air instead of damaging enemies, also fixes lunge attacks missing even though they should be hitting when the Strain Mod Set is equipped."
+      },
+      {
+        "name": "Fortuna: Hotfix 24.0.2",
+        "date": "2018-11-09T22:23:12Z",
+        "url": "https://forums.warframe.com/topic/1027194-fortuna-hotfix-2402/",
+        "additions": "",
+        "changes": "The Hastened Deflection Mod is now a ‘BEAST’ Mod, meaning it’s also compatible with Kavats and Helminth Charger. ",
+        "fixes": "Fixed inability to equip Bite, Pack Leader, and Medi-Pet Kit on the Helminth Charger."
+      },
+      {
+        "name": "The Sacrifice: Update 23.4.0",
+        "date": "2018-08-16T21:06:52Z",
+        "url": "https://forums.warframe.com/topic/998116-the-sacrifice-update-2340/",
+        "additions": "",
+        "changes": "Made some micro-optimizations to the Helminth Charger Proboscis Precept.\nMade some micro-optimizations to the Helminth Charger Trample and Huras Hunt Precepts.",
+        "fixes": ""
+      },
+      {
+        "name": "The Sacrifice: Update 23.2.0",
+        "date": "2018-08-02T15:02:26Z",
+        "url": "https://forums.warframe.com/topic/991847-the-sacrifice-update-2320/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed the Little Helper Hat not sitting correctly when equipped on the Helminth Charger Metus Kubrow Skin. "
+      },
+      {
+        "name": "The Sacrifice: Hotfix 23.1.3",
+        "date": "2018-07-26T21:04:04Z",
+        "url": "https://forums.warframe.com/topic/988847-the-sacrifice-hotfix-2313/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Adorn any Kubrow or Helminth Charger Pet with a battery of gothic spikes.\nEverything you need to become the ultimate terror. Includes the unholy Nidus Phryke Skin, Deimos Claw Skin, Nosos Syandana, Helminth Charger Metus Skin and Metus Kubrow Armor."
+      },
+      {
+        "name": "Shrine of the Eidolon: Update 22.15.0",
+        "date": "2018-03-07T21:04:32Z",
+        "url": "https://forums.warframe.com/topic/930667-shrine-of-the-eidolon-update-22150/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed Kubrow Armor not appearing on Helminth Chargers with Drahk Skin equipped."
+      },
+      {
+        "name": "Octavia's Anthem: Hotfix 20.0.9",
+        "date": "2017-04-03T21:18:36Z",
+        "url": "https://forums.warframe.com/topic/782477-octavias-anthem-hotfix-2009/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed custom energy color on the Helminth Charger not being very noticeable. "
+      },
+      {
+        "name": "Octavia's Anthem: Hotfix 20.0.6",
+        "date": "2017-03-29T21:11:47Z",
+        "url": "https://forums.warframe.com/topic/780209-octavias-anthem-hotfix-2006/",
+        "additions": "",
+        "changes": "All Helminth Chargers bred before Update 20 had the same default color scheme (pink/orange) that was originally only meant as their eye color. As a result, Chargers bred before Update 20, who currently do not have custom colors, have had their default colors rerolled to something new!\nAdded Energy color option for the Helminth Charger customizations in Arsenal.",
+        "fixes": "Fixed the Little Helper Hat attachment awkwardly positioned inside of the Helminth Charger’s head and neck."
+      },
+      {
+        "name": "Octavia's Anthem: Hotfix 20.0.4",
+        "date": "2017-03-27T21:42:04Z",
+        "url": "https://forums.warframe.com/topic/779000-octavias-anthem-hotfix-2004/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed crash when changing Armor for the Helminth Charger."
+      },
+      {
+        "name": "Octavia’s Anthem: Hotfix 20.0.3",
+        "date": "2017-03-26T09:11:58Z",
+        "url": "https://forums.warframe.com/topic/778048-octavia%E2%80%99s-anthem-hotfix-2003/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed the Helminth Charger Codex diorama freezing the game. "
+      },
+      {
+        "name": "Octavia's Anthem: Update 20",
+        "date": "2017-03-24T19:46:02Z",
+        "url": "https://forums.warframe.com/topic/776642-octavias-anthem-update-20/",
+        "additions": "",
+        "changes": "oh wait, that’s the newly reskinned Helminth Charger! With a whole new look comes a new attitude.",
+        "fixes": ""
+      },
+      {
+        "name": "The Glast Gambit: Update 19.6.0 + 19.6.0.1",
+        "date": "2017-01-11T23:47:27Z",
+        "url": "https://forums.warframe.com/topic/748631-the-glast-gambit-update-1960-19601/",
+        "additions": "As stated and shown on Devstream #85, the Helminth Cure is here. By now, a majority of Tenno have been faced with a persistent and protruding infection on numerous Warframes. For those with a fully 7-day matured Helminth Cyst, the individual permanent cure awaits you in the Helminth Infirmary. The completion of Glast Gambit is not required to have your Helminth Cyst removed, and once the cure has been administered that Warframe will not be granted access back into the room and can no longer be infected. Keep in mind that breeding a Helminth Charger requires a mature Helminth Cyst to be drained",
+        "changes": "",
+        "fixes": ""
+      },
+      {
+        "name": "The Glast Gambit: Hotfix 19.5.5",
+        "date": "2017-01-03T23:30:51Z",
+        "url": "https://forums.warframe.com/topic/744898-the-glast-gambit-hotfix-1955/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed incorrect Helminth Charger Codex entry."
+      }
+    ]
+  },
+  {
+    "name": "Hextra Gyro",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadHextra",
+    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "totalDamage": 0,
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
+    "buildPrice": 50000,
+    "buildTime": 86400,
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetPayloadHextraBlueprint",
+        "name": "Blueprint",
+        "description": "",
+        "itemCount": 1,
+        "imageName": "blueprint.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishRotobladeItem",
+        "name": "Eye-Eye Rotoblade",
+        "description": "A machine element used to propel robotic organisms through coolant.Acquired by disassembling Eye-Eye Servofish.",
+        "itemCount": 10,
+        "imageName": "eye-eye-rotoblade.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonGemACutItem",
+        "name": "Goblite Tears",
+        "description": "Polished and cut to perfection.",
+        "itemCount": 5,
+        "imageName": "goblite-tears.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/VenusCoconutItem",
+        "name": "Gorgaricus Spore",
+        "description": "The reproductive spore of the giant Vallis fungi is highly coveted for the complex chemical compounds it contains.",
+        "itemCount": 20,
+        "imageName": "gorgaricus-spore.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+        "name": "Rubedo",
+        "description": "A jagged crystalline ore. Gives off radiant energy.Locations: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void.",
+        "itemCount": 1000,
+        "imageName": "rubedo.png",
+        "tradable": false,
+        "drops": [
+          {
+            "location": "Kosma Gokstad Officer",
+            "type": "Rubedo-Lined Barrel",
+            "chance": 0.0022,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Kosma Gokstad Pilot",
+            "type": "Rubedo-Lined Barrel",
+            "chance": 0.0022,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Exo Gokstad Officer",
+            "type": "Rubedo-Lined Barrel",
+            "chance": 0.0025,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Exo Gokstad Pilot",
+            "type": "Rubedo-Lined Barrel",
+            "chance": 0.0025,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Gyre Gokstad Officer",
+            "type": "Rubedo-Lined Barrel",
+            "chance": 0.0026,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Gyre Gokstad Pilot",
+            "type": "Rubedo-Lined Barrel",
+            "chance": 0.0026,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Exo Eviscerator",
+            "type": "Rubedo-Lined Barrel",
+            "chance": 0.0028,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Exo Supressor",
+            "type": "Rubedo-Lined Barrel",
+            "chance": 0.0028,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Hellion Dargyn",
+            "type": "Rubedo-Lined Barrel",
+            "chance": 0.0138,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Kuva Dargyn",
+            "type": "Rubedo-Lined Barrel",
+            "chance": 0.0138,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Tusk Command Dargyn",
+            "type": "Rubedo-Lined Barrel",
+            "chance": 0.0138,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Tusk Dargyn",
+            "type": "Rubedo-Lined Barrel",
+            "chance": 0.0138,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Tusk Shield Dargyn",
+            "type": "Rubedo-Lined Barrel",
+            "chance": 0.0138,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Locust Drone",
+            "type": "Rubedo-Lined Barrel",
+            "chance": 0.0221,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Uranus/Caelus (Interception), Rotation A",
+            "type": "Rubedo-Lined Barrel",
+            "chance": 0.0251,
+            "rarity": "Rare"
+          }
+        ]
+      }
+    ],
+    "type": "Moa Gyro",
+    "imageName": "hextra-gyro.png",
     "category": "Pets",
     "tradable": false
   },
   {
+    "name": "Hona Bracket",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetLegMelee",
+    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "totalDamage": 0,
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
+    "buildPrice": 50000,
+    "buildTime": 86400,
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetLegMeleeBlueprint",
+        "name": "Blueprint",
+        "description": "",
+        "itemCount": 1,
+        "imageName": "blueprint.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishMuonBatteryItem",
+        "name": "Brickie Muon Battery",
+        "description": "A small, atomic power source.Acquired by disassembling Brickie Servofish.",
+        "itemCount": 15,
+        "imageName": "brickie-muon-battery.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonGemACutItem",
+        "name": "Goblite Tears",
+        "description": "Polished and cut to perfection.",
+        "itemCount": 20,
+        "imageName": "goblite-tears.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/FungusHeartItem",
+        "name": "Mytocardia Spore",
+        "description": "A fungal body prized for its varied uses.",
+        "itemCount": 15,
+        "imageName": "mytocardia-spore.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreAAlloyItem",
+        "name": "Venerdo Alloy",
+        "description": "A compound formed from Venerol.",
+        "itemCount": 40,
+        "imageName": "venerdo-alloy.png",
+        "tradable": false
+      }
+    ],
+    "type": "Moa Bracket",
+    "imageName": "hona-bracket.png",
+    "category": "Pets",
+    "tradable": false,
+    "patchlogs": [
+      {
+        "name": "The Deadlock Protocol: Hotfix 28.0.2",
+        "date": "2020-06-12T00:17:00Z",
+        "url": "https://forums.warframe.com/topic/1199763-the-deadlock-protocol-hotfix-2802/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed the Moa \"Drimper Bracket\" using the same model as the new \"Hona Bracket\" when viewed in Legs’ Shop. "
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Types/Game/KubrowPet/FurtiveKubrowPetPowerSuit",
     "name": "Huras Kubrow",
-    "description": "Prized for its ability to sneak up on unsuspecting prey, the Huras Kubrow were first used as hunting companions by the Orokin elite. Orokin Era Tenno soon adapted the strain for use in covert missions and assassinations.",
     "health": 75,
     "shield": 125,
     "armor": 50,
     "stamina": 8,
     "power": 100,
+    "description": "Prized for its ability to sneak up on unsuspecting prey, the Huras Kubrow were first used as hunting companions by the Orokin elite. Orokin Era Tenno soon adapted the strain for use in covert missions and assassinations.",
+    "productCategory": "KubrowPets",
     "type": "Pets",
     "imageName": "huras-kubrow.png",
+    "category": "Pets",
+    "tradable": false,
+    "patchlogs": [
+      {
+        "name": "Hotfix 16.11.5",
+        "date": "2015-07-15T19:56:44Z",
+        "url": "https://forums.warframe.com/topic/490942-hotfix-16115/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed an issue allowing Shade Sentinel and Huras Kubrow cloaks to stealth players still firing weapons with large magazines."
+      },
+      {
+        "name": "Hotfix 16.0.2",
+        "date": "2015-03-20T23:22:15Z",
+        "url": "https://forums.warframe.com/topic/421728-hotfix-1602/",
+        "additions": "",
+        "changes": "",
+        "fixes": "·         Fixed Huras Kubrow’s Stalk not properly applying to Players."
+      },
+      {
+        "name": "Update 15.2.0",
+        "date": "2014-11-13T01:00:05Z",
+        "url": "https://forums.warframe.com/topic/344505-update-1520/",
+        "additions": "",
+        "changes": "Huras Kubrow Hunt Mod will now prompt Kubrow to pick an enemy near other enemies (since the charge is AoE).\nAdded knockdown to Huras Kubrow charge that should make enemies hit suffer an entertaining knockback.",
+        "fixes": "Fixed issue with Huras Kubrow Hunt Mod where charge would end after 5 frames of no movement.\nFixed issue with Huras Kubrow Hunt Mod where all Kubrow in mission would share the same cooldown recharge time."
+      }
+    ]
+  },
+  {
+    "name": "Ibexan Antigen",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorAntigenC",
+    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "totalDamage": 0,
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "excludeFromCodex": true,
+    "omegaAttenuation": 1,
+    "buildPrice": 1000,
+    "buildTime": 60,
+    "skipBuildTimePrice": 5,
+    "buildQuantity": 1,
+    "consumeOnBuild": false,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
+        "name": "Benign Infested Tumor",
+        "description": "The Infestation infects all fish on Deimos, even those that do not show any external mutations.Guaranteed to drop from all fish on Deimos.",
+        "itemCount": 30,
+        "imageName": "benign-infested-tumor.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Pets/InfestedPredatorAntigenCBlueprint",
+        "name": "Blueprint",
+        "description": "",
+        "itemCount": 1,
+        "imageName": "blueprint.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Game/FishBait/Infested/InfestedFishBaitA",
+        "name": "Fass Residue",
+        "description": "A chunk of the wyrm Fass, collected after his explosive death. Used to attract Glutinox, Ostimyr, and Vitreospina.",
+        "itemCount": 6,
+        "imageName": "fass-residue.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/InfMapricoFruitItem",
+        "name": "Ganglion",
+        "description": "A fallen clump of entangled nerve fibers, redundant organs, and thin sensory membranes.",
+        "itemCount": 15,
+        "imageName": "ganglion.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishCPartItem",
+        "name": "Saturated Muscle Mass",
+        "description": "Environmental contamination is co-responsible for mutations, alongside Infested cellular alteration.Guaranteed to drop from these sources:OSTIMYRKYMAEROS",
+        "itemCount": 15,
+        "imageName": "saturated-muscle-mass.png",
+        "tradable": false
+      }
+    ],
+    "type": "Pet Parts",
+    "imageName": "ibexan-antigen.png",
+    "category": "Pets",
+    "tradable": false
+  },
+  {
+    "name": "Iranon Antigen",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorAntigenB",
+    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "totalDamage": 0,
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "excludeFromCodex": true,
+    "omegaAttenuation": 1,
+    "buildPrice": 1000,
+    "buildTime": 60,
+    "skipBuildTimePrice": 5,
+    "buildQuantity": 1,
+    "consumeOnBuild": false,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
+        "name": "Benign Infested Tumor",
+        "description": "The Infestation infects all fish on Deimos, even those that do not show any external mutations.Guaranteed to drop from all fish on Deimos.",
+        "itemCount": 30,
+        "imageName": "benign-infested-tumor.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Pets/InfestedPredatorAntigenBBlueprint",
+        "name": "Blueprint",
+        "description": "",
+        "itemCount": 1,
+        "imageName": "blueprint.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishBPartItem",
+        "name": "Dendrite Blastoma",
+        "description": "Elements of other lifeforms are detectable in Infested body parts, such as this apparently parasitic clump of land-dwelling animal tissue.Guaranteed to drop from these sources:VITREOSPINABARBISTEO",
+        "itemCount": 15,
+        "imageName": "dendrite-blastoma.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Game/FishBait/Infested/InfestedFishBaitA",
+        "name": "Fass Residue",
+        "description": "A chunk of the wyrm Fass, collected after his explosive death. Used to attract Glutinox, Ostimyr, and Vitreospina.",
+        "itemCount": 6,
+        "imageName": "fass-residue.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/InfMapricoFruitItem",
+        "name": "Ganglion",
+        "description": "A fallen clump of entangled nerve fibers, redundant organs, and thin sensory membranes.",
+        "itemCount": 15,
+        "imageName": "ganglion.png",
+        "tradable": false
+      }
+    ],
+    "type": "Pet Parts",
+    "imageName": "iranon-antigen.png",
+    "category": "Pets",
+    "tradable": false
+  },
+  {
+    "name": "Jonsin Bracket",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetLegC",
+    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "totalDamage": 0,
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
+    "buildPrice": 50000,
+    "buildTime": 86400,
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreBAlloyItem",
+        "name": "Axidrol Alloy",
+        "description": "A compound formed from Axidite.",
+        "itemCount": 40,
+        "imageName": "axidrol-alloy.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetLegCBlueprint",
+        "name": "Blueprint",
+        "description": "",
+        "itemCount": 1,
+        "imageName": "blueprint.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishMuonBatteryItem",
+        "name": "Brickie Muon Battery",
+        "description": "A small, atomic power source.Acquired by disassembling Brickie Servofish.",
+        "itemCount": 15,
+        "imageName": "brickie-muon-battery.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemBCutItem",
+        "name": "Heart Noctrul",
+        "description": "Polished and cut to perfection.",
+        "itemCount": 20,
+        "imageName": "heart-noctrul.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/VenusTreeItem",
+        "name": "Tepa Nodule",
+        "description": "The irradescent nodules on these plants glow brightly in cold environments.",
+        "itemCount": 15,
+        "imageName": "tepa-nodule.png",
+        "tradable": false
+      }
+    ],
+    "type": "Moa Bracket",
+    "imageName": "jonsin-bracket.png",
+    "category": "Pets",
+    "tradable": false
+  },
+  {
+    "name": "Krisys Core",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetEngineKrisys",
+    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "totalDamage": 0,
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
+    "buildPrice": 50000,
+    "buildTime": 86400,
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreBAlloyItem",
+        "name": "Axidrol Alloy",
+        "description": "A compound formed from Axidite.",
+        "itemCount": 25,
+        "imageName": "axidrol-alloy.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetEngineKrisysBlueprint",
+        "name": "Blueprint",
+        "description": "",
+        "itemCount": 1,
+        "imageName": "blueprint.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishMuonBatteryItem",
+        "name": "Brickie Muon Battery",
+        "description": "A small, atomic power source.Acquired by disassembling Brickie Servofish.",
+        "itemCount": 10,
+        "imageName": "brickie-muon-battery.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemBCutItem",
+        "name": "Heart Noctrul",
+        "description": "Polished and cut to perfection.",
+        "itemCount": 15,
+        "imageName": "heart-noctrul.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreAAlloyItem",
+        "name": "Venerdo Alloy",
+        "description": "A compound formed from Venerol.",
+        "itemCount": 25,
+        "imageName": "venerdo-alloy.png",
+        "tradable": false
+      }
+    ],
+    "type": "Moa Core",
+    "imageName": "krisys-core.png",
     "category": "Pets",
     "tradable": false
   },
   {
     "name": "Lambeo Moa",
     "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetHeadLambeo",
+    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "totalDamage": 0,
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
     "buildPrice": 50000,
     "buildTime": 86400,
     "skipBuildTimePrice": 25,
@@ -67,6 +1821,7 @@
       {
         "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetHeadLambeoBlueprint",
         "name": "Blueprint",
+        "description": "",
         "itemCount": 1,
         "imageName": "blueprint.png",
         "tradable": false
@@ -96,130 +1851,112 @@
         "tradable": false,
         "drops": [
           {
-            "location": "Mercury - Terminus",
-            "type": "Mission Rewards",
-            "rarity": "Uncommon",
+            "location": "Neptune/Cephalon Capture (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Annihilation (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Annihilation (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Cephalon Capture (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Cephalon Capture (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Lunaro (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Lunaro (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Team Annihilation (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Team Annihilation (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Variant Annihilation (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Variant Annihilation (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Variant Cephalon Capture (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Variant Cephalon Capture (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Variant Team Annihilation (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Mars/Gradivus (Caches), Rotation C",
+            "type": "Morphics",
             "chance": 0.151,
-            "rotation": "C"
+            "rarity": "Uncommon"
           },
           {
-            "location": "Venus - Ishtar",
-            "type": "Mission Rewards",
-            "rarity": "Uncommon",
+            "location": "Mercury/Neruda (Caches), Rotation C",
+            "type": "Morphics",
             "chance": 0.151,
-            "rotation": "C"
+            "rarity": "Uncommon"
           },
           {
-            "location": "Mars - Gradivus",
-            "type": "Mission Rewards",
-            "rarity": "Uncommon",
+            "location": "Mercury/Terminus (Caches), Rotation C",
+            "type": "Morphics",
             "chance": 0.151,
-            "rotation": "C"
+            "rarity": "Uncommon"
           },
           {
-            "location": "Mercury - Neruda",
-            "type": "Mission Rewards",
-            "rarity": "Uncommon",
+            "location": "Venus/Ishtar (Caches), Rotation C",
+            "type": "Morphics",
             "chance": 0.151,
-            "rotation": "C"
-          },
-          {
-            "location": "Saturn - Cephalon",
-            "type": "Mission Rewards",
-            "rarity": "Legendary",
-            "chance": 0.0025,
-            "rotation": "rewards"
-          },
-          {
-            "location": "Saturn - Cephalon",
-            "type": "Mission Rewards",
-            "rarity": "Legendary",
-            "chance": 0.0025,
-            "rotation": "(Extra)"
-          },
-          {
-            "location": "Saturn - Team",
-            "type": "Mission Rewards",
-            "rarity": "Legendary",
-            "chance": 0.0025,
-            "rotation": "rewards"
-          },
-          {
-            "location": "Saturn - Team",
-            "type": "Mission Rewards",
-            "rarity": "Legendary",
-            "chance": 0.0025,
-            "rotation": "(Extra)"
-          },
-          {
-            "location": "Saturn - Annihilation",
-            "type": "Mission Rewards",
-            "rarity": "Legendary",
-            "chance": 0.0025,
-            "rotation": "B"
-          },
-          {
-            "location": "Neptune - Cephalon",
-            "type": "Mission Rewards",
-            "rarity": "Legendary",
-            "chance": 0.0025,
-            "rotation": "rewards"
-          },
-          {
-            "location": "Saturn - Lunaro",
-            "type": "Mission Rewards",
-            "rarity": "Legendary",
-            "chance": 0.0025,
-            "rotation": "rewards"
-          },
-          {
-            "location": "Saturn - Lunaro",
-            "type": "Mission Rewards",
-            "rarity": "Legendary",
-            "chance": 0.0025,
-            "rotation": "(Extra)"
-          },
-          {
-            "location": "Saturn - Variant",
-            "type": "Mission Rewards",
-            "rarity": "Legendary",
-            "chance": 0.0025,
-            "rotation": "Capture"
-          },
-          {
-            "location": "Saturn - Variant",
-            "type": "Mission Rewards",
-            "rarity": "Legendary",
-            "chance": 0.0025,
-            "rotation": "Capture"
-          },
-          {
-            "location": "Saturn - Variant",
-            "type": "Mission Rewards",
-            "rarity": "Legendary",
-            "chance": 0.0025,
-            "rotation": "Annihilation"
-          },
-          {
-            "location": "Saturn - Variant",
-            "type": "Mission Rewards",
-            "rarity": "Legendary",
-            "chance": 0.0025,
-            "rotation": "rewards"
-          },
-          {
-            "location": "Saturn - Variant",
-            "type": "Mission Rewards",
-            "rarity": "Legendary",
-            "chance": 0.0025,
-            "rotation": "(Extra)"
-          },
-          {
-            "location": "Saturn - Annihilation",
-            "type": "Mission Rewards",
-            "rarity": "Legendary",
-            "chance": 0.0025,
-            "rotation": "rewards"
+            "rarity": "Uncommon"
           }
         ]
       },
@@ -238,8 +1975,415 @@
     "tradable": false
   },
   {
+    "name": "Leptosam Mutagen",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorMutagenA",
+    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "totalDamage": 0,
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "excludeFromCodex": true,
+    "omegaAttenuation": 1,
+    "buildPrice": 1000,
+    "buildTime": 60,
+    "skipBuildTimePrice": 5,
+    "buildQuantity": 1,
+    "consumeOnBuild": false,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Pets/InfestedPredatorMutagenABlueprint",
+        "name": "Blueprint",
+        "description": "",
+        "itemCount": 1,
+        "imageName": "blueprint.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericInfestedFishPartItem",
+        "name": "Ferment Bladder",
+        "description": "Many Deimos fish secrete reagents in a pouchlike organ, creating volatile gases that enable limited periods of levitation. Guaranteed to drop from these sources:OSTIMYRAQUAPULMOVITREOSPINACRYPTOSUCTUSBARBISTEOKYMAEROSAMNIOPHYSIGLUTINOX",
+        "itemCount": 20,
+        "imageName": "ferment-bladder.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/InfGorgaricusSeedItem",
+        "name": "Pustulite",
+        "description": "Half-formed, incomplete spore bearers, little more than twitching flesh with claws to latch on with.",
+        "itemCount": 15,
+        "imageName": "pustulite.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishEPartItem",
+        "name": "Sporulate Sac",
+        "description": "These pressurized repositories of Infested spores require careful extraction or explosive rupture and local contamination may occur.Source:GLUTINOX",
+        "itemCount": 12,
+        "imageName": "sporulate-sac.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Game/FishBait/Infested/OrokinFishBaitA",
+        "name": "Vome Residue",
+        "description": "A gobbet of raw flesh, fallen from the wyrm Vome in her death spasm. Used to attract Chondricord and Duroid.",
+        "itemCount": 6,
+        "imageName": "vome-residue.png",
+        "tradable": false
+      }
+    ],
+    "type": "Pet Parts",
+    "imageName": "leptosam-mutagen.png",
+    "category": "Pets",
+    "tradable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/MedjayPredatorKubrowPetPowerSuit",
+    "name": "Medjay Predasite",
+    "health": 95,
+    "shield": 90,
+    "armor": 50,
+    "stamina": 8,
+    "power": 100,
+    "description": "These hard-charging, four-legged predators make formidable companions when in the field.",
+    "productCategory": "KubrowPets",
+    "type": "Pets",
+    "imageName": "medjay-predasite.png",
+    "category": "Pets",
+    "tradable": false
+  },
+  {
+    "name": "Monachod Mutagen",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorMutagenD",
+    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "totalDamage": 0,
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "excludeFromCodex": true,
+    "omegaAttenuation": 1,
+    "buildPrice": 1000,
+    "buildTime": 60,
+    "skipBuildTimePrice": 5,
+    "buildQuantity": 1,
+    "consumeOnBuild": false,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Pets/InfestedPredatorMutagenDBlueprint",
+        "name": "Blueprint",
+        "description": "",
+        "itemCount": 1,
+        "imageName": "blueprint.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishCPartItem",
+        "name": "Cranial Foremount",
+        "description": "Beneath the membranous protein layers can be found a secondary 'skull'; flexible, tough and highly conductive.Source:MYXOSTOMATA",
+        "itemCount": 4,
+        "imageName": "cranial-foremount.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/InfGorgaricusSeedItem",
+        "name": "Pustulite",
+        "description": "Half-formed, incomplete spore bearers, little more than twitching flesh with claws to latch on with.",
+        "itemCount": 15,
+        "imageName": "pustulite.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericOrokinFishPartItem",
+        "name": "Tubercular Gill System",
+        "description": "Adaptive membranes allow many Deimos fish to move freely between fluid and gaseous environments.Guaranteed to drop from these sources:OSTIMYRAQUAPULMOVITREOSPINAMYXOSTOMATADUROID",
+        "itemCount": 20,
+        "imageName": "tubercular-gill-system.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Game/FishBait/Infested/OrokinFishBaitA",
+        "name": "Vome Residue",
+        "description": "A gobbet of raw flesh, fallen from the wyrm Vome in her death spasm. Used to attract Chondricord and Duroid.",
+        "itemCount": 6,
+        "imageName": "vome-residue.png",
+        "tradable": false
+      }
+    ],
+    "type": "Pet Parts",
+    "imageName": "monachod-mutagen.png",
+    "category": "Pets",
+    "tradable": false
+  },
+  {
+    "name": "Munit Gyro",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadMunitron",
+    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "totalDamage": 0,
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
+    "buildPrice": 50000,
+    "buildTime": 86400,
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetPayloadMunitronBlueprint",
+        "name": "Blueprint",
+        "description": "",
+        "itemCount": 1,
+        "imageName": "blueprint.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
+        "name": "Circuits",
+        "description": "Various electronic components.Locations: Venus, Ceres, and the Kuva Fortress.",
+        "itemCount": 1000,
+        "imageName": "circuits.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemBCutItem",
+        "name": "Heart Noctrul",
+        "description": "Polished and cut to perfection.",
+        "itemCount": 5,
+        "imageName": "heart-noctrul.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/FungusHeartItem",
+        "name": "Mytocardia Spore",
+        "description": "A fungal body prized for its varied uses.",
+        "itemCount": 20,
+        "imageName": "mytocardia-spore.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishExaBrainItem",
+        "name": "Scrubber Exa Brain",
+        "description": "A small, electronic brain capable of processing a billion giga-threads per second.Acquired by disassembling Scrubber Servofish.",
+        "itemCount": 10,
+        "imageName": "scrubber-exa-brain.png",
+        "tradable": false
+      }
+    ],
+    "type": "Moa Gyro",
+    "imageName": "munit-gyro.png",
+    "category": "Pets",
+    "tradable": false
+  },
+  {
+    "name": "Nychus Moa",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetHeadMelee",
+    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "totalDamage": 0,
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
+    "buildPrice": 50000,
+    "buildTime": 86400,
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetHeadMeleeBlueprint",
+        "name": "Blueprint",
+        "description": "",
+        "itemCount": 1,
+        "imageName": "blueprint.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonGemACutItem",
+        "name": "Goblite Tears",
+        "description": "Polished and cut to perfection.",
+        "itemCount": 10,
+        "imageName": "goblite-tears.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/VenusCoconutItem",
+        "name": "Gorgaricus Spore",
+        "description": "The reproductive spore of the giant Vallis fungi is highly coveted for the complex chemical compounds it contains.",
+        "itemCount": 20,
+        "imageName": "gorgaricus-spore.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
+        "name": "Morphics",
+        "description": "An amorphous solid. Possibly Orokin technology.Locations: Mercury, Mars, Phobos, Europa, and Pluto.",
+        "itemCount": 2,
+        "imageName": "morphics.png",
+        "tradable": false,
+        "drops": [
+          {
+            "location": "Neptune/Cephalon Capture (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Annihilation (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Annihilation (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Cephalon Capture (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Cephalon Capture (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Lunaro (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Lunaro (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Team Annihilation (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Team Annihilation (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Variant Annihilation (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Variant Annihilation (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Variant Cephalon Capture (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Variant Cephalon Capture (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Variant Team Annihilation (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Mars/Gradivus (Caches), Rotation C",
+            "type": "Morphics",
+            "chance": 0.151,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Mercury/Neruda (Caches), Rotation C",
+            "type": "Morphics",
+            "chance": 0.151,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Mercury/Terminus (Caches), Rotation C",
+            "type": "Morphics",
+            "chance": 0.151,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Venus/Ishtar (Caches), Rotation C",
+            "type": "Morphics",
+            "chance": 0.151,
+            "rarity": "Uncommon"
+          }
+        ]
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreAAlloyItem",
+        "name": "Venerdo Alloy",
+        "description": "A compound formed from Venerol.",
+        "itemCount": 20,
+        "imageName": "venerdo-alloy.png",
+        "tradable": false
+      }
+    ],
+    "type": "Pets",
+    "imageName": "nychus-moa.png",
+    "category": "Pets",
+    "tradable": false,
+    "patchlogs": [
+      {
+        "name": "The Deadlock Protocol: Hotfix 28.0.5",
+        "date": "2020-06-17T18:01:28Z",
+        "url": "https://forums.warframe.com/topic/1201526-the-deadlock-protocol-hotfix-2805/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed Nychus Moa description having old Precept names. "
+      }
+    ]
+  },
+  {
     "name": "Oloro Moa",
     "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetHeadOloro",
+    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "totalDamage": 0,
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
     "buildPrice": 50000,
     "buildTime": 86400,
     "skipBuildTimePrice": 25,
@@ -249,6 +2393,7 @@
       {
         "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetHeadOloroBlueprint",
         "name": "Blueprint",
+        "description": "",
         "itemCount": 1,
         "imageName": "blueprint.png",
         "tradable": false
@@ -270,130 +2415,112 @@
         "tradable": false,
         "drops": [
           {
-            "location": "Mercury - Terminus",
-            "type": "Mission Rewards",
-            "rarity": "Uncommon",
+            "location": "Neptune/Cephalon Capture (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Annihilation (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Annihilation (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Cephalon Capture (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Cephalon Capture (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Lunaro (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Lunaro (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Team Annihilation (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Team Annihilation (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Variant Annihilation (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Variant Annihilation (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Variant Cephalon Capture (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Variant Cephalon Capture (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Variant Team Annihilation (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Mars/Gradivus (Caches), Rotation C",
+            "type": "Morphics",
             "chance": 0.151,
-            "rotation": "C"
+            "rarity": "Uncommon"
           },
           {
-            "location": "Venus - Ishtar",
-            "type": "Mission Rewards",
-            "rarity": "Uncommon",
+            "location": "Mercury/Neruda (Caches), Rotation C",
+            "type": "Morphics",
             "chance": 0.151,
-            "rotation": "C"
+            "rarity": "Uncommon"
           },
           {
-            "location": "Mars - Gradivus",
-            "type": "Mission Rewards",
-            "rarity": "Uncommon",
+            "location": "Mercury/Terminus (Caches), Rotation C",
+            "type": "Morphics",
             "chance": 0.151,
-            "rotation": "C"
+            "rarity": "Uncommon"
           },
           {
-            "location": "Mercury - Neruda",
-            "type": "Mission Rewards",
-            "rarity": "Uncommon",
+            "location": "Venus/Ishtar (Caches), Rotation C",
+            "type": "Morphics",
             "chance": 0.151,
-            "rotation": "C"
-          },
-          {
-            "location": "Saturn - Cephalon",
-            "type": "Mission Rewards",
-            "rarity": "Legendary",
-            "chance": 0.0025,
-            "rotation": "rewards"
-          },
-          {
-            "location": "Saturn - Cephalon",
-            "type": "Mission Rewards",
-            "rarity": "Legendary",
-            "chance": 0.0025,
-            "rotation": "(Extra)"
-          },
-          {
-            "location": "Saturn - Team",
-            "type": "Mission Rewards",
-            "rarity": "Legendary",
-            "chance": 0.0025,
-            "rotation": "rewards"
-          },
-          {
-            "location": "Saturn - Team",
-            "type": "Mission Rewards",
-            "rarity": "Legendary",
-            "chance": 0.0025,
-            "rotation": "(Extra)"
-          },
-          {
-            "location": "Saturn - Annihilation",
-            "type": "Mission Rewards",
-            "rarity": "Legendary",
-            "chance": 0.0025,
-            "rotation": "B"
-          },
-          {
-            "location": "Neptune - Cephalon",
-            "type": "Mission Rewards",
-            "rarity": "Legendary",
-            "chance": 0.0025,
-            "rotation": "rewards"
-          },
-          {
-            "location": "Saturn - Lunaro",
-            "type": "Mission Rewards",
-            "rarity": "Legendary",
-            "chance": 0.0025,
-            "rotation": "rewards"
-          },
-          {
-            "location": "Saturn - Lunaro",
-            "type": "Mission Rewards",
-            "rarity": "Legendary",
-            "chance": 0.0025,
-            "rotation": "(Extra)"
-          },
-          {
-            "location": "Saturn - Variant",
-            "type": "Mission Rewards",
-            "rarity": "Legendary",
-            "chance": 0.0025,
-            "rotation": "Capture"
-          },
-          {
-            "location": "Saturn - Variant",
-            "type": "Mission Rewards",
-            "rarity": "Legendary",
-            "chance": 0.0025,
-            "rotation": "Capture"
-          },
-          {
-            "location": "Saturn - Variant",
-            "type": "Mission Rewards",
-            "rarity": "Legendary",
-            "chance": 0.0025,
-            "rotation": "Annihilation"
-          },
-          {
-            "location": "Saturn - Variant",
-            "type": "Mission Rewards",
-            "rarity": "Legendary",
-            "chance": 0.0025,
-            "rotation": "rewards"
-          },
-          {
-            "location": "Saturn - Variant",
-            "type": "Mission Rewards",
-            "rarity": "Legendary",
-            "chance": 0.0025,
-            "rotation": "(Extra)"
-          },
-          {
-            "location": "Saturn - Annihilation",
-            "type": "Mission Rewards",
-            "rarity": "Legendary",
-            "chance": 0.0025,
-            "rotation": "rewards"
+            "rarity": "Uncommon"
           }
         ]
       },
@@ -403,7 +2530,15 @@
         "description": "A by-product from the Weeping Towers terraforming processes.",
         "itemCount": 20,
         "imageName": "thermal-sludge.png",
-        "tradable": false
+        "tradable": false,
+        "drops": [
+          {
+            "location": "Thermal Sludge Cannister",
+            "type": "Thermal Sludge",
+            "chance": 1,
+            "rarity": "Common"
+          }
+        ]
       },
       {
         "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreAAlloyItem",
@@ -420,8 +2555,33 @@
     "tradable": false
   },
   {
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/ArmoredInfestedCatbrowPetPowerSuit",
+    "name": "Panzer Vulpaphyla",
+    "health": 90,
+    "shield": 95,
+    "armor": 50,
+    "stamina": 8,
+    "power": 100,
+    "description": "Fast and foxy, Vulpaphyla are agile allies to bring along on your next adventure.",
+    "productCategory": "KubrowPets",
+    "type": "Pets",
+    "imageName": "panzer-vulpaphyla.png",
+    "category": "Pets",
+    "tradable": false
+  },
+  {
     "name": "Para Moa",
     "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetHeadPara",
+    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "totalDamage": 0,
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
     "buildPrice": 50000,
     "buildTime": 86400,
     "skipBuildTimePrice": 25,
@@ -439,6 +2599,7 @@
       {
         "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetHeadParaBlueprint",
         "name": "Blueprint",
+        "description": "",
         "itemCount": 1,
         "imageName": "blueprint.png",
         "tradable": false
@@ -452,130 +2613,112 @@
         "tradable": false,
         "drops": [
           {
-            "location": "Mercury - Terminus",
-            "type": "Mission Rewards",
-            "rarity": "Uncommon",
+            "location": "Neptune/Cephalon Capture (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Annihilation (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Annihilation (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Cephalon Capture (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Cephalon Capture (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Lunaro (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Lunaro (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Team Annihilation (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Team Annihilation (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Variant Annihilation (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Variant Annihilation (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Variant Cephalon Capture (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Variant Cephalon Capture (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Saturn/Variant Team Annihilation (Conclave), Rotation B",
+            "type": "Morphics",
+            "chance": 0.0025,
+            "rarity": "Legendary"
+          },
+          {
+            "location": "Mars/Gradivus (Caches), Rotation C",
+            "type": "Morphics",
             "chance": 0.151,
-            "rotation": "C"
+            "rarity": "Uncommon"
           },
           {
-            "location": "Venus - Ishtar",
-            "type": "Mission Rewards",
-            "rarity": "Uncommon",
+            "location": "Mercury/Neruda (Caches), Rotation C",
+            "type": "Morphics",
             "chance": 0.151,
-            "rotation": "C"
+            "rarity": "Uncommon"
           },
           {
-            "location": "Mars - Gradivus",
-            "type": "Mission Rewards",
-            "rarity": "Uncommon",
+            "location": "Mercury/Terminus (Caches), Rotation C",
+            "type": "Morphics",
             "chance": 0.151,
-            "rotation": "C"
+            "rarity": "Uncommon"
           },
           {
-            "location": "Mercury - Neruda",
-            "type": "Mission Rewards",
-            "rarity": "Uncommon",
+            "location": "Venus/Ishtar (Caches), Rotation C",
+            "type": "Morphics",
             "chance": 0.151,
-            "rotation": "C"
-          },
-          {
-            "location": "Saturn - Cephalon",
-            "type": "Mission Rewards",
-            "rarity": "Legendary",
-            "chance": 0.0025,
-            "rotation": "rewards"
-          },
-          {
-            "location": "Saturn - Cephalon",
-            "type": "Mission Rewards",
-            "rarity": "Legendary",
-            "chance": 0.0025,
-            "rotation": "(Extra)"
-          },
-          {
-            "location": "Saturn - Team",
-            "type": "Mission Rewards",
-            "rarity": "Legendary",
-            "chance": 0.0025,
-            "rotation": "rewards"
-          },
-          {
-            "location": "Saturn - Team",
-            "type": "Mission Rewards",
-            "rarity": "Legendary",
-            "chance": 0.0025,
-            "rotation": "(Extra)"
-          },
-          {
-            "location": "Saturn - Annihilation",
-            "type": "Mission Rewards",
-            "rarity": "Legendary",
-            "chance": 0.0025,
-            "rotation": "B"
-          },
-          {
-            "location": "Neptune - Cephalon",
-            "type": "Mission Rewards",
-            "rarity": "Legendary",
-            "chance": 0.0025,
-            "rotation": "rewards"
-          },
-          {
-            "location": "Saturn - Lunaro",
-            "type": "Mission Rewards",
-            "rarity": "Legendary",
-            "chance": 0.0025,
-            "rotation": "rewards"
-          },
-          {
-            "location": "Saturn - Lunaro",
-            "type": "Mission Rewards",
-            "rarity": "Legendary",
-            "chance": 0.0025,
-            "rotation": "(Extra)"
-          },
-          {
-            "location": "Saturn - Variant",
-            "type": "Mission Rewards",
-            "rarity": "Legendary",
-            "chance": 0.0025,
-            "rotation": "Capture"
-          },
-          {
-            "location": "Saturn - Variant",
-            "type": "Mission Rewards",
-            "rarity": "Legendary",
-            "chance": 0.0025,
-            "rotation": "Capture"
-          },
-          {
-            "location": "Saturn - Variant",
-            "type": "Mission Rewards",
-            "rarity": "Legendary",
-            "chance": 0.0025,
-            "rotation": "Annihilation"
-          },
-          {
-            "location": "Saturn - Variant",
-            "type": "Mission Rewards",
-            "rarity": "Legendary",
-            "chance": 0.0025,
-            "rotation": "rewards"
-          },
-          {
-            "location": "Saturn - Variant",
-            "type": "Mission Rewards",
-            "rarity": "Legendary",
-            "chance": 0.0025,
-            "rotation": "(Extra)"
-          },
-          {
-            "location": "Saturn - Annihilation",
-            "type": "Mission Rewards",
-            "rarity": "Legendary",
-            "chance": 0.0025,
-            "rotation": "rewards"
+            "rarity": "Uncommon"
           }
         ]
       },
@@ -602,81 +2745,1024 @@
     "tradable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Game/KubrowPet/GuardKubrowPetPowerSuit",
-    "name": "Raksa Kubrow",
-    "description": "Designed by the Orokin to be the perfect companion, a Kubrow was never far from its master's side. Loyal and obedient, these creatures made ideal bodyguards. Equipped with shield generators for added protection, their fierce growl could paralyze any attacker with fear.",
-    "health": 100,
-    "shield": 100,
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/PharaohPredatorKubrowPetPowerSuit",
+    "name": "Pharaoh Predasite",
+    "health": 95,
+    "shield": 90,
     "armor": 50,
     "stamina": 8,
     "power": 100,
+    "description": "These hard-charging, four-legged predators make formidable companions when in the field.",
+    "productCategory": "KubrowPets",
     "type": "Pets",
-    "imageName": "raksa-kubrow.png",
+    "imageName": "pharaoh-predasite.png",
     "category": "Pets",
     "tradable": false
   },
   {
-    "uniqueName": "/Lotus/Types/Game/KubrowPet/AdventurerKubrowPetPowerSuit",
-    "name": "Sahasa Kubrow",
-    "description": "Enterprising Orokin genetic designers recognized that the Kubrow's affinity for games of fetch could be used for more serious endeavors. They soon developed a strain adept at reconnaissance and contraband recovery. Tenno often used the creatures to help resupply while in the field.",
-    "health": 125,
-    "shield": 75,
-    "armor": 50,
-    "stamina": 8,
-    "power": 100,
-    "buildPrice": 0,
-    "buildTime": 172800,
-    "skipBuildTimePrice": 15,
+    "name": "Phazor Gyro",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadTazron",
+    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "totalDamage": 0,
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
+    "buildPrice": 50000,
+    "buildTime": 86400,
+    "skipBuildTimePrice": 25,
     "buildQuantity": 1,
-    "consumeOnBuild": false,
+    "consumeOnBuild": true,
     "components": [
       {
-        "uniqueName": "/Lotus/Types/Game/KubrowPet/KubrowPetRecipe",
+        "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetPayloadTazronBlueprint",
         "name": "Blueprint",
-        "description": "Enterprising Orokin genetic designers recognized that the Kubrow's affinity for games of fetch could be used for more serious endeavors. They soon developed a strain adept at reconnaissance and contraband recovery. Tenno often used the creatures to help resupply while in the field.",
+        "description": "",
         "itemCount": 1,
         "imageName": "blueprint.png",
         "tradable": false
       },
       {
-        "uniqueName": "/Lotus/Types/Game/KubrowPet/EggHatcher",
-        "name": "Incubator Power Core",
-        "description": "This device facilitates the growth of a Kubrow clone, from birth to puppyhood.",
-        "itemCount": 1,
-        "imageName": "incubator-power-core.png",
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonGemACutItem",
+        "name": "Goblite Tears",
+        "description": "Polished and cut to perfection.",
+        "itemCount": 5,
+        "imageName": "goblite-tears.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/VenusCoconutItem",
+        "name": "Gorgaricus Spore",
+        "description": "The reproductive spore of the giant Vallis fungi is highly coveted for the complex chemical compounds it contains.",
+        "itemCount": 20,
+        "imageName": "gorgaricus-spore.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+        "name": "Rubedo",
+        "description": "A jagged crystalline ore. Gives off radiant energy.Locations: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void.",
+        "itemCount": 1000,
+        "imageName": "rubedo.png",
+        "tradable": false,
+        "drops": [
+          {
+            "location": "Kosma Gokstad Officer",
+            "type": "Rubedo-Lined Barrel",
+            "chance": 0.0022,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Kosma Gokstad Pilot",
+            "type": "Rubedo-Lined Barrel",
+            "chance": 0.0022,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Exo Gokstad Officer",
+            "type": "Rubedo-Lined Barrel",
+            "chance": 0.0025,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Exo Gokstad Pilot",
+            "type": "Rubedo-Lined Barrel",
+            "chance": 0.0025,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Gyre Gokstad Officer",
+            "type": "Rubedo-Lined Barrel",
+            "chance": 0.0026,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Gyre Gokstad Pilot",
+            "type": "Rubedo-Lined Barrel",
+            "chance": 0.0026,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Exo Eviscerator",
+            "type": "Rubedo-Lined Barrel",
+            "chance": 0.0028,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Exo Supressor",
+            "type": "Rubedo-Lined Barrel",
+            "chance": 0.0028,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Hellion Dargyn",
+            "type": "Rubedo-Lined Barrel",
+            "chance": 0.0138,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Kuva Dargyn",
+            "type": "Rubedo-Lined Barrel",
+            "chance": 0.0138,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Tusk Command Dargyn",
+            "type": "Rubedo-Lined Barrel",
+            "chance": 0.0138,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Tusk Dargyn",
+            "type": "Rubedo-Lined Barrel",
+            "chance": 0.0138,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Tusk Shield Dargyn",
+            "type": "Rubedo-Lined Barrel",
+            "chance": 0.0138,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Locust Drone",
+            "type": "Rubedo-Lined Barrel",
+            "chance": 0.0221,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Uranus/Caelus (Interception), Rotation A",
+            "type": "Rubedo-Lined Barrel",
+            "chance": 0.0251,
+            "rarity": "Rare"
+          }
+        ]
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishVenedoCaseItem",
+        "name": "Sapcaddy Venedo Case",
+        "description": "A strong, metallic case that is resistant to fluctuations in environmental temperature.Acquired by disassembling Sapcaddy Servofish.",
+        "itemCount": 10,
+        "imageName": "sapcaddy-venedo-case.png",
         "tradable": false
       }
     ],
+    "type": "Moa Gyro",
+    "imageName": "phazor-gyro.png",
+    "category": "Pets",
+    "tradable": false
+  },
+  {
+    "name": "Phijar Mutagen",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterMutagenD",
+    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "totalDamage": 0,
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "excludeFromCodex": true,
+    "omegaAttenuation": 1,
+    "buildPrice": 1000,
+    "buildTime": 60,
+    "skipBuildTimePrice": 5,
+    "buildQuantity": 1,
+    "consumeOnBuild": false,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Pets/InfestedCritterMutagenDBlueprint",
+        "name": "Blueprint",
+        "description": "",
+        "itemCount": 1,
+        "imageName": "blueprint.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishCPartItem",
+        "name": "Cranial Foremount",
+        "description": "Beneath the membranous protein layers can be found a secondary 'skull'; flexible, tough and highly conductive.Source:MYXOSTOMATA",
+        "itemCount": 4,
+        "imageName": "cranial-foremount.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/InfGorgaricusSeedItem",
+        "name": "Pustulite",
+        "description": "Half-formed, incomplete spore bearers, little more than twitching flesh with claws to latch on with.",
+        "itemCount": 15,
+        "imageName": "pustulite.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericOrokinFishPartItem",
+        "name": "Tubercular Gill System",
+        "description": "Adaptive membranes allow many Deimos fish to move freely between fluid and gaseous environments.Guaranteed to drop from these sources:OSTIMYRAQUAPULMOVITREOSPINAMYXOSTOMATADUROID",
+        "itemCount": 20,
+        "imageName": "tubercular-gill-system.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Game/FishBait/Infested/OrokinFishBaitA",
+        "name": "Vome Residue",
+        "description": "A gobbet of raw flesh, fallen from the wyrm Vome in her death spasm. Used to attract Chondricord and Duroid.",
+        "itemCount": 6,
+        "imageName": "vome-residue.png",
+        "tradable": false
+      }
+    ],
+    "type": "Pet Parts",
+    "imageName": "phijar-mutagen.png",
+    "category": "Pets",
+    "tradable": false
+  },
+  {
+    "name": "Plagen Antigen",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterAntigenC",
+    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "totalDamage": 0,
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "excludeFromCodex": true,
+    "omegaAttenuation": 1,
+    "buildPrice": 1000,
+    "buildTime": 60,
+    "skipBuildTimePrice": 5,
+    "buildQuantity": 1,
+    "consumeOnBuild": false,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
+        "name": "Benign Infested Tumor",
+        "description": "The Infestation infects all fish on Deimos, even those that do not show any external mutations.Guaranteed to drop from all fish on Deimos.",
+        "itemCount": 30,
+        "imageName": "benign-infested-tumor.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Pets/InfestedCritterAntigenCBlueprint",
+        "name": "Blueprint",
+        "description": "",
+        "itemCount": 1,
+        "imageName": "blueprint.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Game/FishBait/Infested/InfestedFishBaitA",
+        "name": "Fass Residue",
+        "description": "A chunk of the wyrm Fass, collected after his explosive death. Used to attract Glutinox, Ostimyr, and Vitreospina.",
+        "itemCount": 6,
+        "imageName": "fass-residue.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/InfMapricoFruitItem",
+        "name": "Ganglion",
+        "description": "A fallen clump of entangled nerve fibers, redundant organs, and thin sensory membranes.",
+        "itemCount": 15,
+        "imageName": "ganglion.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishCPartItem",
+        "name": "Saturated Muscle Mass",
+        "description": "Environmental contamination is co-responsible for mutations, alongside Infested cellular alteration.Guaranteed to drop from these sources:OSTIMYRKYMAEROS",
+        "itemCount": 15,
+        "imageName": "saturated-muscle-mass.png",
+        "tradable": false
+      }
+    ],
+    "type": "Pet Parts",
+    "imageName": "plagen-antigen.png",
+    "category": "Pets",
+    "tradable": false
+  },
+  {
+    "name": "Poxi Antigen",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterAntigenD",
+    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "totalDamage": 0,
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "excludeFromCodex": true,
+    "omegaAttenuation": 1,
+    "buildPrice": 1000,
+    "buildTime": 60,
+    "skipBuildTimePrice": 5,
+    "buildQuantity": 1,
+    "consumeOnBuild": false,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
+        "name": "Benign Infested Tumor",
+        "description": "The Infestation infects all fish on Deimos, even those that do not show any external mutations.Guaranteed to drop from all fish on Deimos.",
+        "itemCount": 30,
+        "imageName": "benign-infested-tumor.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Pets/InfestedCritterAntigenDBlueprint",
+        "name": "Blueprint",
+        "description": "",
+        "itemCount": 1,
+        "imageName": "blueprint.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Game/FishBait/Infested/InfestedFishBaitA",
+        "name": "Fass Residue",
+        "description": "A chunk of the wyrm Fass, collected after his explosive death. Used to attract Glutinox, Ostimyr, and Vitreospina.",
+        "itemCount": 6,
+        "imageName": "fass-residue.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/InfMapricoFruitItem",
+        "name": "Ganglion",
+        "description": "A fallen clump of entangled nerve fibers, redundant organs, and thin sensory membranes.",
+        "itemCount": 15,
+        "imageName": "ganglion.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishDPartItem",
+        "name": "Waxen Sebum Deposit",
+        "description": "Remnants of creatures' original bodily fluids persist post-Infestation, often crystalized or congealed into entirely new compounds.Source:AMNIOPHYSI",
+        "itemCount": 15,
+        "imageName": "waxen-sebum-deposit.png",
+        "tradable": false
+      }
+    ],
+    "type": "Pet Parts",
+    "imageName": "poxi-antigen.png",
+    "category": "Pets",
+    "tradable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/KubrowPet/GuardKubrowPetPowerSuit",
+    "name": "Raksa Kubrow",
+    "health": 100,
+    "shield": 100,
+    "armor": 50,
+    "stamina": 8,
+    "power": 100,
+    "description": "Designed by the Orokin to be the perfect companion, a Kubrow was never far from its master's side. Loyal and obedient, these creatures made ideal bodyguards. Equipped with shield generators for added protection, their fierce growl could paralyze any attacker with fear.",
+    "productCategory": "KubrowPets",
+    "type": "Pets",
+    "imageName": "raksa-kubrow.png",
+    "category": "Pets",
+    "tradable": false,
+    "patchlogs": [
+      {
+        "name": "Update 17: Echoes Of The Sentient",
+        "date": "2015-07-31T15:09:25Z",
+        "url": "https://forums.warframe.com/topic/498793-update-17-echoes-of-the-sentient/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed the Raksa Kubrow’s Howl sometimes not playing."
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/KubrowPet/AdventurerKubrowPetPowerSuit",
+    "name": "Sahasa Kubrow",
+    "health": 125,
+    "shield": 75,
+    "armor": 50,
+    "stamina": 8,
+    "power": 100,
+    "description": "Enterprising Orokin genetic designers recognized that the Kubrow's affinity for games of fetch could be used for more serious endeavors. They soon developed a strain adept at reconnaissance and contraband recovery. Tenno often used the creatures to help resupply while in the field.",
+    "productCategory": "KubrowPets",
     "type": "Pets",
     "imageName": "sahasa-kubrow.png",
+    "category": "Pets",
+    "tradable": false,
+    "patchlogs": [
+      {
+        "name": "The Sacrifice: Update 23.4.0",
+        "date": "2018-08-16T21:06:52Z",
+        "url": "https://forums.warframe.com/topic/998116-the-sacrifice-update-2340/",
+        "additions": "",
+        "changes": "Made some micro-optimizations to the Sahasa Kubrow Dig Precept.",
+        "fixes": ""
+      },
+      {
+        "name": "Beasts of the Sanctuary: Update 22.19.0",
+        "date": "2018-05-02T18:30:06Z",
+        "url": "https://forums.warframe.com/topic/952702-beasts-of-the-sanctuary-update-22190/",
+        "additions": "",
+        "changes": "Sahasa Kubrows can no longer dig up Resources in Onslaught.",
+        "fixes": ""
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/VulpineInfestedCatbrowPetPowerSuit",
+    "name": "Sly Vulpaphyla",
+    "health": 90,
+    "shield": 95,
+    "armor": 50,
+    "stamina": 8,
+    "power": 100,
+    "description": "Fast and foxy, Vulpaphyla are agile allies to bring along on your next adventure.",
+    "productCategory": "KubrowPets",
+    "type": "Pets",
+    "imageName": "sly-vulpaphyla.png",
     "category": "Pets",
     "tradable": false
   },
   {
     "uniqueName": "/Lotus/Types/Game/CatbrowPet/CheshireCatbrowPetPowerSuit",
     "name": "Smeeta Kavat",
-    "description": "This sly feline is playful yet devious.",
     "health": 50,
     "shield": 60,
     "armor": 50,
     "stamina": 8,
     "power": 100,
+    "description": "This sly feline is playful yet devious.",
+    "productCategory": "KubrowPets",
     "type": "Pets",
     "imageName": "smeeta-kavat.png",
     "category": "Pets",
-    "tradable": false
+    "tradable": false,
+    "patchlogs": [
+      {
+        "name": "Scarlet Spear: 27.3.15 + 27.3.15.1",
+        "date": "2020-04-17T17:31:25Z",
+        "url": "https://forums.warframe.com/topic/1185940-scarlet-spear-27315-273151/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed a script error with Smeeta Kavat’s Mischief precept. "
+      },
+      {
+        "name": "Buried Debts: Hotfix 24.5.6",
+        "date": "2019-03-26T20:42:29Z",
+        "url": "https://forums.warframe.com/topic/1076435-buried-debts-hotfix-2456/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed a crash related to having Charm equipped on your Smeeta Kavat."
+      },
+      {
+        "name": "Buried Debts: Update 24.4.0",
+        "date": "2019-03-08T02:01:23Z",
+        "url": "https://forums.warframe.com/topic/1067397-buried-debts-update-2440/",
+        "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/f07ee60119e2c8efc746da7ecf4cb49e.png",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed Smeeta Kavats being unreachable when becoming downed in mid-air."
+      },
+      {
+        "name": "Fortuna: Mesa Prime - Hotfix 24.2.3",
+        "date": "2018-12-19T15:53:01Z",
+        "url": "https://forums.warframe.com/topic/1045817-fortuna-mesa-prime-hotfix-2423/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed a crash that occurred when switching to your Arch-Gun with a Smeeta Kavat active."
+      },
+      {
+        "name": "Fortuna: Hotfix 24.0.2",
+        "date": "2018-11-09T22:23:12Z",
+        "url": "https://forums.warframe.com/topic/1027194-fortuna-hotfix-2402/",
+        "additions": "",
+        "changes": "Fixed inability to catch fish with the Pulse Spear when affected by Smeeta Kavat’s Crit buff.",
+        "fixes": ""
+      },
+      {
+        "name": "Shrine of the Eidolon: Hotfix 22.13.3",
+        "date": "2018-02-21T20:18:33Z",
+        "url": "https://forums.warframe.com/topic/924885-shrine-of-the-eidolon-hotfix-22133/",
+        "additions": "",
+        "changes": "Smeeta Kavat’s Charm Critical Chance and Energy recharge Buffs no longer apply to Operators.",
+        "fixes": ""
+      },
+      {
+        "name": "Chains of Harrow: Update 21.1.0 + 21.1.0.1",
+        "date": "2017-07-19T21:31:09Z",
+        "url": "https://forums.warframe.com/topic/820014-chains-of-harrow-update-2110-21101/",
+        "additions": "",
+        "changes": "Improved the Smeeta Kavat Mischief buff for Operators. Relevant buffs on the Warframes will always be transferred to the Operator and vice versa.",
+        "fixes": ""
+      },
+      {
+        "name": "Chains of Harrow: Hotfix 21.0.9",
+        "date": "2017-07-17T21:10:37Z",
+        "url": "https://forums.warframe.com/topic/819116-chains-of-harrow-hotfix-2109/",
+        "additions": "",
+        "changes": "Operators are now affected by the Smeeta Kavat Mischief/Charm buffs.",
+        "fixes": ""
+      },
+      {
+        "name": "Octavia's Anthem: Update 20",
+        "date": "2017-03-24T19:46:02Z",
+        "url": "https://forums.warframe.com/topic/776642-octavias-anthem-update-20/",
+        "additions": "",
+        "changes": "Lowered the specular lightning on the Smeeta Kavat to address ‘plastic’ looking issues.",
+        "fixes": ""
+      },
+      {
+        "name": "The Glast Gambit: Update 19.5",
+        "date": "2016-12-22T14:13:09Z",
+        "url": "https://forums.warframe.com/topic/738152-the-glast-gambit-update-195/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed Missing Smeeta Kavat icon and wrong Adarza icon"
+      },
+      {
+        "name": "Update: Specters of the Rail",
+        "date": "2016-07-08T14:12:48Z",
+        "url": "https://forums.warframe.com/topic/668132-update-specters-of-the-rail/",
+        "additions": "",
+        "changes": "Allows Smeeta Kavat to become invisible while a decoy Kavat draws fire by running toward the enemy.\nSmeeta Kavat bestows its owner with good fortune during the course of a mission.",
+        "fixes": ""
+      }
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Game/KubrowPet/HunterKubrowPetPowerSuit",
     "name": "Sunika Kubrow",
-    "description": "Once the value of Orokin guard-pets had been realized, Orokin scientists began experimenting with strains designed for combat. These were no longer household pets but superior war animals bred for ferocity and aggression.",
     "health": 110,
     "shield": 90,
     "armor": 50,
     "stamina": 8,
     "power": 100,
+    "description": "Once the value of Orokin guard-pets had been realized, Orokin scientists began experimenting with strains designed for combat. These were no longer household pets but superior war animals bred for ferocity and aggression.",
+    "productCategory": "KubrowPets",
     "type": "Pets",
     "imageName": "sunika-kubrow.png",
+    "category": "Pets",
+    "tradable": false,
+    "patchlogs": [
+      {
+        "name": "Hotfix 14.0.9",
+        "date": "2014-07-26T01:03:34Z",
+        "url": "https://forums.warframe.com/topic/273702-hotfix-1409/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed some awkward wording in a string about the Sunika Kubrow."
+      },
+      {
+        "name": "Hotfix 14.0.5",
+        "date": "2014-07-21T23:42:33Z",
+        "url": "https://forums.warframe.com/topic/269089-hotfix-1405/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed an issue with Sunika Kubrows not coming with their proper Mods when purchased.\nPSA: A script is in progress to give mods to those account affected by the Sunika Kubrows not coming with the proper mods."
+      }
+    ]
+  },
+  {
+    "name": "Tethron Antigen",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorAntigenD",
+    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "totalDamage": 0,
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "excludeFromCodex": true,
+    "omegaAttenuation": 1,
+    "buildPrice": 1000,
+    "buildTime": 60,
+    "skipBuildTimePrice": 5,
+    "buildQuantity": 1,
+    "consumeOnBuild": false,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
+        "name": "Benign Infested Tumor",
+        "description": "The Infestation infects all fish on Deimos, even those that do not show any external mutations.Guaranteed to drop from all fish on Deimos.",
+        "itemCount": 30,
+        "imageName": "benign-infested-tumor.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Pets/InfestedPredatorAntigenDBlueprint",
+        "name": "Blueprint",
+        "description": "",
+        "itemCount": 1,
+        "imageName": "blueprint.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Game/FishBait/Infested/InfestedFishBaitA",
+        "name": "Fass Residue",
+        "description": "A chunk of the wyrm Fass, collected after his explosive death. Used to attract Glutinox, Ostimyr, and Vitreospina.",
+        "itemCount": 6,
+        "imageName": "fass-residue.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/InfMapricoFruitItem",
+        "name": "Ganglion",
+        "description": "A fallen clump of entangled nerve fibers, redundant organs, and thin sensory membranes.",
+        "itemCount": 15,
+        "imageName": "ganglion.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishDPartItem",
+        "name": "Waxen Sebum Deposit",
+        "description": "Remnants of creatures' original bodily fluids persist post-Infestation, often crystalized or congealed into entirely new compounds.Source:AMNIOPHYSI",
+        "itemCount": 15,
+        "imageName": "waxen-sebum-deposit.png",
+        "tradable": false
+      }
+    ],
+    "type": "Pet Parts",
+    "imageName": "tethron-antigen.png",
+    "category": "Pets",
+    "tradable": false
+  },
+  {
+    "name": "Tian Bracket",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetLegB",
+    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "totalDamage": 0,
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
+    "buildPrice": 50000,
+    "buildTime": 86400,
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetLegBBlueprint",
+        "name": "Blueprint",
+        "description": "",
+        "itemCount": 1,
+        "imageName": "blueprint.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishAnoscopicSensorItem",
+        "name": "Echowinder Anoscopic Sensor",
+        "description": "A small camera that records visual data with extremely high definition.Acquired by disassembling Echowinder Servofish.",
+        "itemCount": 15,
+        "imageName": "echowinder-anoscopic-sensor.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemACutItem",
+        "name": "Smooth Phasmin",
+        "description": "Polished and cut to perfection.",
+        "itemCount": 20,
+        "imageName": "smooth-phasmin.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/VenusTreeItem",
+        "name": "Tepa Nodule",
+        "description": "The irradescent nodules on these plants glow brightly in cold environments.",
+        "itemCount": 15,
+        "imageName": "tepa-nodule.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreAAlloyItem",
+        "name": "Travocyte Alloy",
+        "description": "A compound formed from Travoride.",
+        "itemCount": 40,
+        "imageName": "travocyte-alloy.png",
+        "tradable": false
+      }
+    ],
+    "type": "Moa Bracket",
+    "imageName": "tian-bracket.png",
+    "category": "Pets",
+    "tradable": false
+  },
+  {
+    "name": "Trux Gyro",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadCryoxion",
+    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "totalDamage": 0,
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "omegaAttenuation": 1,
+    "buildPrice": 50000,
+    "buildTime": 86400,
+    "skipBuildTimePrice": 25,
+    "buildQuantity": 1,
+    "consumeOnBuild": true,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetPayloadCryoxionBlueprint",
+        "name": "Blueprint",
+        "description": "",
+        "itemCount": 1,
+        "imageName": "blueprint.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishAnoscopicSensorItem",
+        "name": "Echowinder Anoscopic Sensor",
+        "description": "A small camera that records visual data with extremely high definition.Acquired by disassembling Echowinder Servofish.",
+        "itemCount": 10,
+        "imageName": "echowinder-anoscopic-sensor.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemBCutItem",
+        "name": "Heart Noctrul",
+        "description": "Polished and cut to perfection.",
+        "itemCount": 5,
+        "imageName": "heart-noctrul.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
+        "name": "Plastids",
+        "description": "A disgusting nanite-infested tissue mass.Locations: Phobos, Saturn, Uranus, Pluto, and Eris.",
+        "itemCount": 1000,
+        "imageName": "plastids.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/CoolantItem",
+        "name": "Thermal Sludge",
+        "description": "A by-product from the Weeping Towers terraforming processes.",
+        "itemCount": 20,
+        "imageName": "thermal-sludge.png",
+        "tradable": false,
+        "drops": [
+          {
+            "location": "Thermal Sludge Cannister",
+            "type": "Thermal Sludge",
+            "chance": 1,
+            "rarity": "Common"
+          }
+        ]
+      }
+    ],
+    "type": "Moa Gyro",
+    "imageName": "trux-gyro.png",
+    "category": "Pets",
+    "tradable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/CatbrowPet/VampireCatbrowPetPowerSuit",
+    "name": "Vasca Kavat",
+    "health": 40,
+    "shield": 70,
+    "armor": 50,
+    "stamina": 8,
+    "power": 100,
+    "description": "A true child of the night, and a drinker of life.",
+    "productCategory": "KubrowPets",
+    "type": "Pets",
+    "imageName": "vasca-kavat.png",
+    "category": "Pets",
+    "tradable": false,
+    "patchlogs": [
+      {
+        "name": "The Deadlock Protocol: Hotfix 28.0.6 + 28.0.6.1",
+        "date": "2020-06-24T18:00:22Z",
+        "url": "https://forums.warframe.com/topic/1203007-the-deadlock-protocol-hotfix-2806-28061/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed Vasca Kavat babies having broken textures when previewing in the Arsenal."
+      },
+      {
+        "name": "Warframe Revised: Hotfix 27.2.1",
+        "date": "2020-03-05T23:06:21Z",
+        "url": "https://forums.warframe.com/topic/1172684-warframe-revised-hotfix-2721/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed Vasca Kavat Lure meter not moving smoothly."
+      },
+      {
+        "name": "The Old Blood: Hotfix 26.0.7",
+        "date": "2019-11-14T21:23:52Z",
+        "url": "https://forums.warframe.com/topic/1142475-the-old-blood-hotfix-2607/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed Vasca Kavat Floof description reading Orb Vallis instead of Plains of Eidolon."
+      },
+      {
+        "name": "The Old Blood: Hotfix 26.0.5",
+        "date": "2019-11-06T20:50:36Z",
+        "url": "https://forums.warframe.com/topic/1139999-the-old-blood-hotfix-2605/",
+        "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/43820439e57be01256c9146c1e3f7c2d.png",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed some players not being able to purchase the Vasca Kavat Starter Kit."
+      },
+      {
+        "name": "The Old Blood: Hotfix 26.0.4 + 26.0.4.1",
+        "date": "2019-11-05T16:52:19Z",
+        "url": "https://forums.warframe.com/topic/1139431-the-old-blood-hotfix-2604-26041/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed ability to equip certain Fur Patterns on Vasca Kavat hybrids (Infected Kavat bred with a normal Kavat) that result in broken textures. This follows suit with the pure Vasca Kavat. \nFixed the Vasca Kavat Starter Kit not displaying how many Vasca Imprints you already own."
+      },
+      {
+        "name": "The Old Blood: Hotfix 26.0.3",
+        "date": "2019-11-01T20:41:07Z",
+        "url": "https://forums.warframe.com/topic/1137487-the-old-blood-hotfix-2603/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed towards the Vasca Kavat’s neck textures being separate from its body. "
+      },
+      {
+        "name": "Update 26: The Old Blood",
+        "date": "2019-10-31T20:07:22Z",
+        "url": "https://forums.warframe.com/topic/1136784-update-26-the-old-blood/",
+        "additions": "",
+        "changes": "Bring your Kavat to the Plains of Eidolon at night to meet a Vasca Kavat \nDon’t feel like getting in a cat fight? Check out the Market for the Vasca Kavat Starter Kit!",
+        "fixes": ""
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Khora/Kavat/KhoraKavatPowerSuit",
+    "name": "Venari",
+    "health": 300,
+    "shield": 0,
+    "armor": 350,
+    "stamina": 8,
+    "power": 100,
+    "excludeFromCodex": true,
+    "productCategory": "SpecialItems",
+    "type": "Warframe",
+    "imageName": "venari.png",
+    "category": "Pets",
+    "tradable": false
+  },
+  {
+    "name": "Virox Antigen",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterAntigenA",
+    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "totalDamage": 0,
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "excludeFromCodex": true,
+    "omegaAttenuation": 1,
+    "buildPrice": 1000,
+    "buildTime": 60,
+    "skipBuildTimePrice": 5,
+    "buildQuantity": 1,
+    "consumeOnBuild": false,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
+        "name": "Benign Infested Tumor",
+        "description": "The Infestation infects all fish on Deimos, even those that do not show any external mutations.Guaranteed to drop from all fish on Deimos.",
+        "itemCount": 30,
+        "imageName": "benign-infested-tumor.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Pets/InfestedCritterAntigenABlueprint",
+        "name": "Blueprint",
+        "description": "",
+        "itemCount": 1,
+        "imageName": "blueprint.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Game/FishBait/Infested/InfestedFishBaitA",
+        "name": "Fass Residue",
+        "description": "A chunk of the wyrm Fass, collected after his explosive death. Used to attract Glutinox, Ostimyr, and Vitreospina.",
+        "itemCount": 6,
+        "imageName": "fass-residue.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/InfMapricoFruitItem",
+        "name": "Ganglion",
+        "description": "A fallen clump of entangled nerve fibers, redundant organs, and thin sensory membranes.",
+        "itemCount": 15,
+        "imageName": "ganglion.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishAPartItem",
+        "name": "Pustulent Cognitive Nodule",
+        "description": "The Infestation provokes the growth of multiple, seemingly redundant brain-like clusters, whose function may be linked to hivemind activity. Guaranteed to drop from these sources:AQUAPULMOCRYPTOSUCTUS",
+        "itemCount": 15,
+        "imageName": "pustulent-cognitive-nodule.png",
+        "tradable": false
+      }
+    ],
+    "type": "Pet Parts",
+    "imageName": "virox-antigen.png",
+    "category": "Pets",
+    "tradable": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/VizierPredatorKubrowPetPowerSuit",
+    "name": "Vizier Predasite",
+    "health": 95,
+    "shield": 90,
+    "armor": 50,
+    "stamina": 8,
+    "power": 100,
+    "description": "These hard-charging, four-legged predators make formidable companions when in the field.",
+    "productCategory": "KubrowPets",
+    "type": "Pets",
+    "imageName": "vizier-predasite.png",
+    "category": "Pets",
+    "tradable": false
+  },
+  {
+    "name": "Zarim Mutagen",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterMutagenC",
+    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "totalDamage": 0,
+    "description": "",
+    "criticalChance": 0,
+    "criticalMultiplier": 0,
+    "procChance": 0,
+    "fireRate": 0,
+    "masteryReq": 0,
+    "productCategory": "Pistols",
+    "excludeFromCodex": true,
+    "omegaAttenuation": 1,
+    "buildPrice": 1000,
+    "buildTime": 60,
+    "skipBuildTimePrice": 5,
+    "buildQuantity": 1,
+    "consumeOnBuild": false,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Pets/InfestedCritterMutagenCBlueprint",
+        "name": "Blueprint",
+        "description": "",
+        "itemCount": 1,
+        "imageName": "blueprint.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/InfGorgaricusSeedItem",
+        "name": "Pustulite",
+        "description": "Half-formed, incomplete spore bearers, little more than twitching flesh with claws to latch on with.",
+        "itemCount": 15,
+        "imageName": "pustulite.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishBPartItem",
+        "name": "Spinal Core Section",
+        "description": "Many delicate and complex nerve fibers are housed in the jointed vertebrae, which are one of the creature's most resilient parts. Found from Vitreospina fish known to eke out a primitive existence in cave systems.Guaranteed to drop from these sources:VITREOSPINACHONDRICORD",
+        "itemCount": 8,
+        "imageName": "spinal-core-section.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericOrokinFishPartItem",
+        "name": "Tubercular Gill System",
+        "description": "Adaptive membranes allow many Deimos fish to move freely between fluid and gaseous environments.Guaranteed to drop from these sources:OSTIMYRAQUAPULMOVITREOSPINAMYXOSTOMATADUROID",
+        "itemCount": 20,
+        "imageName": "tubercular-gill-system.png",
+        "tradable": false
+      },
+      {
+        "uniqueName": "/Lotus/Types/Game/FishBait/Infested/OrokinFishBaitA",
+        "name": "Vome Residue",
+        "description": "A gobbet of raw flesh, fallen from the wyrm Vome in her death spasm. Used to attract Chondricord and Duroid.",
+        "itemCount": 6,
+        "imageName": "vome-residue.png",
+        "tradable": false
+      }
+    ],
+    "type": "Pet Parts",
+    "imageName": "zarim-mutagen.png",
     "category": "Pets",
     "tradable": false
   }

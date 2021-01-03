@@ -30,22 +30,22 @@
     "eslint-plugin-node": "^7.0.0",
     "eslint-plugin-promise": "^3.8.0",
     "eslint-plugin-standard": "^3.1.0",
+    "fs-extra": "^8.1.0",
     "get-image-colors": "^1.8.1",
     "image-downloader": "^3.4.2",
     "imagemin": "^6.1.0",
     "imagemin-jpegtran": "^6.0.0",
     "imagemin-pngquant": "^7.0.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "lua.vm.js": "0.0.1",
     "lzma": "^2.3.2",
-    "mocha": "^5.2.0",
+    "mocha": "^8.1.2",
     "node-cmd": "^3.0.0",
     "node-progress": "^0.1.0",
     "requestretry": "^2.0.2",
-    "semantic-release": "^15.13.12",
-    "sharp": "0.20.5",
+    "sharp": "^0.25.2",
     "socks5-http-client": "^1.0.4",
-    "warframe-patchlogs": "^1.133.0"
+    "warframe-patchlogs": "^1.514.0"
   },
   "dependencies": {}
 }

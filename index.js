@@ -8,6 +8,8 @@
  *                         - All
  *                         - Arcanes
  *                         - Archwing
+ *                         - Arch-Gun
+ *                         - Arch-Melee
  *                         - Corpus
  *                         - Enemy
  *                         - Fish
@@ -27,6 +29,8 @@
  *                         - Warframes
  * @property {boolean} ignoreEnemies If true, don't load any enemy categories
  */
+
+const versions = require('./data/cache/.export.json')
 
 const defaultOptions = { category: ['All'] }
 
@@ -63,6 +67,8 @@ class Items extends Array {
         return res
       }
     })
+
+    this.versions = versions
   }
 
   /**

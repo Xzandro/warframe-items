@@ -11,6 +11,7 @@ const scraper = require('./scraper.js')
 const parser = require('./parser.js')
 const imageCache = require('../data/cache/.images.json')
 const exportCache = require('../data/cache/.export.json')
+const allowedCustomCategories = ['SentinelWeapons']
 
 class Build {
   async init () {
@@ -27,7 +28,7 @@ class Build {
     const all = this.saveJson(data)
     this.saveWarnings(parsed.warnings)
     await this.saveImages(all, raw.manifest)
-    await this.updateReadme(raw.patchlogs.patchlogs)
+    this.updateReadme(raw.patchlogs.patchlogs)
 
     // Log number of warnings at the end of the script
     let warningNum = 0
@@ -49,6 +50,15 @@ class Build {
 
       for (let i = 0; i < chunk.data.length; i++) {
         const item = chunk.data[i]
+
+        // write an additional file for the desired custom categories
+        if (item.productCategory && allowedCustomCategories.includes(item.productCategory)) {
+          if (result[item.productCategory]) {
+            result[item.productCategory].push(item)
+          } else {
+            result[item.productCategory] = [item]
+          }
+        }
 
         if (result[item.category]) {
           result[item.category].push(item)
@@ -79,7 +89,8 @@ class Build {
     // Category names are provided by this.applyCustomCategories
     for (const category in categories) {
       const data = categories[category].sort(sort)
-      all = all.concat(data)
+      // don't add the generated custom category data to all separately, since it's duplicate data
+      if (!allowedCustomCategories.includes(category)) all = all.concat(data)
       fs.writeFileSync(`${__dirname}/../data/json/${category}.json`, stringify(data))
     }
 
@@ -166,9 +177,9 @@ class Build {
       this.updateCache(item, cached, hash, isComponent)
 
       if (sizeBig.includes(item.category) || isComponent) {
-        await sharp(image).resize(512, 342).ignoreAspectRatio().toFile(filePath)
+        await sharp(image).resize({ fit: 'fill', height: 342, width: 512 }).toFile(filePath)
       } else if (sizeMedium.includes(item.category)) {
-        await sharp(image).resize(512, 352).ignoreAspectRatio().toFile(filePath)
+        await sharp(image).resize({ fit: 'fill', height: 342, width: 512 }).toFile(filePath)
       } else {
         await sharp(image).toFile(filePath)
       }
@@ -204,11 +215,11 @@ class Build {
    */
   updateReadme (patchlogs) {
     const logob64 = require(`${__dirname}/../data/logo.json`)
-    const version = patchlogs.posts[0].name.replace(/[^0-9.]/g, '')
+    const version = patchlogs.posts[0].name.replace(/ \+ /g, '--').replace(/[^0-9\-.]/g, '').trim()
     const url = patchlogs.posts[0].url
     const readmeLocation = `${__dirname}/../README.md`
     const readmeOld = fs.readFileSync(readmeLocation, 'utf-8')
-    const readmeNew = readmeOld.replace(/\[!\[warframe update.*/, `[![warframe update](https://img.shields.io/badge/warframe_update-${encodeURIComponent(version)}-blue.svg?logo=${encodeURIComponent(logob64)})](${url})`)
+    const readmeNew = readmeOld.replace(/\[!\[warframe update.*/, `[![warframe update](https://img.shields.io/badge/warframe_update-${version}-blue.svg?logo=${encodeURIComponent(logob64)})](${url})`)
     fs.writeFileSync(readmeLocation, readmeNew)
   }
 }
