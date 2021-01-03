@@ -3009,9 +3009,57 @@
     "tradable": false,
     "drops": [
       {
-        "location": "Deimos/Cambion Drift (Bounty Completion), Rotation A",
+        "location": "Deimos/Cambion Drift (Level 30 - 40 Arcana Isolation Vault), Rotation A",
         "type": "Damaged Necramech Weapon Barrel",
-        "chance": 0.05,
+        "chance": 0.03,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Deimos/Cambion Drift (Level 30 - 40 Isolation Vault), Rotation A",
+        "type": "Damaged Necramech Weapon Barrel",
+        "chance": 0.03,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Deimos/Cambion Drift (Level 40 - 50 Arcana Isolation Vault), Rotation A",
+        "type": "Damaged Necramech Weapon Barrel",
+        "chance": 0.03,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Deimos/Cambion Drift (Level 40 - 50 Isolation Vault), Rotation A",
+        "type": "Damaged Necramech Weapon Barrel",
+        "chance": 0.03,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Deimos/Cambion Drift (Level 50 - 60 Arcana Isolation Vault), Rotation A",
+        "type": "Damaged Necramech Weapon Barrel",
+        "chance": 0.03,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Deimos/Cambion Drift (Level 50 - 60 Isolation Vault), Rotation A",
+        "type": "Damaged Necramech Weapon Barrel",
+        "chance": 0.03,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Deimos/Cambion Drift (Level 30 - 40 Arcana Isolation Vault), Rotation A",
+        "type": "Damaged Necramech Weapon Barrel",
+        "chance": 0.06,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Deimos/Cambion Drift (Level 40 - 50 Arcana Isolation Vault), Rotation A",
+        "type": "Damaged Necramech Weapon Barrel",
+        "chance": 0.06,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Deimos/Cambion Drift (Level 50 - 60 Arcana Isolation Vault), Rotation A",
+        "type": "Damaged Necramech Weapon Barrel",
+        "chance": 0.06,
         "rarity": "Rare"
       }
     ]
@@ -3035,9 +3083,57 @@
     "tradable": false,
     "drops": [
       {
-        "location": "Deimos/Cambion Drift (Bounty Completion), Rotation A",
+        "location": "Deimos/Cambion Drift (Level 30 - 40 Arcana Isolation Vault), Rotation B",
         "type": "Damaged Necramech Weapon Receiver",
-        "chance": 0.05,
+        "chance": 0.03,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Deimos/Cambion Drift (Level 30 - 40 Isolation Vault), Rotation B",
+        "type": "Damaged Necramech Weapon Receiver",
+        "chance": 0.03,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Deimos/Cambion Drift (Level 40 - 50 Arcana Isolation Vault), Rotation B",
+        "type": "Damaged Necramech Weapon Receiver",
+        "chance": 0.03,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Deimos/Cambion Drift (Level 40 - 50 Isolation Vault), Rotation B",
+        "type": "Damaged Necramech Weapon Receiver",
+        "chance": 0.03,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Deimos/Cambion Drift (Level 50 - 60 Arcana Isolation Vault), Rotation B",
+        "type": "Damaged Necramech Weapon Receiver",
+        "chance": 0.03,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Deimos/Cambion Drift (Level 50 - 60 Isolation Vault), Rotation B",
+        "type": "Damaged Necramech Weapon Receiver",
+        "chance": 0.03,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Deimos/Cambion Drift (Level 30 - 40 Arcana Isolation Vault), Rotation B",
+        "type": "Damaged Necramech Weapon Receiver",
+        "chance": 0.06,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Deimos/Cambion Drift (Level 40 - 50 Arcana Isolation Vault), Rotation B",
+        "type": "Damaged Necramech Weapon Receiver",
+        "chance": 0.06,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Deimos/Cambion Drift (Level 50 - 60 Arcana Isolation Vault), Rotation B",
+        "type": "Damaged Necramech Weapon Receiver",
+        "chance": 0.06,
         "rarity": "Rare"
       }
     ]
@@ -3052,9 +3148,57 @@
     "tradable": false,
     "drops": [
       {
-        "location": "Deimos/Cambion Drift (Bounty Completion), Rotation A",
+        "location": "Deimos/Cambion Drift (Level 30 - 40 Arcana Isolation Vault), Rotation C",
         "type": "Damaged Necramech Weapon Stock",
-        "chance": 0.05,
+        "chance": 0.03,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Deimos/Cambion Drift (Level 30 - 40 Isolation Vault), Rotation C",
+        "type": "Damaged Necramech Weapon Stock",
+        "chance": 0.03,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Deimos/Cambion Drift (Level 40 - 50 Arcana Isolation Vault), Rotation C",
+        "type": "Damaged Necramech Weapon Stock",
+        "chance": 0.03,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Deimos/Cambion Drift (Level 40 - 50 Isolation Vault), Rotation C",
+        "type": "Damaged Necramech Weapon Stock",
+        "chance": 0.03,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Deimos/Cambion Drift (Level 50 - 60 Arcana Isolation Vault), Rotation C",
+        "type": "Damaged Necramech Weapon Stock",
+        "chance": 0.03,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Deimos/Cambion Drift (Level 50 - 60 Isolation Vault), Rotation C",
+        "type": "Damaged Necramech Weapon Stock",
+        "chance": 0.03,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Deimos/Cambion Drift (Level 30 - 40 Arcana Isolation Vault), Rotation C",
+        "type": "Damaged Necramech Weapon Stock",
+        "chance": 0.06,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Deimos/Cambion Drift (Level 40 - 50 Arcana Isolation Vault), Rotation C",
+        "type": "Damaged Necramech Weapon Stock",
+        "chance": 0.06,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Deimos/Cambion Drift (Level 50 - 60 Arcana Isolation Vault), Rotation C",
+        "type": "Damaged Necramech Weapon Stock",
+        "chance": 0.06,
         "rarity": "Rare"
       }
     ]
@@ -5707,6 +5851,24 @@
     "tradable": false,
     "drops": [
       {
+        "location": "Brachiolyst Disperser",
+        "type": "Intact Sentient Core",
+        "chance": 0.05,
+        "rarity": "Common"
+      },
+      {
+        "location": "Brachiolyst",
+        "type": "Intact Sentient Core",
+        "chance": 0.05,
+        "rarity": "Common"
+      },
+      {
+        "location": "Vomvalyst",
+        "type": "Intact Sentient Core",
+        "chance": 0.05,
+        "rarity": "Common"
+      },
+      {
         "location": "Mimic",
         "type": "Intact Sentient Core",
         "chance": 0.1218,
@@ -5714,12 +5876,6 @@
       },
       {
         "location": "Battalyst",
-        "type": "Intact Sentient Core",
-        "chance": 0.5,
-        "rarity": "Common"
-      },
-      {
-        "location": "Brachiolyst",
         "type": "Intact Sentient Core",
         "chance": 0.5,
         "rarity": "Common"
@@ -5743,13 +5899,19 @@
         "rarity": "Common"
       },
       {
-        "location": "Symbilyst",
+        "location": "Ortholyst",
         "type": "Intact Sentient Core",
         "chance": 0.5,
         "rarity": "Common"
       },
       {
-        "location": "Vomvalyst",
+        "location": "Summulyst",
+        "type": "Intact Sentient Core",
+        "chance": 0.5,
+        "rarity": "Common"
+      },
+      {
+        "location": "Symbilyst",
         "type": "Intact Sentient Core",
         "chance": 0.5,
         "rarity": "Common"

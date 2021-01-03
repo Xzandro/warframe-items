@@ -14377,6 +14377,12 @@
             "rarity": "Uncommon"
           },
           {
+            "location": "Meso E5 Relic",
+            "type": "Helios Prime Blueprint",
+            "chance": 0.11,
+            "rarity": "Uncommon"
+          },
+          {
             "location": "Meso Z1 Relic",
             "type": "Helios Prime Blueprint",
             "chance": 0.11,
@@ -14414,6 +14420,12 @@
           },
           {
             "location": "Meso C3 Relic (Exceptional)",
+            "type": "Helios Prime Blueprint",
+            "chance": 0.13,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Meso E5 Relic (Exceptional)",
             "type": "Helios Prime Blueprint",
             "chance": 0.13,
             "rarity": "Uncommon"
@@ -14461,6 +14473,12 @@
             "rarity": "Uncommon"
           },
           {
+            "location": "Meso E5 Relic (Flawless)",
+            "type": "Helios Prime Blueprint",
+            "chance": 0.17,
+            "rarity": "Uncommon"
+          },
+          {
             "location": "Meso Z1 Relic (Flawless)",
             "type": "Helios Prime Blueprint",
             "chance": 0.17,
@@ -14498,6 +14516,12 @@
           },
           {
             "location": "Meso C3 Relic (Radiant)",
+            "type": "Helios Prime Blueprint",
+            "chance": 0.2,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Meso E5 Relic (Radiant)",
             "type": "Helios Prime Blueprint",
             "chance": 0.2,
             "rarity": "Uncommon"
@@ -14550,7 +14574,19 @@
             "rarity": "Uncommon"
           },
           {
+            "location": "Lith K5 Relic (Radiant)",
+            "type": "Helios Prime Carapace",
+            "chance": 0.1667,
+            "rarity": "Uncommon"
+          },
+          {
             "location": "Lith P1 Relic (Radiant)",
+            "type": "Helios Prime Carapace",
+            "chance": 0.1667,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Meso E5 Relic (Radiant)",
             "type": "Helios Prime Carapace",
             "chance": 0.1667,
             "rarity": "Uncommon"
@@ -14598,7 +14634,19 @@
             "rarity": "Uncommon"
           },
           {
+            "location": "Lith K5 Relic (Flawless)",
+            "type": "Helios Prime Carapace",
+            "chance": 0.2,
+            "rarity": "Uncommon"
+          },
+          {
             "location": "Lith P1 Relic (Flawless)",
+            "type": "Helios Prime Carapace",
+            "chance": 0.2,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Meso E5 Relic (Flawless)",
             "type": "Helios Prime Carapace",
             "chance": 0.2,
             "rarity": "Uncommon"
@@ -14646,7 +14694,19 @@
             "rarity": "Uncommon"
           },
           {
+            "location": "Lith K5 Relic (Exceptional)",
+            "type": "Helios Prime Carapace",
+            "chance": 0.2333,
+            "rarity": "Uncommon"
+          },
+          {
             "location": "Lith P1 Relic (Exceptional)",
+            "type": "Helios Prime Carapace",
+            "chance": 0.2333,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Meso E5 Relic (Exceptional)",
             "type": "Helios Prime Carapace",
             "chance": 0.2333,
             "rarity": "Uncommon"
@@ -14694,7 +14754,19 @@
             "rarity": "Uncommon"
           },
           {
+            "location": "Lith K5 Relic",
+            "type": "Helios Prime Carapace",
+            "chance": 0.2533,
+            "rarity": "Uncommon"
+          },
+          {
             "location": "Lith P1 Relic",
+            "type": "Helios Prime Carapace",
+            "chance": 0.2533,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Meso E5 Relic",
             "type": "Helios Prime Carapace",
             "chance": 0.2533,
             "rarity": "Uncommon"
@@ -14748,6 +14820,12 @@
             "rarity": "Rare"
           },
           {
+            "location": "Axi H5 Relic",
+            "type": "Helios Prime Cerebrum",
+            "chance": 0.02,
+            "rarity": "Rare"
+          },
+          {
             "location": "Lith H1 Relic",
             "type": "Helios Prime Cerebrum",
             "chance": 0.02,
@@ -14773,6 +14851,12 @@
           },
           {
             "location": "Axi H2 Relic (Exceptional)",
+            "type": "Helios Prime Cerebrum",
+            "chance": 0.04,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Axi H5 Relic (Exceptional)",
             "type": "Helios Prime Cerebrum",
             "chance": 0.04,
             "rarity": "Rare"
@@ -14808,6 +14892,12 @@
             "rarity": "Rare"
           },
           {
+            "location": "Axi H5 Relic (Flawless)",
+            "type": "Helios Prime Cerebrum",
+            "chance": 0.06,
+            "rarity": "Rare"
+          },
+          {
             "location": "Lith H1 Relic (Flawless)",
             "type": "Helios Prime Cerebrum",
             "chance": 0.06,
@@ -14833,6 +14923,12 @@
           },
           {
             "location": "Axi H2 Relic (Radiant)",
+            "type": "Helios Prime Cerebrum",
+            "chance": 0.1,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Axi H5 Relic (Radiant)",
             "type": "Helios Prime Cerebrum",
             "chance": 0.1,
             "rarity": "Uncommon"
@@ -15448,6 +15544,12 @@
         "tradable": true,
         "drops": [
           {
+            "location": "Axi A12 Relic",
+            "type": "Helios Prime Systems",
+            "chance": 0.11,
+            "rarity": "Uncommon"
+          },
+          {
             "location": "Axi N5 Relic",
             "type": "Helios Prime Systems",
             "chance": 0.11,
@@ -15475,6 +15577,12 @@
             "location": "Meso D2 Relic",
             "type": "Helios Prime Systems",
             "chance": 0.11,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Axi A12 Relic (Exceptional)",
+            "type": "Helios Prime Systems",
+            "chance": 0.13,
             "rarity": "Uncommon"
           },
           {
@@ -15508,6 +15616,12 @@
             "rarity": "Uncommon"
           },
           {
+            "location": "Axi A12 Relic (Flawless)",
+            "type": "Helios Prime Systems",
+            "chance": 0.17,
+            "rarity": "Uncommon"
+          },
+          {
             "location": "Axi N5 Relic (Flawless)",
             "type": "Helios Prime Systems",
             "chance": 0.17,
@@ -15535,6 +15649,12 @@
             "location": "Meso D2 Relic (Flawless)",
             "type": "Helios Prime Systems",
             "chance": 0.17,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Axi A12 Relic (Radiant)",
+            "type": "Helios Prime Systems",
+            "chance": 0.2,
             "rarity": "Uncommon"
           },
           {

@@ -5901,19 +5901,19 @@
     "drops": [
       {
         "location": "Venus/Orb Vallis (Level 5 - 15 Orb Vallis Bounty), Rotation A",
-        "type": "Lith G1 Relic",
+        "type": "Lith K5 Relic",
         "chance": 0.0201,
         "rarity": "Rare"
       },
       {
         "location": "Venus/Orb Vallis (Level 5 - 15 Orb Vallis Bounty), Rotation B",
-        "type": "Lith G1 Relic",
+        "type": "Lith M7 Relic",
         "chance": 0.0201,
         "rarity": "Rare"
       },
       {
         "location": "Venus/Orb Vallis (Level 5 - 15 Orb Vallis Bounty), Rotation C",
-        "type": "Lith G1 Relic",
+        "type": "Lith K5 Relic",
         "chance": 0.0201,
         "rarity": "Rare"
       },
@@ -6423,176 +6423,302 @@
       },
       {
         "location": "Deimos/Cambion Drift (Level 25 - 30 Cambion Drift Bounty), Rotation A",
-        "type": "Lith G1 Relic",
+        "type": "Lith M7 Relic",
         "chance": 0.0333,
         "rarity": "Rare"
       },
       {
         "location": "Deimos/Cambion Drift (Level 25 - 30 Cambion Drift Bounty), Rotation C",
-        "type": "Lith G1 Relic",
+        "type": "Lith M7 Relic",
         "chance": 0.0333,
         "rarity": "Rare"
       },
       {
         "location": "Deimos/Cambion Drift (Level 25 - 30 Cambion Drift Bounty), Rotation B",
-        "type": "Lith G1 Relic",
+        "type": "Lith K5 Relic",
         "chance": 0.0481,
         "rarity": "Rare"
       },
       {
         "location": "Deimos/Cambion Drift (Level 25 - 30 Cambion Drift Bounty), Rotation A",
-        "type": "Lith G1 Relic",
+        "type": "Lith M7 Relic",
         "chance": 0.05,
         "rarity": "Rare"
       },
       {
         "location": "Deimos/Cambion Drift (Level 25 - 30 Cambion Drift Bounty), Rotation C",
-        "type": "Lith G1 Relic",
+        "type": "Lith M7 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom - Normal, Rotation A",
+        "type": "Lith P4 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom - Normal, Rotation A",
+        "type": "Lith N5 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom - Normal, Rotation A",
+        "type": "Lith D3 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom - Normal, Rotation A",
+        "type": "Lith P5 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom - Normal, Rotation A",
+        "type": "Lith B7 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom - Normal, Rotation A",
+        "type": "Lith N6 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom - Normal, Rotation A",
+        "type": "Lith T4 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom - Normal, Rotation A",
+        "type": "Lith K5 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom - Normal, Rotation A",
+        "type": "Lith M7 Relic",
         "chance": 0.05,
         "rarity": "Rare"
       },
       {
         "location": "Void/Stribog (Sabotage)",
         "type": "Lith P4 Relic",
-        "chance": 0.0625,
+        "chance": 0.0588,
         "rarity": "Rare"
       },
       {
         "location": "Void/Stribog (Sabotage)",
         "type": "Lith N5 Relic",
-        "chance": 0.0625,
+        "chance": 0.0588,
         "rarity": "Rare"
       },
       {
         "location": "Void/Stribog (Sabotage)",
         "type": "Lith D3 Relic",
-        "chance": 0.0625,
+        "chance": 0.0588,
         "rarity": "Rare"
       },
       {
         "location": "Void/Stribog (Sabotage)",
         "type": "Lith P5 Relic",
-        "chance": 0.0625,
+        "chance": 0.0588,
         "rarity": "Rare"
       },
       {
         "location": "Void/Stribog (Sabotage)",
         "type": "Lith B7 Relic",
-        "chance": 0.0625,
+        "chance": 0.0588,
         "rarity": "Rare"
       },
       {
         "location": "Void/Stribog (Sabotage)",
         "type": "Lith N6 Relic",
-        "chance": 0.0625,
+        "chance": 0.0588,
         "rarity": "Rare"
       },
       {
         "location": "Void/Stribog (Sabotage)",
-        "type": "Lith G1 Relic",
-        "chance": 0.0625,
+        "type": "Lith K5 Relic",
+        "chance": 0.0588,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void/Stribog (Sabotage)",
+        "type": "Lith M7 Relic",
+        "chance": 0.0588,
         "rarity": "Rare"
       },
       {
         "location": "Void/Stribog (Sabotage)",
         "type": "Lith T4 Relic",
-        "chance": 0.0625,
+        "chance": 0.0588,
         "rarity": "Rare"
       },
       {
         "location": "Void/Taranis (Defense), Rotation C",
         "type": "Lith P4 Relic",
-        "chance": 0.0625,
+        "chance": 0.0588,
         "rarity": "Rare"
       },
       {
         "location": "Void/Taranis (Defense), Rotation C",
         "type": "Lith N5 Relic",
-        "chance": 0.0625,
+        "chance": 0.0588,
         "rarity": "Rare"
       },
       {
         "location": "Void/Taranis (Defense), Rotation C",
         "type": "Lith D3 Relic",
-        "chance": 0.0625,
+        "chance": 0.0588,
         "rarity": "Rare"
       },
       {
         "location": "Void/Taranis (Defense), Rotation C",
         "type": "Lith P5 Relic",
-        "chance": 0.0625,
+        "chance": 0.0588,
         "rarity": "Rare"
       },
       {
         "location": "Void/Taranis (Defense), Rotation C",
         "type": "Lith B7 Relic",
-        "chance": 0.0625,
+        "chance": 0.0588,
         "rarity": "Rare"
       },
       {
         "location": "Void/Taranis (Defense), Rotation C",
         "type": "Lith N6 Relic",
-        "chance": 0.0625,
+        "chance": 0.0588,
         "rarity": "Rare"
       },
       {
         "location": "Void/Taranis (Defense), Rotation C",
-        "type": "Lith G1 Relic",
-        "chance": 0.0625,
+        "type": "Lith K5 Relic",
+        "chance": 0.0588,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void/Taranis (Defense), Rotation C",
+        "type": "Lith M7 Relic",
+        "chance": 0.0588,
         "rarity": "Rare"
       },
       {
         "location": "Void/Taranis (Defense), Rotation C",
         "type": "Lith T4 Relic",
-        "chance": 0.0625,
+        "chance": 0.0588,
         "rarity": "Rare"
       },
       {
         "location": "Void/Tiwaz (Mobile Defense)",
         "type": "Lith P4 Relic",
-        "chance": 0.0625,
+        "chance": 0.0588,
         "rarity": "Rare"
       },
       {
         "location": "Void/Tiwaz (Mobile Defense)",
         "type": "Lith N5 Relic",
-        "chance": 0.0625,
+        "chance": 0.0588,
         "rarity": "Rare"
       },
       {
         "location": "Void/Tiwaz (Mobile Defense)",
         "type": "Lith D3 Relic",
-        "chance": 0.0625,
+        "chance": 0.0588,
         "rarity": "Rare"
       },
       {
         "location": "Void/Tiwaz (Mobile Defense)",
         "type": "Lith P5 Relic",
-        "chance": 0.0625,
+        "chance": 0.0588,
         "rarity": "Rare"
       },
       {
         "location": "Void/Tiwaz (Mobile Defense)",
         "type": "Lith B7 Relic",
-        "chance": 0.0625,
+        "chance": 0.0588,
         "rarity": "Rare"
       },
       {
         "location": "Void/Tiwaz (Mobile Defense)",
         "type": "Lith N6 Relic",
-        "chance": 0.0625,
+        "chance": 0.0588,
         "rarity": "Rare"
       },
       {
         "location": "Void/Tiwaz (Mobile Defense)",
-        "type": "Lith G1 Relic",
-        "chance": 0.0625,
+        "type": "Lith K5 Relic",
+        "chance": 0.0588,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void/Tiwaz (Mobile Defense)",
+        "type": "Lith M7 Relic",
+        "chance": 0.0588,
         "rarity": "Rare"
       },
       {
         "location": "Void/Tiwaz (Mobile Defense)",
         "type": "Lith T4 Relic",
-        "chance": 0.0625,
+        "chance": 0.0588,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom - Advanced, Rotation A",
+        "type": "Lith P4 Relic",
+        "chance": 0.06,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom - Advanced, Rotation A",
+        "type": "Lith N5 Relic",
+        "chance": 0.06,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom - Advanced, Rotation A",
+        "type": "Lith D3 Relic",
+        "chance": 0.06,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom - Advanced, Rotation A",
+        "type": "Lith P5 Relic",
+        "chance": 0.06,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom - Advanced, Rotation A",
+        "type": "Lith B7 Relic",
+        "chance": 0.06,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom - Advanced, Rotation A",
+        "type": "Lith N6 Relic",
+        "chance": 0.06,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom - Advanced, Rotation A",
+        "type": "Lith T4 Relic",
+        "chance": 0.06,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom - Advanced, Rotation A",
+        "type": "Lith K5 Relic",
+        "chance": 0.06,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom - Advanced, Rotation A",
+        "type": "Lith M7 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -7029,25 +7155,25 @@
       },
       {
         "location": "Deimos/Cambion Drift (Level 25 - 30 Cambion Drift Bounty), Rotation B",
-        "type": "Lith G1 Relic",
+        "type": "Lith K5 Relic",
         "chance": 0.0694,
         "rarity": "Rare"
       },
       {
         "location": "Deimos/Cambion Drift (Level 5 - 15 Cambion Drift Bounty), Rotation A",
-        "type": "Lith G1 Relic",
+        "type": "Lith K5 Relic",
         "chance": 0.0737,
         "rarity": "Rare"
       },
       {
         "location": "Deimos/Cambion Drift (Level 5 - 15 Cambion Drift Bounty), Rotation B",
-        "type": "Lith G1 Relic",
+        "type": "Lith M7 Relic",
         "chance": 0.0737,
         "rarity": "Rare"
       },
       {
         "location": "Deimos/Cambion Drift (Level 5 - 15 Cambion Drift Bounty), Rotation C",
-        "type": "Lith G1 Relic",
+        "type": "Lith K5 Relic",
         "chance": 0.0737,
         "rarity": "Rare"
       },
@@ -7059,19 +7185,19 @@
       },
       {
         "location": "Deimos/Cambion Drift (Level 5 - 15 Cambion Drift Bounty), Rotation A",
-        "type": "Lith G1 Relic",
+        "type": "Lith K5 Relic",
         "chance": 0.0752,
         "rarity": "Rare"
       },
       {
         "location": "Deimos/Cambion Drift (Level 5 - 15 Cambion Drift Bounty), Rotation B",
-        "type": "Lith G1 Relic",
+        "type": "Lith M7 Relic",
         "chance": 0.0752,
         "rarity": "Rare"
       },
       {
         "location": "Deimos/Cambion Drift (Level 5 - 15 Cambion Drift Bounty), Rotation C",
-        "type": "Lith G1 Relic",
+        "type": "Lith K5 Relic",
         "chance": 0.0752,
         "rarity": "Rare"
       },
@@ -7790,21 +7916,291 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom - Endurance, Rotation C",
+        "type": "Lith P4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom - Endurance, Rotation C",
+        "type": "Lith N5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom - Endurance, Rotation C",
+        "type": "Lith D3 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom - Endurance, Rotation C",
+        "type": "Lith P5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom - Endurance, Rotation C",
+        "type": "Lith B7 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom - Endurance, Rotation C",
+        "type": "Lith N6 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom - Endurance, Rotation C",
+        "type": "Lith T4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom - Endurance, Rotation C",
+        "type": "Lith K5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom - Endurance, Rotation C",
+        "type": "Lith M7 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom - Endurance, Rotation C",
+        "type": "Lith P4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom - Endurance, Rotation C",
+        "type": "Lith N5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom - Endurance, Rotation C",
+        "type": "Lith D3 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom - Endurance, Rotation C",
+        "type": "Lith P5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom - Endurance, Rotation C",
+        "type": "Lith B7 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom - Endurance, Rotation C",
+        "type": "Lith N6 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom - Endurance, Rotation C",
+        "type": "Lith T4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom - Endurance, Rotation C",
+        "type": "Lith K5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom - Endurance, Rotation C",
+        "type": "Lith M7 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom - Endurance, Rotation C",
+        "type": "Lith P4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom - Endurance, Rotation C",
+        "type": "Lith N5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom - Endurance, Rotation C",
+        "type": "Lith D3 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom - Endurance, Rotation C",
+        "type": "Lith P5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom - Endurance, Rotation C",
+        "type": "Lith B7 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom - Endurance, Rotation C",
+        "type": "Lith N6 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom - Endurance, Rotation C",
+        "type": "Lith T4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom - Endurance, Rotation C",
+        "type": "Lith K5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom - Endurance, Rotation C",
+        "type": "Lith M7 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
         "location": "Venus/Orb Vallis (Level 5 - 15 Orb Vallis Bounty), Rotation A",
-        "type": "Lith G1 Relic",
+        "type": "Lith K5 Relic",
         "chance": 0.0833,
         "rarity": "Rare"
       },
       {
         "location": "Venus/Orb Vallis (Level 5 - 15 Orb Vallis Bounty), Rotation B",
-        "type": "Lith G1 Relic",
+        "type": "Lith M7 Relic",
         "chance": 0.0833,
         "rarity": "Rare"
       },
       {
         "location": "Venus/Orb Vallis (Level 5 - 15 Orb Vallis Bounty), Rotation C",
-        "type": "Lith G1 Relic",
+        "type": "Lith K5 Relic",
         "chance": 0.0833,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void/Ani (Survival), Rotation A",
+        "type": "Lith P4 Relic",
+        "chance": 0.086,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void/Ani (Survival), Rotation A",
+        "type": "Lith N5 Relic",
+        "chance": 0.086,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void/Ani (Survival), Rotation A",
+        "type": "Lith D3 Relic",
+        "chance": 0.086,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void/Ani (Survival), Rotation A",
+        "type": "Lith P5 Relic",
+        "chance": 0.086,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void/Ani (Survival), Rotation A",
+        "type": "Lith B7 Relic",
+        "chance": 0.086,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void/Ani (Survival), Rotation A",
+        "type": "Lith N6 Relic",
+        "chance": 0.086,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void/Ani (Survival), Rotation A",
+        "type": "Lith K5 Relic",
+        "chance": 0.086,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void/Ani (Survival), Rotation A",
+        "type": "Lith M7 Relic",
+        "chance": 0.086,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void/Ani (Survival), Rotation A",
+        "type": "Lith T4 Relic",
+        "chance": 0.086,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void/Taranis (Defense), Rotation B",
+        "type": "Lith P4 Relic",
+        "chance": 0.086,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void/Taranis (Defense), Rotation B",
+        "type": "Lith N5 Relic",
+        "chance": 0.086,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void/Taranis (Defense), Rotation B",
+        "type": "Lith D3 Relic",
+        "chance": 0.086,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void/Taranis (Defense), Rotation B",
+        "type": "Lith P5 Relic",
+        "chance": 0.086,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void/Taranis (Defense), Rotation B",
+        "type": "Lith B7 Relic",
+        "chance": 0.086,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void/Taranis (Defense), Rotation B",
+        "type": "Lith N6 Relic",
+        "chance": 0.086,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void/Taranis (Defense), Rotation B",
+        "type": "Lith T4 Relic",
+        "chance": 0.086,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void/Taranis (Defense), Rotation B",
+        "type": "Lith K5 Relic",
+        "chance": 0.086,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void/Taranis (Defense), Rotation B",
+        "type": "Lith M7 Relic",
+        "chance": 0.086,
         "rarity": "Rare"
       },
       {
@@ -8312,146 +8708,50 @@
         "rarity": "Rare"
       },
       {
-        "location": "Void/Ani (Survival), Rotation A",
-        "type": "Lith P4 Relic",
-        "chance": 0.0968,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Void/Ani (Survival), Rotation A",
-        "type": "Lith N5 Relic",
-        "chance": 0.0968,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Void/Ani (Survival), Rotation A",
-        "type": "Lith D3 Relic",
-        "chance": 0.0968,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Void/Ani (Survival), Rotation A",
-        "type": "Lith P5 Relic",
-        "chance": 0.0968,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Void/Ani (Survival), Rotation A",
-        "type": "Lith B7 Relic",
-        "chance": 0.0968,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Void/Ani (Survival), Rotation A",
-        "type": "Lith N6 Relic",
-        "chance": 0.0968,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Void/Ani (Survival), Rotation A",
-        "type": "Lith G1 Relic",
-        "chance": 0.0968,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Void/Ani (Survival), Rotation A",
-        "type": "Lith T4 Relic",
-        "chance": 0.0968,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Void/Taranis (Defense), Rotation B",
-        "type": "Lith P4 Relic",
-        "chance": 0.0968,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Void/Taranis (Defense), Rotation B",
-        "type": "Lith N5 Relic",
-        "chance": 0.0968,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Void/Taranis (Defense), Rotation B",
-        "type": "Lith D3 Relic",
-        "chance": 0.0968,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Void/Taranis (Defense), Rotation B",
-        "type": "Lith P5 Relic",
-        "chance": 0.0968,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Void/Taranis (Defense), Rotation B",
-        "type": "Lith B7 Relic",
-        "chance": 0.0968,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Void/Taranis (Defense), Rotation B",
-        "type": "Lith N6 Relic",
-        "chance": 0.0968,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Void/Taranis (Defense), Rotation B",
-        "type": "Lith T4 Relic",
-        "chance": 0.0968,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Void/Taranis (Defense), Rotation B",
-        "type": "Lith G1 Relic",
-        "chance": 0.0968,
-        "rarity": "Rare"
-      },
-      {
         "location": "Deimos/Cambion Drift (Level 25 - 30 Cambion Drift Bounty), Rotation A",
-        "type": "Lith G1 Relic",
+        "type": "Lith M7 Relic",
         "chance": 0.1,
         "rarity": "Uncommon"
       },
       {
         "location": "Deimos/Cambion Drift (Level 25 - 30 Cambion Drift Bounty), Rotation C",
-        "type": "Lith G1 Relic",
+        "type": "Lith M7 Relic",
         "chance": 0.1,
         "rarity": "Uncommon"
       },
       {
         "location": "Venus/Orb Vallis (Level 10 - 30 Orb Vallis Bounty), Rotation A",
-        "type": "Lith G1 Relic",
+        "type": "Lith M7 Relic",
         "chance": 0.1034,
         "rarity": "Uncommon"
       },
       {
         "location": "Venus/Orb Vallis (Level 10 - 30 Orb Vallis Bounty), Rotation B",
-        "type": "Lith G1 Relic",
+        "type": "Lith K5 Relic",
         "chance": 0.1034,
         "rarity": "Uncommon"
       },
       {
         "location": "Venus/Orb Vallis (Level 10 - 30 Orb Vallis Bounty), Rotation C",
-        "type": "Lith G1 Relic",
+        "type": "Lith M7 Relic",
         "chance": 0.1034,
         "rarity": "Uncommon"
       },
       {
         "location": "Earth/Cetus (Level 10 - 30 Cetus Bounty), Rotation A",
-        "type": "Lith G1 Relic",
+        "type": "Lith K5 Relic",
         "chance": 0.1069,
         "rarity": "Uncommon"
       },
       {
         "location": "Earth/Cetus (Level 10 - 30 Cetus Bounty), Rotation B",
-        "type": "Lith G1 Relic",
+        "type": "Lith M7 Relic",
         "chance": 0.1069,
         "rarity": "Uncommon"
       },
       {
         "location": "Earth/Cetus (Level 10 - 30 Cetus Bounty), Rotation C",
-        "type": "Lith G1 Relic",
+        "type": "Lith K5 Relic",
         "chance": 0.1069,
         "rarity": "Uncommon"
       },
@@ -9129,197 +9429,215 @@
       },
       {
         "location": "Earth/Cetus (Level 10 - 30 Cetus Bounty), Rotation A",
-        "type": "Lith G1 Relic",
+        "type": "Lith K5 Relic",
         "chance": 0.1111,
         "rarity": "Uncommon"
       },
       {
         "location": "Earth/Cetus (Level 10 - 30 Cetus Bounty), Rotation B",
-        "type": "Lith G1 Relic",
+        "type": "Lith M7 Relic",
         "chance": 0.1111,
         "rarity": "Uncommon"
       },
       {
         "location": "Earth/Cetus (Level 10 - 30 Cetus Bounty), Rotation C",
-        "type": "Lith G1 Relic",
+        "type": "Lith K5 Relic",
         "chance": 0.1111,
         "rarity": "Uncommon"
       },
       {
         "location": "Venus/Orb Vallis (Level 10 - 30 Orb Vallis Bounty), Rotation A",
-        "type": "Lith G1 Relic",
+        "type": "Lith M7 Relic",
         "chance": 0.1111,
         "rarity": "Uncommon"
       },
       {
         "location": "Venus/Orb Vallis (Level 10 - 30 Orb Vallis Bounty), Rotation B",
-        "type": "Lith G1 Relic",
+        "type": "Lith K5 Relic",
         "chance": 0.1111,
         "rarity": "Uncommon"
       },
       {
         "location": "Venus/Orb Vallis (Level 10 - 30 Orb Vallis Bounty), Rotation C",
-        "type": "Lith G1 Relic",
+        "type": "Lith M7 Relic",
+        "chance": 0.1111,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Void/Hepit (Capture)",
+        "type": "Lith P4 Relic",
+        "chance": 0.1111,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Void/Hepit (Capture)",
+        "type": "Lith N5 Relic",
+        "chance": 0.1111,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Void/Hepit (Capture)",
+        "type": "Lith D3 Relic",
+        "chance": 0.1111,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Void/Hepit (Capture)",
+        "type": "Lith P5 Relic",
+        "chance": 0.1111,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Void/Hepit (Capture)",
+        "type": "Lith B7 Relic",
+        "chance": 0.1111,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Void/Hepit (Capture)",
+        "type": "Lith N6 Relic",
+        "chance": 0.1111,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Void/Hepit (Capture)",
+        "type": "Lith K5 Relic",
+        "chance": 0.1111,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Void/Hepit (Capture)",
+        "type": "Lith M7 Relic",
+        "chance": 0.1111,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Void/Hepit (Capture)",
+        "type": "Lith T4 Relic",
+        "chance": 0.1111,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Void/Taranis (Defense), Rotation A",
+        "type": "Lith P4 Relic",
+        "chance": 0.1111,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Void/Taranis (Defense), Rotation A",
+        "type": "Lith N5 Relic",
+        "chance": 0.1111,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Void/Taranis (Defense), Rotation A",
+        "type": "Lith D3 Relic",
+        "chance": 0.1111,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Void/Taranis (Defense), Rotation A",
+        "type": "Lith P5 Relic",
+        "chance": 0.1111,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Void/Taranis (Defense), Rotation A",
+        "type": "Lith B7 Relic",
+        "chance": 0.1111,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Void/Taranis (Defense), Rotation A",
+        "type": "Lith N6 Relic",
+        "chance": 0.1111,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Void/Taranis (Defense), Rotation A",
+        "type": "Lith K5 Relic",
+        "chance": 0.1111,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Void/Taranis (Defense), Rotation A",
+        "type": "Lith M7 Relic",
+        "chance": 0.1111,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Void/Taranis (Defense), Rotation A",
+        "type": "Lith T4 Relic",
+        "chance": 0.1111,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Void/Teshub (Exterminate)",
+        "type": "Lith P4 Relic",
+        "chance": 0.1111,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Void/Teshub (Exterminate)",
+        "type": "Lith N5 Relic",
+        "chance": 0.1111,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Void/Teshub (Exterminate)",
+        "type": "Lith D3 Relic",
+        "chance": 0.1111,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Void/Teshub (Exterminate)",
+        "type": "Lith P5 Relic",
+        "chance": 0.1111,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Void/Teshub (Exterminate)",
+        "type": "Lith B7 Relic",
+        "chance": 0.1111,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Void/Teshub (Exterminate)",
+        "type": "Lith N6 Relic",
+        "chance": 0.1111,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Void/Teshub (Exterminate)",
+        "type": "Lith K5 Relic",
+        "chance": 0.1111,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Void/Teshub (Exterminate)",
+        "type": "Lith M7 Relic",
+        "chance": 0.1111,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Void/Teshub (Exterminate)",
+        "type": "Lith T4 Relic",
         "chance": 0.1111,
         "rarity": "Uncommon"
       },
       {
         "location": "Deimos/Cambion Drift (Level 25 - 30 Cambion Drift Bounty), Rotation B",
-        "type": "Lith G1 Relic",
+        "type": "Lith K5 Relic",
         "chance": 0.125,
         "rarity": "Uncommon"
       },
       {
-        "location": "Venus/Orb Vallis (Bounty Completion), Rotation C",
+        "location": "Venus/Orb Vallis (Level 40 - 60 PROFIT-TAKER - PHASE 1), Rotation C",
         "type": "Lith N5 Relic (Radiant)",
         "chance": 0.125,
         "rarity": "Uncommon"
       },
       {
-        "location": "Void/Hepit (Capture)",
-        "type": "Lith P4 Relic",
-        "chance": 0.125,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Void/Hepit (Capture)",
-        "type": "Lith N5 Relic",
-        "chance": 0.125,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Void/Hepit (Capture)",
-        "type": "Lith D3 Relic",
-        "chance": 0.125,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Void/Hepit (Capture)",
-        "type": "Lith P5 Relic",
-        "chance": 0.125,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Void/Hepit (Capture)",
-        "type": "Lith B7 Relic",
-        "chance": 0.125,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Void/Hepit (Capture)",
-        "type": "Lith N6 Relic",
-        "chance": 0.125,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Void/Hepit (Capture)",
-        "type": "Lith G1 Relic",
-        "chance": 0.125,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Void/Hepit (Capture)",
-        "type": "Lith T4 Relic",
-        "chance": 0.125,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Void/Taranis (Defense), Rotation A",
-        "type": "Lith P4 Relic",
-        "chance": 0.125,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Void/Taranis (Defense), Rotation A",
-        "type": "Lith N5 Relic",
-        "chance": 0.125,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Void/Taranis (Defense), Rotation A",
-        "type": "Lith D3 Relic",
-        "chance": 0.125,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Void/Taranis (Defense), Rotation A",
-        "type": "Lith P5 Relic",
-        "chance": 0.125,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Void/Taranis (Defense), Rotation A",
-        "type": "Lith B7 Relic",
-        "chance": 0.125,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Void/Taranis (Defense), Rotation A",
-        "type": "Lith N6 Relic",
-        "chance": 0.125,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Void/Taranis (Defense), Rotation A",
-        "type": "Lith G1 Relic",
-        "chance": 0.125,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Void/Taranis (Defense), Rotation A",
-        "type": "Lith T4 Relic",
-        "chance": 0.125,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Void/Teshub (Exterminate)",
-        "type": "Lith P4 Relic",
-        "chance": 0.125,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Void/Teshub (Exterminate)",
-        "type": "Lith N5 Relic",
-        "chance": 0.125,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Void/Teshub (Exterminate)",
-        "type": "Lith D3 Relic",
-        "chance": 0.125,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Void/Teshub (Exterminate)",
-        "type": "Lith P5 Relic",
-        "chance": 0.125,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Void/Teshub (Exterminate)",
-        "type": "Lith B7 Relic",
-        "chance": 0.125,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Void/Teshub (Exterminate)",
-        "type": "Lith N6 Relic",
-        "chance": 0.125,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Void/Teshub (Exterminate)",
-        "type": "Lith G1 Relic",
-        "chance": 0.125,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Void/Teshub (Exterminate)",
-        "type": "Lith T4 Relic",
-        "chance": 0.125,
-        "rarity": "Uncommon"
-      },
-      {
         "location": "Murex Raid, Rotation A",
         "type": "Lith P4 Relic",
         "chance": 0.129,
@@ -9812,68 +10130,68 @@
         "rarity": "Uncommon"
       },
       {
-        "location": "Venus/Orb Vallis (Bounty Completion), Rotation C",
+        "location": "Venus/Orb Vallis (Level 40 - 60 PROFIT-TAKER - PHASE 1), Rotation C",
         "type": "Lith P4 Relic (Radiant)",
         "chance": 0.15,
         "rarity": "Uncommon"
       },
       {
-        "location": "Venus/Orb Vallis (Bounty Completion), Rotation C",
+        "location": "Venus/Orb Vallis (Level 40 - 60 PROFIT-TAKER - PHASE 2), Rotation C",
         "type": "Lith D3 Relic",
         "chance": 0.15,
         "rarity": "Uncommon"
       },
       {
         "location": "Earth/Cetus (Level 10 - 30 Cetus Bounty), Rotation A",
-        "type": "Lith G1 Relic",
+        "type": "Lith K5 Relic",
         "chance": 0.2545,
         "rarity": "Uncommon"
       },
       {
         "location": "Earth/Cetus (Level 10 - 30 Cetus Bounty), Rotation B",
-        "type": "Lith G1 Relic",
+        "type": "Lith M7 Relic",
         "chance": 0.2545,
         "rarity": "Uncommon"
       },
       {
         "location": "Earth/Cetus (Level 10 - 30 Cetus Bounty), Rotation C",
-        "type": "Lith G1 Relic",
+        "type": "Lith K5 Relic",
         "chance": 0.2545,
         "rarity": "Uncommon"
       },
       {
         "location": "Deimos/Cambion Drift (Level 5 - 15 Cambion Drift Bounty), Rotation A",
-        "type": "Lith G1 Relic",
+        "type": "Lith K5 Relic",
         "chance": 0.3056,
         "rarity": "Uncommon"
       },
       {
         "location": "Deimos/Cambion Drift (Level 5 - 15 Cambion Drift Bounty), Rotation B",
-        "type": "Lith G1 Relic",
+        "type": "Lith M7 Relic",
         "chance": 0.3056,
         "rarity": "Uncommon"
       },
       {
         "location": "Deimos/Cambion Drift (Level 5 - 15 Cambion Drift Bounty), Rotation C",
-        "type": "Lith G1 Relic",
+        "type": "Lith K5 Relic",
         "chance": 0.3056,
         "rarity": "Uncommon"
       },
       {
         "location": "Venus/Orb Vallis (Level 10 - 30 Orb Vallis Bounty), Rotation A",
-        "type": "Lith G1 Relic",
+        "type": "Lith M7 Relic",
         "chance": 0.3333,
         "rarity": "Common"
       },
       {
         "location": "Venus/Orb Vallis (Level 10 - 30 Orb Vallis Bounty), Rotation B",
-        "type": "Lith G1 Relic",
+        "type": "Lith K5 Relic",
         "chance": 0.3333,
         "rarity": "Common"
       },
       {
         "location": "Venus/Orb Vallis (Level 10 - 30 Orb Vallis Bounty), Rotation C",
-        "type": "Lith G1 Relic",
+        "type": "Lith M7 Relic",
         "chance": 0.3333,
         "rarity": "Common"
       }
@@ -12309,6 +12627,18 @@
         "rarity": "Legendary"
       },
       {
+        "location": "Brachiolyst Disperser",
+        "type": "Orokin Cell",
+        "chance": 0.0026,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Brachiolyst",
+        "type": "Orokin Cell",
+        "chance": 0.0026,
+        "rarity": "Rare"
+      },
+      {
         "location": "Amalgam Arca Heqet",
         "type": "Orokin Cell",
         "chance": 0.0027,
@@ -12435,12 +12765,6 @@
         "rarity": "Rare"
       },
       {
-        "location": "Brachiolyst",
-        "type": "Orokin Cell",
-        "chance": 0.0129,
-        "rarity": "Rare"
-      },
-      {
         "location": "Conculyst",
         "type": "Orokin Cell",
         "chance": 0.0129,
@@ -12465,6 +12789,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Ortholyst",
+        "type": "Orokin Cell",
+        "chance": 0.0129,
+        "rarity": "Rare"
+      },
+      {
         "location": "Shadow Stalker",
         "type": "Orokin Cell",
         "chance": 0.0129,
@@ -12472,6 +12802,12 @@
       },
       {
         "location": "Stalker",
+        "type": "Orokin Cell",
+        "chance": 0.0129,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Summulyst",
         "type": "Orokin Cell",
         "chance": 0.0129,
         "rarity": "Rare"
@@ -20432,18 +20768,12 @@
       },
       {
         "location": "Aerolyst",
-        "type": "War Hilt",
+        "type": "War Blade",
         "chance": 0.005,
         "rarity": "Common"
       },
       {
         "location": "Aerolyst",
-        "type": "War Blade",
-        "chance": 0.005,
-        "rarity": "Common"
-      },
-      {
-        "location": "Conculyst",
         "type": "War Hilt",
         "chance": 0.005,
         "rarity": "Common"
@@ -20455,7 +20785,7 @@
         "rarity": "Common"
       },
       {
-        "location": "Decaying Conculyst",
+        "location": "Conculyst",
         "type": "War Hilt",
         "chance": 0.005,
         "rarity": "Common"
@@ -20463,6 +20793,36 @@
       {
         "location": "Decaying Conculyst",
         "type": "War Blade",
+        "chance": 0.005,
+        "rarity": "Common"
+      },
+      {
+        "location": "Decaying Conculyst",
+        "type": "War Hilt",
+        "chance": 0.005,
+        "rarity": "Common"
+      },
+      {
+        "location": "Ortholyst",
+        "type": "War Blade",
+        "chance": 0.005,
+        "rarity": "Common"
+      },
+      {
+        "location": "Ortholyst",
+        "type": "War Hilt",
+        "chance": 0.005,
+        "rarity": "Common"
+      },
+      {
+        "location": "Summulyst",
+        "type": "War Blade",
+        "chance": 0.005,
+        "rarity": "Common"
+      },
+      {
+        "location": "Summulyst",
+        "type": "War Hilt",
         "chance": 0.005,
         "rarity": "Common"
       },
