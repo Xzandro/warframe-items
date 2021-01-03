@@ -12,7 +12,11 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Install needed build tools for unix
         run: sudo apt install build-essential libpng-dev
+        
       - uses: xpol/setup-lua@v0.2
+        env:
+          ACTIONS_ALLOW_UNSECURE_COMMANDS: 'true'
+
       - uses: actions/checkout@v2
       
       - name: Setup Node.js environment
