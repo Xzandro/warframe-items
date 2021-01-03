@@ -25,3 +25,7 @@ jobs:
 
       - name: Building files
         run: npm run build
+      
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: New data files added
