@@ -20,7 +20,7 @@ class Build {
       manifest: await scraper.fetchImageManifest(),
       drops: await scraper.fetchDropRates(),
       patchlogs: scraper.fetchPatchLogs(),
-      // wikia: await scraper.fetchWikiaData(),
+      wikia: await scraper.fetchWikiaData(),
       vaultData: await scraper.fetchVaultData()
     }
     const parsed = parser.parse(raw)

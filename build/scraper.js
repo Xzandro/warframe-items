@@ -139,9 +139,9 @@ class Scraper {
 
     bar.tick()
     return {
-      weapons: await new WeaponScraper().scrape(),
-      warframes: await new WarframeScraper().scrape(),
-      mods: await new ModScraper().scrape(),
+      weapons: [],
+      warframes: [],
+      mods: [],
       ducats
     }
   }
