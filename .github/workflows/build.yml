@@ -1,0 +1,26 @@
+name: Build
+
+on:
+  workflow_dispatch:
+
+jobs:
+
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - name: Install needed build tools for unix
+        run: sudo apt install build-essential lua5.3 libpng-dev
+      - uses: actions/checkout@v2
+      
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v2.1.4
+        with:
+          node-version: '12'
+   
+      - name: Install dependencies
+        run: npm install  
+
+      - name: Building files
+        run: npm run build
