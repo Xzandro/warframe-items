@@ -130,25 +130,25 @@
       },
       {
         "location": "Eidolon Hydrolyst (Capture)",
-        "type": "Arcane Energize",
-        "chance": 0.05,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eidolon Hydrolyst (Capture)",
         "type": "Arcane Barrier",
         "chance": 0.05,
         "rarity": "Rare"
       },
       {
-        "location": "Eidolon Gantulyst (Capture)",
-        "type": "Arcane Aegis",
-        "chance": 0.0529,
+        "location": "Eidolon Hydrolyst (Capture)",
+        "type": "Arcane Energize",
+        "chance": 0.05,
         "rarity": "Rare"
       },
       {
         "location": "Eidolon Gantulyst (Capture)",
         "type": "Arcane Pulse",
+        "chance": 0.0529,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eidolon Gantulyst (Capture)",
+        "type": "Arcane Aegis",
         "chance": 0.0529,
         "rarity": "Rare"
       },
@@ -172,6 +172,12 @@
       },
       {
         "location": "Eidolon Teralyst (Capture)",
+        "type": "Arcane Victory",
+        "chance": 0.0602,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eidolon Teralyst (Capture)",
         "type": "Arcane Resistance",
         "chance": 0.0602,
         "rarity": "Rare"
@@ -179,12 +185,6 @@
       {
         "location": "Eidolon Teralyst (Capture)",
         "type": "Arcane Healing",
-        "chance": 0.0602,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Victory",
         "chance": 0.0602,
         "rarity": "Rare"
       },
@@ -202,18 +202,6 @@
       },
       {
         "location": "Eidolon Gantulyst (Capture)",
-        "type": "Arcane Eruption",
-        "chance": 0.0925,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eidolon Gantulyst (Capture)",
-        "type": "Arcane Acceleration",
-        "chance": 0.0925,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eidolon Gantulyst (Capture)",
         "type": "Arcane Agility",
         "chance": 0.0925,
         "rarity": "Rare"
@@ -225,8 +213,26 @@
         "rarity": "Rare"
       },
       {
-        "location": "Eidolon Gantulyst",
+        "location": "Eidolon Gantulyst (Capture)",
+        "type": "Arcane Acceleration",
+        "chance": 0.0925,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eidolon Gantulyst (Capture)",
         "type": "Arcane Eruption",
+        "chance": 0.0925,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eidolon Gantulyst",
+        "type": "Arcane Agility",
+        "chance": 0.102,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Eidolon Gantulyst",
+        "type": "Arcane Phantasm",
         "chance": 0.102,
         "rarity": "Uncommon"
       },
@@ -238,13 +244,7 @@
       },
       {
         "location": "Eidolon Gantulyst",
-        "type": "Arcane Agility",
-        "chance": 0.102,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Gantulyst",
-        "type": "Arcane Phantasm",
+        "type": "Arcane Eruption",
         "chance": 0.102,
         "rarity": "Uncommon"
       },
@@ -280,13 +280,7 @@
       },
       {
         "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Consequence",
-        "chance": 0.1205,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Nullifier",
+        "type": "Arcane Momentum",
         "chance": 0.1205,
         "rarity": "Uncommon"
       },
@@ -298,25 +292,31 @@
       },
       {
         "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Momentum",
+        "type": "Arcane Consequence",
+        "chance": 0.1205,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Eidolon Teralyst (Capture)",
+        "type": "Arcane Nullifier",
         "chance": 0.1205,
         "rarity": "Uncommon"
       },
       {
         "location": "Eidolon Hydrolyst (Capture)",
-        "type": "Arcane Arachne",
+        "type": "Arcane Rage",
         "chance": 0.1274,
         "rarity": "Uncommon"
       },
       {
         "location": "Eidolon Hydrolyst (Capture)",
-        "type": "Arcane Rage",
+        "type": "Arcane Arachne",
         "chance": 0.1274,
         "rarity": "Uncommon"
       },
       {
         "location": "Eidolon Hydrolyst",
-        "type": "Arcane Arachne",
+        "type": "Arcane Fury",
         "chance": 0.1376,
         "rarity": "Uncommon"
       },
@@ -328,7 +328,7 @@
       },
       {
         "location": "Eidolon Hydrolyst",
-        "type": "Arcane Fury",
+        "type": "Arcane Arachne",
         "chance": 0.1376,
         "rarity": "Uncommon"
       },
@@ -352,13 +352,7 @@
       },
       {
         "location": "Eidolon Teralyst",
-        "type": "Arcane Consequence",
-        "chance": 0.1495,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Teralyst",
-        "type": "Arcane Nullifier",
+        "type": "Arcane Momentum",
         "chance": 0.1495,
         "rarity": "Uncommon"
       },
@@ -370,7 +364,13 @@
       },
       {
         "location": "Eidolon Teralyst",
-        "type": "Arcane Momentum",
+        "type": "Arcane Consequence",
+        "chance": 0.1495,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Eidolon Teralyst",
+        "type": "Arcane Nullifier",
         "chance": 0.1495,
         "rarity": "Uncommon"
       },
@@ -1501,25 +1501,25 @@
       },
       {
         "location": "Eidolon Hydrolyst (Capture)",
-        "type": "Arcane Energize",
-        "chance": 0.05,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eidolon Hydrolyst (Capture)",
         "type": "Arcane Barrier",
         "chance": 0.05,
         "rarity": "Rare"
       },
       {
-        "location": "Eidolon Gantulyst (Capture)",
-        "type": "Arcane Aegis",
-        "chance": 0.0529,
+        "location": "Eidolon Hydrolyst (Capture)",
+        "type": "Arcane Energize",
+        "chance": 0.05,
         "rarity": "Rare"
       },
       {
         "location": "Eidolon Gantulyst (Capture)",
         "type": "Arcane Pulse",
+        "chance": 0.0529,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eidolon Gantulyst (Capture)",
+        "type": "Arcane Aegis",
         "chance": 0.0529,
         "rarity": "Rare"
       },
@@ -1543,6 +1543,12 @@
       },
       {
         "location": "Eidolon Teralyst (Capture)",
+        "type": "Arcane Victory",
+        "chance": 0.0602,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eidolon Teralyst (Capture)",
         "type": "Arcane Resistance",
         "chance": 0.0602,
         "rarity": "Rare"
@@ -1550,12 +1556,6 @@
       {
         "location": "Eidolon Teralyst (Capture)",
         "type": "Arcane Healing",
-        "chance": 0.0602,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Victory",
         "chance": 0.0602,
         "rarity": "Rare"
       },
@@ -1573,18 +1573,6 @@
       },
       {
         "location": "Eidolon Gantulyst (Capture)",
-        "type": "Arcane Eruption",
-        "chance": 0.0925,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eidolon Gantulyst (Capture)",
-        "type": "Arcane Acceleration",
-        "chance": 0.0925,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eidolon Gantulyst (Capture)",
         "type": "Arcane Agility",
         "chance": 0.0925,
         "rarity": "Rare"
@@ -1596,8 +1584,26 @@
         "rarity": "Rare"
       },
       {
-        "location": "Eidolon Gantulyst",
+        "location": "Eidolon Gantulyst (Capture)",
+        "type": "Arcane Acceleration",
+        "chance": 0.0925,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eidolon Gantulyst (Capture)",
         "type": "Arcane Eruption",
+        "chance": 0.0925,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eidolon Gantulyst",
+        "type": "Arcane Agility",
+        "chance": 0.102,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Eidolon Gantulyst",
+        "type": "Arcane Phantasm",
         "chance": 0.102,
         "rarity": "Uncommon"
       },
@@ -1609,13 +1615,7 @@
       },
       {
         "location": "Eidolon Gantulyst",
-        "type": "Arcane Agility",
-        "chance": 0.102,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Gantulyst",
-        "type": "Arcane Phantasm",
+        "type": "Arcane Eruption",
         "chance": 0.102,
         "rarity": "Uncommon"
       },
@@ -1651,13 +1651,7 @@
       },
       {
         "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Consequence",
-        "chance": 0.1205,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Nullifier",
+        "type": "Arcane Momentum",
         "chance": 0.1205,
         "rarity": "Uncommon"
       },
@@ -1669,25 +1663,31 @@
       },
       {
         "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Momentum",
+        "type": "Arcane Consequence",
+        "chance": 0.1205,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Eidolon Teralyst (Capture)",
+        "type": "Arcane Nullifier",
         "chance": 0.1205,
         "rarity": "Uncommon"
       },
       {
         "location": "Eidolon Hydrolyst (Capture)",
-        "type": "Arcane Arachne",
+        "type": "Arcane Rage",
         "chance": 0.1274,
         "rarity": "Uncommon"
       },
       {
         "location": "Eidolon Hydrolyst (Capture)",
-        "type": "Arcane Rage",
+        "type": "Arcane Arachne",
         "chance": 0.1274,
         "rarity": "Uncommon"
       },
       {
         "location": "Eidolon Hydrolyst",
-        "type": "Arcane Arachne",
+        "type": "Arcane Fury",
         "chance": 0.1376,
         "rarity": "Uncommon"
       },
@@ -1699,7 +1699,7 @@
       },
       {
         "location": "Eidolon Hydrolyst",
-        "type": "Arcane Fury",
+        "type": "Arcane Arachne",
         "chance": 0.1376,
         "rarity": "Uncommon"
       },
@@ -1723,13 +1723,7 @@
       },
       {
         "location": "Eidolon Teralyst",
-        "type": "Arcane Consequence",
-        "chance": 0.1495,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Teralyst",
-        "type": "Arcane Nullifier",
+        "type": "Arcane Momentum",
         "chance": 0.1495,
         "rarity": "Uncommon"
       },
@@ -1741,7 +1735,13 @@
       },
       {
         "location": "Eidolon Teralyst",
-        "type": "Arcane Momentum",
+        "type": "Arcane Consequence",
+        "chance": 0.1495,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Eidolon Teralyst",
+        "type": "Arcane Nullifier",
         "chance": 0.1495,
         "rarity": "Uncommon"
       },
@@ -2872,25 +2872,25 @@
       },
       {
         "location": "Eidolon Hydrolyst (Capture)",
-        "type": "Arcane Energize",
-        "chance": 0.05,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eidolon Hydrolyst (Capture)",
         "type": "Arcane Barrier",
         "chance": 0.05,
         "rarity": "Rare"
       },
       {
-        "location": "Eidolon Gantulyst (Capture)",
-        "type": "Arcane Aegis",
-        "chance": 0.0529,
+        "location": "Eidolon Hydrolyst (Capture)",
+        "type": "Arcane Energize",
+        "chance": 0.05,
         "rarity": "Rare"
       },
       {
         "location": "Eidolon Gantulyst (Capture)",
         "type": "Arcane Pulse",
+        "chance": 0.0529,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eidolon Gantulyst (Capture)",
+        "type": "Arcane Aegis",
         "chance": 0.0529,
         "rarity": "Rare"
       },
@@ -2914,6 +2914,12 @@
       },
       {
         "location": "Eidolon Teralyst (Capture)",
+        "type": "Arcane Victory",
+        "chance": 0.0602,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eidolon Teralyst (Capture)",
         "type": "Arcane Resistance",
         "chance": 0.0602,
         "rarity": "Rare"
@@ -2921,12 +2927,6 @@
       {
         "location": "Eidolon Teralyst (Capture)",
         "type": "Arcane Healing",
-        "chance": 0.0602,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Victory",
         "chance": 0.0602,
         "rarity": "Rare"
       },
@@ -2944,18 +2944,6 @@
       },
       {
         "location": "Eidolon Gantulyst (Capture)",
-        "type": "Arcane Eruption",
-        "chance": 0.0925,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eidolon Gantulyst (Capture)",
-        "type": "Arcane Acceleration",
-        "chance": 0.0925,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eidolon Gantulyst (Capture)",
         "type": "Arcane Agility",
         "chance": 0.0925,
         "rarity": "Rare"
@@ -2967,8 +2955,26 @@
         "rarity": "Rare"
       },
       {
-        "location": "Eidolon Gantulyst",
+        "location": "Eidolon Gantulyst (Capture)",
+        "type": "Arcane Acceleration",
+        "chance": 0.0925,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eidolon Gantulyst (Capture)",
         "type": "Arcane Eruption",
+        "chance": 0.0925,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eidolon Gantulyst",
+        "type": "Arcane Agility",
+        "chance": 0.102,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Eidolon Gantulyst",
+        "type": "Arcane Phantasm",
         "chance": 0.102,
         "rarity": "Uncommon"
       },
@@ -2980,13 +2986,7 @@
       },
       {
         "location": "Eidolon Gantulyst",
-        "type": "Arcane Agility",
-        "chance": 0.102,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Gantulyst",
-        "type": "Arcane Phantasm",
+        "type": "Arcane Eruption",
         "chance": 0.102,
         "rarity": "Uncommon"
       },
@@ -3022,13 +3022,7 @@
       },
       {
         "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Consequence",
-        "chance": 0.1205,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Nullifier",
+        "type": "Arcane Momentum",
         "chance": 0.1205,
         "rarity": "Uncommon"
       },
@@ -3040,25 +3034,31 @@
       },
       {
         "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Momentum",
+        "type": "Arcane Consequence",
+        "chance": 0.1205,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Eidolon Teralyst (Capture)",
+        "type": "Arcane Nullifier",
         "chance": 0.1205,
         "rarity": "Uncommon"
       },
       {
         "location": "Eidolon Hydrolyst (Capture)",
-        "type": "Arcane Arachne",
+        "type": "Arcane Rage",
         "chance": 0.1274,
         "rarity": "Uncommon"
       },
       {
         "location": "Eidolon Hydrolyst (Capture)",
-        "type": "Arcane Rage",
+        "type": "Arcane Arachne",
         "chance": 0.1274,
         "rarity": "Uncommon"
       },
       {
         "location": "Eidolon Hydrolyst",
-        "type": "Arcane Arachne",
+        "type": "Arcane Fury",
         "chance": 0.1376,
         "rarity": "Uncommon"
       },
@@ -3070,7 +3070,7 @@
       },
       {
         "location": "Eidolon Hydrolyst",
-        "type": "Arcane Fury",
+        "type": "Arcane Arachne",
         "chance": 0.1376,
         "rarity": "Uncommon"
       },
@@ -3094,13 +3094,7 @@
       },
       {
         "location": "Eidolon Teralyst",
-        "type": "Arcane Consequence",
-        "chance": 0.1495,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Teralyst",
-        "type": "Arcane Nullifier",
+        "type": "Arcane Momentum",
         "chance": 0.1495,
         "rarity": "Uncommon"
       },
@@ -3112,7 +3106,13 @@
       },
       {
         "location": "Eidolon Teralyst",
-        "type": "Arcane Momentum",
+        "type": "Arcane Consequence",
+        "chance": 0.1495,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Eidolon Teralyst",
+        "type": "Arcane Nullifier",
         "chance": 0.1495,
         "rarity": "Uncommon"
       },
@@ -4243,25 +4243,25 @@
       },
       {
         "location": "Eidolon Hydrolyst (Capture)",
-        "type": "Arcane Energize",
-        "chance": 0.05,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eidolon Hydrolyst (Capture)",
         "type": "Arcane Barrier",
         "chance": 0.05,
         "rarity": "Rare"
       },
       {
-        "location": "Eidolon Gantulyst (Capture)",
-        "type": "Arcane Aegis",
-        "chance": 0.0529,
+        "location": "Eidolon Hydrolyst (Capture)",
+        "type": "Arcane Energize",
+        "chance": 0.05,
         "rarity": "Rare"
       },
       {
         "location": "Eidolon Gantulyst (Capture)",
         "type": "Arcane Pulse",
+        "chance": 0.0529,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eidolon Gantulyst (Capture)",
+        "type": "Arcane Aegis",
         "chance": 0.0529,
         "rarity": "Rare"
       },
@@ -4285,6 +4285,12 @@
       },
       {
         "location": "Eidolon Teralyst (Capture)",
+        "type": "Arcane Victory",
+        "chance": 0.0602,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eidolon Teralyst (Capture)",
         "type": "Arcane Resistance",
         "chance": 0.0602,
         "rarity": "Rare"
@@ -4292,12 +4298,6 @@
       {
         "location": "Eidolon Teralyst (Capture)",
         "type": "Arcane Healing",
-        "chance": 0.0602,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Victory",
         "chance": 0.0602,
         "rarity": "Rare"
       },
@@ -4315,18 +4315,6 @@
       },
       {
         "location": "Eidolon Gantulyst (Capture)",
-        "type": "Arcane Eruption",
-        "chance": 0.0925,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eidolon Gantulyst (Capture)",
-        "type": "Arcane Acceleration",
-        "chance": 0.0925,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eidolon Gantulyst (Capture)",
         "type": "Arcane Agility",
         "chance": 0.0925,
         "rarity": "Rare"
@@ -4338,8 +4326,26 @@
         "rarity": "Rare"
       },
       {
-        "location": "Eidolon Gantulyst",
+        "location": "Eidolon Gantulyst (Capture)",
+        "type": "Arcane Acceleration",
+        "chance": 0.0925,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eidolon Gantulyst (Capture)",
         "type": "Arcane Eruption",
+        "chance": 0.0925,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eidolon Gantulyst",
+        "type": "Arcane Agility",
+        "chance": 0.102,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Eidolon Gantulyst",
+        "type": "Arcane Phantasm",
         "chance": 0.102,
         "rarity": "Uncommon"
       },
@@ -4351,13 +4357,7 @@
       },
       {
         "location": "Eidolon Gantulyst",
-        "type": "Arcane Agility",
-        "chance": 0.102,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Gantulyst",
-        "type": "Arcane Phantasm",
+        "type": "Arcane Eruption",
         "chance": 0.102,
         "rarity": "Uncommon"
       },
@@ -4393,13 +4393,7 @@
       },
       {
         "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Consequence",
-        "chance": 0.1205,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Nullifier",
+        "type": "Arcane Momentum",
         "chance": 0.1205,
         "rarity": "Uncommon"
       },
@@ -4411,25 +4405,31 @@
       },
       {
         "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Momentum",
+        "type": "Arcane Consequence",
+        "chance": 0.1205,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Eidolon Teralyst (Capture)",
+        "type": "Arcane Nullifier",
         "chance": 0.1205,
         "rarity": "Uncommon"
       },
       {
         "location": "Eidolon Hydrolyst (Capture)",
-        "type": "Arcane Arachne",
+        "type": "Arcane Rage",
         "chance": 0.1274,
         "rarity": "Uncommon"
       },
       {
         "location": "Eidolon Hydrolyst (Capture)",
-        "type": "Arcane Rage",
+        "type": "Arcane Arachne",
         "chance": 0.1274,
         "rarity": "Uncommon"
       },
       {
         "location": "Eidolon Hydrolyst",
-        "type": "Arcane Arachne",
+        "type": "Arcane Fury",
         "chance": 0.1376,
         "rarity": "Uncommon"
       },
@@ -4441,7 +4441,7 @@
       },
       {
         "location": "Eidolon Hydrolyst",
-        "type": "Arcane Fury",
+        "type": "Arcane Arachne",
         "chance": 0.1376,
         "rarity": "Uncommon"
       },
@@ -4465,13 +4465,7 @@
       },
       {
         "location": "Eidolon Teralyst",
-        "type": "Arcane Consequence",
-        "chance": 0.1495,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Teralyst",
-        "type": "Arcane Nullifier",
+        "type": "Arcane Momentum",
         "chance": 0.1495,
         "rarity": "Uncommon"
       },
@@ -4483,7 +4477,13 @@
       },
       {
         "location": "Eidolon Teralyst",
-        "type": "Arcane Momentum",
+        "type": "Arcane Consequence",
+        "chance": 0.1495,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Eidolon Teralyst",
+        "type": "Arcane Nullifier",
         "chance": 0.1495,
         "rarity": "Uncommon"
       },

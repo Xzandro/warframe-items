@@ -3608,6 +3608,12 @@
             "rarity": "Legendary"
           },
           {
+            "location": "Brachiolyst",
+            "type": "Orokin Cell",
+            "chance": 0.0026,
+            "rarity": "Rare"
+          },
+          {
             "location": "Amalgam Arca Heqet",
             "type": "Orokin Cell",
             "chance": 0.0027,
@@ -3734,12 +3740,6 @@
             "rarity": "Rare"
           },
           {
-            "location": "Brachiolyst",
-            "type": "Orokin Cell",
-            "chance": 0.0129,
-            "rarity": "Rare"
-          },
-          {
             "location": "Conculyst",
             "type": "Orokin Cell",
             "chance": 0.0129,
@@ -3764,6 +3764,12 @@
             "rarity": "Rare"
           },
           {
+            "location": "Ortholyst",
+            "type": "Orokin Cell",
+            "chance": 0.0129,
+            "rarity": "Rare"
+          },
+          {
             "location": "Shadow Stalker",
             "type": "Orokin Cell",
             "chance": 0.0129,
@@ -3771,6 +3777,12 @@
           },
           {
             "location": "Stalker",
+            "type": "Orokin Cell",
+            "chance": 0.0129,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Summulyst",
             "type": "Orokin Cell",
             "chance": 0.0129,
             "rarity": "Rare"
@@ -4668,6 +4680,12 @@
             "rarity": "Legendary"
           },
           {
+            "location": "Brachiolyst",
+            "type": "Orokin Cell",
+            "chance": 0.0026,
+            "rarity": "Rare"
+          },
+          {
             "location": "Amalgam Arca Heqet",
             "type": "Orokin Cell",
             "chance": 0.0027,
@@ -4794,12 +4812,6 @@
             "rarity": "Rare"
           },
           {
-            "location": "Brachiolyst",
-            "type": "Orokin Cell",
-            "chance": 0.0129,
-            "rarity": "Rare"
-          },
-          {
             "location": "Conculyst",
             "type": "Orokin Cell",
             "chance": 0.0129,
@@ -4824,6 +4836,12 @@
             "rarity": "Rare"
           },
           {
+            "location": "Ortholyst",
+            "type": "Orokin Cell",
+            "chance": 0.0129,
+            "rarity": "Rare"
+          },
+          {
             "location": "Shadow Stalker",
             "type": "Orokin Cell",
             "chance": 0.0129,
@@ -4831,6 +4849,12 @@
           },
           {
             "location": "Stalker",
+            "type": "Orokin Cell",
+            "chance": 0.0129,
+            "rarity": "Rare"
+          },
+          {
+            "location": "Summulyst",
             "type": "Orokin Cell",
             "chance": 0.0129,
             "rarity": "Rare"
