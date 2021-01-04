@@ -1,35 +1,24 @@
 name: Build
-
 on:
   workflow_dispatch:
 
 jobs:
-
-  build:
+  lint:
+    name: Build
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [15.x]
 
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - name: Install needed build tools for unix
-        run: sudo apt install build-essential libpng-dev
-        
-      - uses: xpol/setup-lua@v0.2
-        env:
-          ACTIONS_ALLOW_UNSECURE_COMMANDS: 'true'
-
-      - uses: actions/checkout@v2
-      
-      - name: Setup Node.js environment
-        uses: actions/setup-node@v2.1.4
-        with:
-          node-version: '12'
-   
-      - name: Install dependencies
-        run: npm install  
-
-      - name: Building files
-        run: npm run build
-      
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: New data files added
+    - uses: actions/checkout@v2
+    - uses: leafo/gh-actions-lua@v8.0.0
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v1
+      with:
+        node-version: ${{ matrix.node-version }}
+    - run: npm install
+    - run: npm run build
+    - uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: New data files added
