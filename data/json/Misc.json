@@ -13179,7 +13179,7 @@
   {
     "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/SentientShards/SentientShardCommonItem",
     "name": "Eidolon Shard",
-    "description": "Shard gained from the sentients roaming the Plains of Eidolon.",
+    "description": "Shard gained from the Sentients roaming the Plains of Eidolon.",
     "type": "Eidolon Shard",
     "imageName": "eidolon-shard.png",
     "category": "Misc",
