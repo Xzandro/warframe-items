@@ -32857,5 +32857,13 @@
  {
   "uniqueName": "/Lotus/Upgrades/Skins/Necramech/NecramechVoidRigDefaultHelmet",
   "isComponent": false
+ },
+ {
+  "uniqueName": "/Lotus/Types/Items/MiscItems/NoraIntermissionThreeCreds",
+  "isComponent": false
+ },
+ {
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Plushies/PlushyTicker",
+  "isComponent": false
  }
 ]

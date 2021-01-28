@@ -69446,6 +69446,16 @@
     "tradable": false
   },
   {
+    "uniqueName": "/Lotus/Types/Items/MiscItems/NoraIntermissionThreeCreds",
+    "name": "Intermission Iii Cred",
+    "description": "Used to purchase Nightwave's Cred Offerings. Nightwave Creds from past Series can be kept as souvenirs or sold for <CREDITS>Credits.",
+    "excludeFromCodex": true,
+    "type": "Misc",
+    "imageName": "intermission-iii-cred.png",
+    "category": "Misc",
+    "tradable": false
+  },
+  {
     "uniqueName": "/Lotus/Types/Items/SyndicateDogTags/CephalonUncommonDogTag",
     "name": "Intriguing Datum",
     "description": "Medallion of the Cephalon Suda syndicate. Can be traded in on relay syndicate hubs for additional standing.",
