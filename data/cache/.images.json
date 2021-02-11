@@ -33425,5 +33425,85 @@
  {
   "uniqueName": "/Lotus/Upgrades/Mods/Melee/Expert/WeaponGlaiveSpeedModExpert",
   "isComponent": false
+ },
+ {
+  "uniqueName": "/Lotus/Upgrades/Skins/LunarNewYear/Lunar2020AcceltraSkin",
+  "isComponent": false
+ },
+ {
+  "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerValItemB",
+  "isComponent": false
+ },
+ {
+  "uniqueName": "/Lotus/Upgrades/Skins/Effects/CupidWingsEphemera",
+  "isComponent": false
+ },
+ {
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ChineseNewYear2021Glyph",
+  "isComponent": false
+ },
+ {
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/WeGame/LuckyKavatGold",
+  "isComponent": false
+ },
+ {
+  "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/WegameChinaKnotDangle",
+  "isComponent": false
+ },
+ {
+  "uniqueName": "/Lotus/Upgrades/Skins/Promo/WeGame/WeGameMacheteSkin",
+  "isComponent": false
+ },
+ {
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/CNY2021Poster",
+  "isComponent": false
+ },
+ {
+  "uniqueName": "/Lotus/Upgrades/Skins/Clan/CNY2021EmblemItem",
+  "isComponent": false
+ },
+ {
+  "uniqueName": "/Lotus/Upgrades/Skins/Sigils/WeGameNewYearOxSigil",
+  "isComponent": false
+ },
+ {
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/Events/TickerValentineWings",
+  "isComponent": false
+ },
+ {
+  "uniqueName": "/Lotus/Upgrades/Skins/LunarNewYear/Lunar2020OrthosSkin",
+  "isComponent": false
+ },
+ {
+  "uniqueName": "/Lotus/Upgrades/Skins/LunarNewYear/Lunar2020PyranaSkin",
+  "isComponent": false
+ },
+ {
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageValentine2021Deimos",
+  "isComponent": false
+ },
+ {
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageValentine2021Gauss",
+  "isComponent": false
+ },
+ {
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageValentine2021Helminth",
+  "isComponent": false
+ },
+ {
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageValentine2021Lavos",
+  "isComponent": false
+ },
+ {
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageValentine2021Mech",
+  "isComponent": false
+ },
+ {
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/WeGame/LuckyKavat",
+  "isComponent": false
+ },
+ {
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/WeGame/LuckyKavatWhite",
+  "isComponent": false
  }
 ]

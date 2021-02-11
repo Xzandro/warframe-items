@@ -1523,6 +1523,16 @@
     "tradable": false
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/WeGameNewYearOxSigil",
+    "name": "Lunar Renewal Ox Sigil",
+    "excludeFromCodex": true,
+    "description": "Celebrate the new lunar year with the power of the noble ox.",
+    "type": "Sigil",
+    "imageName": "lunar-renewal-ox-sigil.png",
+    "category": "Sigils",
+    "tradable": false
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/BossSigilLynx",
     "name": "Lynx Sigil",
     "description": "A sigil depicting the Lynx.",
