@@ -46,6 +46,5 @@
     "sharp": "^0.25.2",
     "socks5-http-client": "^1.0.4",
     "warframe-patchlogs": "^1.514.0"
-  },
-  "dependencies": {}
+  }
 }
