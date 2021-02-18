@@ -33505,5 +33505,9 @@
  {
   "uniqueName": "/Lotus/Types/Items/ShipDecos/WeGame/LuckyKavatWhite",
   "isComponent": false
+ },
+ {
+  "uniqueName": "/Lotus/Upgrades/Skins/Operator/Hoods/WolfHood",
+  "isComponent": false
  }
 ]
