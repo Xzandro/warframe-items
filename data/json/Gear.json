@@ -312,25 +312,25 @@
             "rarity": "Legendary"
           },
           {
-            "location": "Mars/Gradivus (Caches), Rotation C",
+            "location": "Mars/Gradivus (Caches) (Caches), Rotation C",
             "type": "Morphics",
             "chance": 0.151,
             "rarity": "Uncommon"
           },
           {
-            "location": "Mercury/Neruda (Caches), Rotation C",
+            "location": "Mercury/Neruda (Caches) (Caches), Rotation C",
             "type": "Morphics",
             "chance": 0.151,
             "rarity": "Uncommon"
           },
           {
-            "location": "Mercury/Terminus (Caches), Rotation C",
+            "location": "Mercury/Terminus (Caches) (Caches), Rotation C",
             "type": "Morphics",
             "chance": 0.151,
             "rarity": "Uncommon"
           },
           {
-            "location": "Venus/Ishtar (Caches), Rotation C",
+            "location": "Venus/Ishtar (Caches) (Caches), Rotation C",
             "type": "Morphics",
             "chance": 0.151,
             "rarity": "Uncommon"
@@ -740,109 +740,109 @@
             "rarity": "Rare"
           },
           {
-            "location": "Mars/Gradivus (Caches), Rotation C",
+            "location": "Mars/Gradivus (Caches) (Caches), Rotation C",
             "type": "Tellurium",
             "chance": 0.0067,
             "rarity": "Legendary"
           },
           {
-            "location": "Mercury/Neruda (Caches), Rotation C",
+            "location": "Mercury/Neruda (Caches) (Caches), Rotation C",
             "type": "Tellurium",
             "chance": 0.0067,
             "rarity": "Legendary"
           },
           {
-            "location": "Mercury/Terminus (Caches), Rotation C",
+            "location": "Mercury/Terminus (Caches) (Caches), Rotation C",
             "type": "Tellurium",
             "chance": 0.0067,
             "rarity": "Legendary"
           },
           {
-            "location": "Venus/Ishtar (Caches), Rotation C",
+            "location": "Venus/Ishtar (Caches) (Caches), Rotation C",
             "type": "Tellurium",
             "chance": 0.0067,
             "rarity": "Legendary"
           },
           {
-            "location": "Kuva Fortress/Dakata (Caches), Rotation C",
+            "location": "Kuva Fortress/Dakata (Caches) (Caches), Rotation C",
             "type": "Tellurium",
             "chance": 0.0367,
             "rarity": "Rare"
           },
           {
-            "location": "Neptune/Halimede (Caches), Rotation C",
+            "location": "Neptune/Halimede (Caches) (Caches), Rotation C",
             "type": "Tellurium",
             "chance": 0.0367,
             "rarity": "Rare"
           },
           {
-            "location": "Neptune/Thalassa (Caches), Rotation C",
+            "location": "Neptune/Thalassa (Caches) (Caches), Rotation C",
             "type": "Tellurium",
             "chance": 0.0367,
             "rarity": "Rare"
           },
           {
-            "location": "Pluto/Charon (Caches), Rotation C",
+            "location": "Pluto/Charon (Caches) (Caches), Rotation C",
             "type": "Tellurium",
             "chance": 0.0367,
             "rarity": "Rare"
           },
           {
-            "location": "Pluto/Cypress (Caches), Rotation C",
+            "location": "Pluto/Cypress (Caches) (Caches), Rotation C",
             "type": "Tellurium",
             "chance": 0.0367,
             "rarity": "Rare"
           },
           {
-            "location": "Sedna/Phithale (Caches), Rotation C",
+            "location": "Sedna/Phithale (Caches) (Caches), Rotation C",
             "type": "Tellurium",
             "chance": 0.0367,
             "rarity": "Rare"
           },
           {
-            "location": "Sedna/Rusalka (Caches), Rotation C",
+            "location": "Sedna/Rusalka (Caches) (Caches), Rotation C",
             "type": "Tellurium",
             "chance": 0.0367,
             "rarity": "Rare"
           },
           {
-            "location": "Uranus/Portia (Caches), Rotation C",
+            "location": "Uranus/Portia (Caches) (Caches), Rotation C",
             "type": "Tellurium",
             "chance": 0.0367,
             "rarity": "Rare"
           },
           {
-            "location": "Ceres/Ker (Caches), Rotation C",
+            "location": "Ceres/Ker (Caches) (Caches), Rotation C",
             "type": "Tellurium",
             "chance": 0.044,
             "rarity": "Rare"
           },
           {
-            "location": "Ceres/Thon (Caches), Rotation C",
+            "location": "Ceres/Thon (Caches) (Caches), Rotation C",
             "type": "Tellurium",
             "chance": 0.044,
             "rarity": "Rare"
           },
           {
-            "location": "Jupiter/Adrastea (Caches), Rotation C",
+            "location": "Jupiter/Adrastea (Caches) (Caches), Rotation C",
             "type": "Tellurium",
             "chance": 0.044,
             "rarity": "Rare"
           },
           {
-            "location": "Jupiter/Carpo (Caches), Rotation C",
+            "location": "Jupiter/Carpo (Caches) (Caches), Rotation C",
             "type": "Tellurium",
             "chance": 0.044,
             "rarity": "Rare"
           },
           {
-            "location": "Saturn/Calypso (Caches), Rotation C",
+            "location": "Saturn/Calypso (Caches) (Caches), Rotation C",
             "type": "Tellurium",
             "chance": 0.044,
             "rarity": "Rare"
           },
           {
-            "location": "Saturn/Pallene (Caches), Rotation C",
+            "location": "Saturn/Pallene (Caches) (Caches), Rotation C",
             "type": "Tellurium",
             "chance": 0.044,
             "rarity": "Rare"
@@ -884,7 +884,7 @@
             "rarity": "Rare"
           },
           {
-            "location": "Lua/Plato (Caches), Rotation C",
+            "location": "Lua/Plato (Caches) (Caches), Rotation C",
             "type": "Tellurium",
             "chance": 0.1082,
             "rarity": "Uncommon"
@@ -908,19 +908,19 @@
             "rarity": "Uncommon"
           },
           {
-            "location": "Uranus/Desdemona (Caches), Rotation C",
+            "location": "Uranus/Desdemona (Caches) (Caches), Rotation C",
             "type": "Tellurium",
             "chance": 0.1549,
             "rarity": "Uncommon"
           },
           {
-            "location": "Uranus/Prospero (Caches), Rotation C",
+            "location": "Uranus/Prospero (Caches) (Caches), Rotation C",
             "type": "Tellurium",
             "chance": 0.1549,
             "rarity": "Uncommon"
           },
           {
-            "location": "Uranus/Setebos (Caches), Rotation C",
+            "location": "Uranus/Setebos (Caches) (Caches), Rotation C",
             "type": "Tellurium",
             "chance": 0.1549,
             "rarity": "Uncommon"
@@ -2331,115 +2331,115 @@
             "rarity": "Legendary"
           },
           {
-            "location": "Kuva Fortress/Dakata (Caches), Rotation C",
+            "location": "Kuva Fortress/Dakata (Caches) (Caches), Rotation C",
             "type": "Gallium",
             "chance": 0.1079,
             "rarity": "Uncommon"
           },
           {
-            "location": "Lua/Plato (Caches), Rotation C",
+            "location": "Lua/Plato (Caches) (Caches), Rotation C",
             "type": "Gallium",
             "chance": 0.1082,
             "rarity": "Uncommon"
           },
           {
-            "location": "Neptune/Halimede (Caches), Rotation C",
+            "location": "Neptune/Halimede (Caches) (Caches), Rotation C",
             "type": "Gallium",
             "chance": 0.1258,
             "rarity": "Uncommon"
           },
           {
-            "location": "Neptune/Thalassa (Caches), Rotation C",
+            "location": "Neptune/Thalassa (Caches) (Caches), Rotation C",
             "type": "Gallium",
             "chance": 0.1258,
             "rarity": "Uncommon"
           },
           {
-            "location": "Pluto/Charon (Caches), Rotation C",
+            "location": "Pluto/Charon (Caches) (Caches), Rotation C",
             "type": "Gallium",
             "chance": 0.1258,
             "rarity": "Uncommon"
           },
           {
-            "location": "Pluto/Cypress (Caches), Rotation C",
+            "location": "Pluto/Cypress (Caches) (Caches), Rotation C",
             "type": "Gallium",
             "chance": 0.1258,
             "rarity": "Uncommon"
           },
           {
-            "location": "Sedna/Phithale (Caches), Rotation C",
+            "location": "Sedna/Phithale (Caches) (Caches), Rotation C",
             "type": "Gallium",
             "chance": 0.1258,
             "rarity": "Uncommon"
           },
           {
-            "location": "Sedna/Rusalka (Caches), Rotation C",
+            "location": "Sedna/Rusalka (Caches) (Caches), Rotation C",
             "type": "Gallium",
             "chance": 0.1258,
             "rarity": "Uncommon"
           },
           {
-            "location": "Uranus/Portia (Caches), Rotation C",
+            "location": "Uranus/Portia (Caches) (Caches), Rotation C",
             "type": "Gallium",
             "chance": 0.1258,
             "rarity": "Uncommon"
           },
           {
-            "location": "Ceres/Ker (Caches), Rotation C",
+            "location": "Ceres/Ker (Caches) (Caches), Rotation C",
             "type": "Gallium",
             "chance": 0.151,
             "rarity": "Uncommon"
           },
           {
-            "location": "Ceres/Thon (Caches), Rotation C",
+            "location": "Ceres/Thon (Caches) (Caches), Rotation C",
             "type": "Gallium",
             "chance": 0.151,
             "rarity": "Uncommon"
           },
           {
-            "location": "Jupiter/Adrastea (Caches), Rotation C",
+            "location": "Jupiter/Adrastea (Caches) (Caches), Rotation C",
             "type": "Gallium",
             "chance": 0.151,
             "rarity": "Uncommon"
           },
           {
-            "location": "Jupiter/Carpo (Caches), Rotation C",
+            "location": "Jupiter/Carpo (Caches) (Caches), Rotation C",
             "type": "Gallium",
             "chance": 0.151,
             "rarity": "Uncommon"
           },
           {
-            "location": "Mars/Gradivus (Caches), Rotation C",
+            "location": "Mars/Gradivus (Caches) (Caches), Rotation C",
             "type": "Gallium",
             "chance": 0.151,
             "rarity": "Uncommon"
           },
           {
-            "location": "Mercury/Neruda (Caches), Rotation C",
+            "location": "Mercury/Neruda (Caches) (Caches), Rotation C",
             "type": "Gallium",
             "chance": 0.151,
             "rarity": "Uncommon"
           },
           {
-            "location": "Mercury/Terminus (Caches), Rotation C",
+            "location": "Mercury/Terminus (Caches) (Caches), Rotation C",
             "type": "Gallium",
             "chance": 0.151,
             "rarity": "Uncommon"
           },
           {
-            "location": "Saturn/Calypso (Caches), Rotation C",
+            "location": "Saturn/Calypso (Caches) (Caches), Rotation C",
             "type": "Gallium",
             "chance": 0.151,
             "rarity": "Uncommon"
           },
           {
-            "location": "Saturn/Pallene (Caches), Rotation C",
+            "location": "Saturn/Pallene (Caches) (Caches), Rotation C",
             "type": "Gallium",
             "chance": 0.151,
             "rarity": "Uncommon"
           },
           {
-            "location": "Venus/Ishtar (Caches), Rotation C",
+            "location": "Venus/Ishtar (Caches) (Caches), Rotation C",
             "type": "Gallium",
             "chance": 0.151,
             "rarity": "Uncommon"
@@ -4842,25 +4842,25 @@
             "rarity": "Legendary"
           },
           {
-            "location": "Mars/Gradivus (Caches), Rotation C",
+            "location": "Mars/Gradivus (Caches) (Caches), Rotation C",
             "type": "Morphics",
             "chance": 0.151,
             "rarity": "Uncommon"
           },
           {
-            "location": "Mercury/Neruda (Caches), Rotation C",
+            "location": "Mercury/Neruda (Caches) (Caches), Rotation C",
             "type": "Morphics",
             "chance": 0.151,
             "rarity": "Uncommon"
           },
           {
-            "location": "Mercury/Terminus (Caches), Rotation C",
+            "location": "Mercury/Terminus (Caches) (Caches), Rotation C",
             "type": "Morphics",
             "chance": 0.151,
             "rarity": "Uncommon"
           },
           {
-            "location": "Venus/Ishtar (Caches), Rotation C",
+            "location": "Venus/Ishtar (Caches) (Caches), Rotation C",
             "type": "Morphics",
             "chance": 0.151,
             "rarity": "Uncommon"
@@ -6439,127 +6439,127 @@
             "rarity": "Legendary"
           },
           {
-            "location": "Mars/Gradivus (Caches), Rotation C",
+            "location": "Mars/Gradivus (Caches) (Caches), Rotation C",
             "type": "Argon Crystal",
             "chance": 0.0067,
             "rarity": "Legendary"
           },
           {
-            "location": "Mercury/Neruda (Caches), Rotation C",
+            "location": "Mercury/Neruda (Caches) (Caches), Rotation C",
             "type": "Argon Crystal",
             "chance": 0.0067,
             "rarity": "Legendary"
           },
           {
-            "location": "Mercury/Terminus (Caches), Rotation C",
+            "location": "Mercury/Terminus (Caches) (Caches), Rotation C",
             "type": "Argon Crystal",
             "chance": 0.0067,
             "rarity": "Legendary"
           },
           {
-            "location": "Venus/Ishtar (Caches), Rotation C",
+            "location": "Venus/Ishtar (Caches) (Caches), Rotation C",
             "type": "Argon Crystal",
             "chance": 0.0067,
             "rarity": "Legendary"
           },
           {
-            "location": "Ceres/Ker (Caches), Rotation C",
+            "location": "Ceres/Ker (Caches) (Caches), Rotation C",
             "type": "Argon Crystal",
             "chance": 0.01,
             "rarity": "Rare"
           },
           {
-            "location": "Ceres/Thon (Caches), Rotation C",
+            "location": "Ceres/Thon (Caches) (Caches), Rotation C",
             "type": "Argon Crystal",
             "chance": 0.01,
             "rarity": "Rare"
           },
           {
-            "location": "Jupiter/Adrastea (Caches), Rotation C",
+            "location": "Jupiter/Adrastea (Caches) (Caches), Rotation C",
             "type": "Argon Crystal",
             "chance": 0.01,
             "rarity": "Rare"
           },
           {
-            "location": "Jupiter/Carpo (Caches), Rotation C",
+            "location": "Jupiter/Carpo (Caches) (Caches), Rotation C",
             "type": "Argon Crystal",
             "chance": 0.01,
             "rarity": "Rare"
           },
           {
-            "location": "Saturn/Calypso (Caches), Rotation C",
+            "location": "Saturn/Calypso (Caches) (Caches), Rotation C",
             "type": "Argon Crystal",
             "chance": 0.01,
             "rarity": "Rare"
           },
           {
-            "location": "Saturn/Pallene (Caches), Rotation C",
+            "location": "Saturn/Pallene (Caches) (Caches), Rotation C",
             "type": "Argon Crystal",
             "chance": 0.01,
             "rarity": "Rare"
           },
           {
-            "location": "Kuva Fortress/Dakata (Caches), Rotation C",
+            "location": "Kuva Fortress/Dakata (Caches) (Caches), Rotation C",
             "type": "Argon Crystal",
             "chance": 0.0367,
             "rarity": "Rare"
           },
           {
-            "location": "Neptune/Halimede (Caches), Rotation C",
+            "location": "Neptune/Halimede (Caches) (Caches), Rotation C",
             "type": "Argon Crystal",
             "chance": 0.0367,
             "rarity": "Rare"
           },
           {
-            "location": "Neptune/Thalassa (Caches), Rotation C",
+            "location": "Neptune/Thalassa (Caches) (Caches), Rotation C",
             "type": "Argon Crystal",
             "chance": 0.0367,
             "rarity": "Rare"
           },
           {
-            "location": "Pluto/Charon (Caches), Rotation C",
+            "location": "Pluto/Charon (Caches) (Caches), Rotation C",
             "type": "Argon Crystal",
             "chance": 0.0367,
             "rarity": "Rare"
           },
           {
-            "location": "Pluto/Cypress (Caches), Rotation C",
+            "location": "Pluto/Cypress (Caches) (Caches), Rotation C",
             "type": "Argon Crystal",
             "chance": 0.0367,
             "rarity": "Rare"
           },
           {
-            "location": "Sedna/Phithale (Caches), Rotation C",
+            "location": "Sedna/Phithale (Caches) (Caches), Rotation C",
             "type": "Argon Crystal",
             "chance": 0.0367,
             "rarity": "Rare"
           },
           {
-            "location": "Sedna/Rusalka (Caches), Rotation C",
+            "location": "Sedna/Rusalka (Caches) (Caches), Rotation C",
             "type": "Argon Crystal",
             "chance": 0.0367,
             "rarity": "Rare"
           },
           {
-            "location": "Uranus/Portia (Caches), Rotation C",
+            "location": "Uranus/Portia (Caches) (Caches), Rotation C",
             "type": "Argon Crystal",
             "chance": 0.0367,
             "rarity": "Rare"
           },
           {
-            "location": "Void/Stribog (Caches), Rotation C",
+            "location": "Void/Stribog (Caches) (Caches), Rotation C",
             "type": "Argon Crystal",
             "chance": 0.0367,
             "rarity": "Rare"
           },
           {
-            "location": "Void/Marduk (Caches), Rotation C",
+            "location": "Void/Marduk (Caches) (Caches), Rotation C",
             "type": "Argon Crystal",
             "chance": 0.0442,
             "rarity": "Rare"
           },
           {
-            "location": "Lua/Plato (Caches), Rotation C",
+            "location": "Lua/Plato (Caches) (Caches), Rotation C",
             "type": "Argon Crystal",
             "chance": 0.1082,
             "rarity": "Uncommon"
@@ -6583,7 +6583,7 @@
             "rarity": "Uncommon"
           },
           {
-            "location": "Deimos/Formido (Caches), Rotation C",
+            "location": "Deimos/Formido (Caches) (Caches), Rotation C",
             "type": "Argon Crystal",
             "chance": 0.1936,
             "rarity": "Uncommon"
@@ -6872,115 +6872,115 @@
             "rarity": "Legendary"
           },
           {
-            "location": "Kuva Fortress/Dakata (Caches), Rotation C",
+            "location": "Kuva Fortress/Dakata (Caches) (Caches), Rotation C",
             "type": "Gallium",
             "chance": 0.1079,
             "rarity": "Uncommon"
           },
           {
-            "location": "Lua/Plato (Caches), Rotation C",
+            "location": "Lua/Plato (Caches) (Caches), Rotation C",
             "type": "Gallium",
             "chance": 0.1082,
             "rarity": "Uncommon"
           },
           {
-            "location": "Neptune/Halimede (Caches), Rotation C",
+            "location": "Neptune/Halimede (Caches) (Caches), Rotation C",
             "type": "Gallium",
             "chance": 0.1258,
             "rarity": "Uncommon"
           },
           {
-            "location": "Neptune/Thalassa (Caches), Rotation C",
+            "location": "Neptune/Thalassa (Caches) (Caches), Rotation C",
             "type": "Gallium",
             "chance": 0.1258,
             "rarity": "Uncommon"
           },
           {
-            "location": "Pluto/Charon (Caches), Rotation C",
+            "location": "Pluto/Charon (Caches) (Caches), Rotation C",
             "type": "Gallium",
             "chance": 0.1258,
             "rarity": "Uncommon"
           },
           {
-            "location": "Pluto/Cypress (Caches), Rotation C",
+            "location": "Pluto/Cypress (Caches) (Caches), Rotation C",
             "type": "Gallium",
             "chance": 0.1258,
             "rarity": "Uncommon"
           },
           {
-            "location": "Sedna/Phithale (Caches), Rotation C",
+            "location": "Sedna/Phithale (Caches) (Caches), Rotation C",
             "type": "Gallium",
             "chance": 0.1258,
             "rarity": "Uncommon"
           },
           {
-            "location": "Sedna/Rusalka (Caches), Rotation C",
+            "location": "Sedna/Rusalka (Caches) (Caches), Rotation C",
             "type": "Gallium",
             "chance": 0.1258,
             "rarity": "Uncommon"
           },
           {
-            "location": "Uranus/Portia (Caches), Rotation C",
+            "location": "Uranus/Portia (Caches) (Caches), Rotation C",
             "type": "Gallium",
             "chance": 0.1258,
             "rarity": "Uncommon"
           },
           {
-            "location": "Ceres/Ker (Caches), Rotation C",
+            "location": "Ceres/Ker (Caches) (Caches), Rotation C",
             "type": "Gallium",
             "chance": 0.151,
             "rarity": "Uncommon"
           },
           {
-            "location": "Ceres/Thon (Caches), Rotation C",
+            "location": "Ceres/Thon (Caches) (Caches), Rotation C",
             "type": "Gallium",
             "chance": 0.151,
             "rarity": "Uncommon"
           },
           {
-            "location": "Jupiter/Adrastea (Caches), Rotation C",
+            "location": "Jupiter/Adrastea (Caches) (Caches), Rotation C",
             "type": "Gallium",
             "chance": 0.151,
             "rarity": "Uncommon"
           },
           {
-            "location": "Jupiter/Carpo (Caches), Rotation C",
+            "location": "Jupiter/Carpo (Caches) (Caches), Rotation C",
             "type": "Gallium",
             "chance": 0.151,
             "rarity": "Uncommon"
           },
           {
-            "location": "Mars/Gradivus (Caches), Rotation C",
+            "location": "Mars/Gradivus (Caches) (Caches), Rotation C",
             "type": "Gallium",
             "chance": 0.151,
             "rarity": "Uncommon"
           },
           {
-            "location": "Mercury/Neruda (Caches), Rotation C",
+            "location": "Mercury/Neruda (Caches) (Caches), Rotation C",
             "type": "Gallium",
             "chance": 0.151,
             "rarity": "Uncommon"
           },
           {
-            "location": "Mercury/Terminus (Caches), Rotation C",
+            "location": "Mercury/Terminus (Caches) (Caches), Rotation C",
             "type": "Gallium",
             "chance": 0.151,
             "rarity": "Uncommon"
           },
           {
-            "location": "Saturn/Calypso (Caches), Rotation C",
+            "location": "Saturn/Calypso (Caches) (Caches), Rotation C",
             "type": "Gallium",
             "chance": 0.151,
             "rarity": "Uncommon"
           },
           {
-            "location": "Saturn/Pallene (Caches), Rotation C",
+            "location": "Saturn/Pallene (Caches) (Caches), Rotation C",
             "type": "Gallium",
             "chance": 0.151,
             "rarity": "Uncommon"
           },
           {
-            "location": "Venus/Ishtar (Caches), Rotation C",
+            "location": "Venus/Ishtar (Caches) (Caches), Rotation C",
             "type": "Gallium",
             "chance": 0.151,
             "rarity": "Uncommon"
@@ -8547,25 +8547,25 @@
             "rarity": "Legendary"
           },
           {
-            "location": "Mars/Gradivus (Caches), Rotation C",
+            "location": "Mars/Gradivus (Caches) (Caches), Rotation C",
             "type": "Morphics",
             "chance": 0.151,
             "rarity": "Uncommon"
           },
           {
-            "location": "Mercury/Neruda (Caches), Rotation C",
+            "location": "Mercury/Neruda (Caches) (Caches), Rotation C",
             "type": "Morphics",
             "chance": 0.151,
             "rarity": "Uncommon"
           },
           {
-            "location": "Mercury/Terminus (Caches), Rotation C",
+            "location": "Mercury/Terminus (Caches) (Caches), Rotation C",
             "type": "Morphics",
             "chance": 0.151,
             "rarity": "Uncommon"
           },
           {
-            "location": "Venus/Ishtar (Caches), Rotation C",
+            "location": "Venus/Ishtar (Caches) (Caches), Rotation C",
             "type": "Morphics",
             "chance": 0.151,
             "rarity": "Uncommon"
@@ -9041,25 +9041,25 @@
             "rarity": "Legendary"
           },
           {
-            "location": "Mars/Gradivus (Caches), Rotation C",
+            "location": "Mars/Gradivus (Caches) (Caches), Rotation C",
             "type": "Morphics",
             "chance": 0.151,
             "rarity": "Uncommon"
           },
           {
-            "location": "Mercury/Neruda (Caches), Rotation C",
+            "location": "Mercury/Neruda (Caches) (Caches), Rotation C",
             "type": "Morphics",
             "chance": 0.151,
             "rarity": "Uncommon"
           },
           {
-            "location": "Mercury/Terminus (Caches), Rotation C",
+            "location": "Mercury/Terminus (Caches) (Caches), Rotation C",
             "type": "Morphics",
             "chance": 0.151,
             "rarity": "Uncommon"
           },
           {
-            "location": "Venus/Ishtar (Caches), Rotation C",
+            "location": "Venus/Ishtar (Caches) (Caches), Rotation C",
             "type": "Morphics",
             "chance": 0.151,
             "rarity": "Uncommon"
