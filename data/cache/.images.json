@@ -34753,5 +34753,9 @@
  {
   "uniqueName": "/Lotus/Interface/Graphics/CustomUI/ZephyrDeluxeStyle",
   "isComponent": false
+ },
+ {
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/GarvLatroxPoster",
+  "isComponent": false
  }
 ]
