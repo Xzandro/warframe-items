@@ -123,6 +123,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Veil Proxima)",
+        "type": "Axi A11 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Veil/Arc Silver (Defense), Rotation A",
         "type": "Axi A11 Relic",
         "chance": 0.0571,
@@ -526,6 +532,12 @@
       {
         "location": "Jupiter/Ganymede (Disruption), Rotation C",
         "type": "Axi A11 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Veil Proxima)",
+        "type": "Axi A11 Relic (Radiant)",
         "chance": 0.05,
         "rarity": "Rare"
       },
@@ -937,6 +949,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Veil Proxima)",
+        "type": "Axi A11 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Veil/Arc Silver (Defense), Rotation A",
         "type": "Axi A11 Relic",
         "chance": 0.0571,
@@ -1340,6 +1358,12 @@
       {
         "location": "Jupiter/Ganymede (Disruption), Rotation C",
         "type": "Axi A11 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Veil Proxima)",
+        "type": "Axi A11 Relic (Radiant)",
         "chance": 0.05,
         "rarity": "Rare"
       },
@@ -2563,6 +2587,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Veil Proxima)",
+        "type": "Axi A13 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Void/Aten (Mobile Defense)",
         "type": "Axi A13 Relic",
         "chance": 0.0588,
@@ -2984,6 +3014,12 @@
       {
         "location": "Jupiter/Ganymede (Disruption), Rotation C",
         "type": "Axi A13 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Veil Proxima)",
+        "type": "Axi A13 Relic (Radiant)",
         "chance": 0.05,
         "rarity": "Rare"
       },
@@ -3413,6 +3449,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Veil Proxima)",
+        "type": "Axi A13 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Void/Aten (Mobile Defense)",
         "type": "Axi A13 Relic",
         "chance": 0.0588,
@@ -3834,6 +3876,12 @@
       {
         "location": "Jupiter/Ganymede (Disruption), Rotation C",
         "type": "Axi A13 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Veil Proxima)",
+        "type": "Axi A13 Relic (Radiant)",
         "chance": 0.05,
         "rarity": "Rare"
       },
@@ -4909,6 +4957,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Veil Proxima)",
+        "type": "Axi C6 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Veil/Arc Silver (Defense), Rotation C",
         "type": "Axi C6 Relic",
         "chance": 0.0571,
@@ -5330,6 +5384,12 @@
       {
         "location": "Jupiter/Ganymede (Disruption), Rotation C",
         "type": "Axi C6 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Veil Proxima)",
+        "type": "Axi C6 Relic (Radiant)",
         "chance": 0.05,
         "rarity": "Rare"
       },
@@ -5759,6 +5819,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Veil Proxima)",
+        "type": "Axi C6 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Veil/Arc Silver (Defense), Rotation C",
         "type": "Axi C6 Relic",
         "chance": 0.0571,
@@ -6180,6 +6246,12 @@
       {
         "location": "Jupiter/Ganymede (Disruption), Rotation C",
         "type": "Axi C6 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Veil Proxima)",
+        "type": "Axi C6 Relic (Radiant)",
         "chance": 0.05,
         "rarity": "Rare"
       },
@@ -8465,6 +8537,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Veil Proxima)",
+        "type": "Axi O5 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Void/Aten (Mobile Defense)",
         "type": "Axi O5 Relic",
         "chance": 0.0588,
@@ -8910,6 +8988,12 @@
       {
         "location": "Jupiter/Ganymede (Disruption), Rotation C",
         "type": "Axi O5 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Veil Proxima)",
+        "type": "Axi O5 Relic (Radiant)",
         "chance": 0.05,
         "rarity": "Rare"
       },
@@ -9363,6 +9447,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Veil Proxima)",
+        "type": "Axi O5 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Void/Aten (Mobile Defense)",
         "type": "Axi O5 Relic",
         "chance": 0.0588,
@@ -9808,6 +9898,12 @@
       {
         "location": "Jupiter/Ganymede (Disruption), Rotation C",
         "type": "Axi O5 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Veil Proxima)",
+        "type": "Axi O5 Relic (Radiant)",
         "chance": 0.05,
         "rarity": "Rare"
       },
@@ -10781,7 +10877,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Veil/Lu-Yan (Caches)",
+        "location": "Veil/Lu-Yan (Caches), Rotation B",
         "type": "Axi S8 Relic",
         "chance": 0.0909,
         "rarity": "Rare"
@@ -10900,7 +10996,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Veil/Lu-Yan (Caches)",
+        "location": "Veil/Lu-Yan (Caches), Rotation B",
         "type": "Axi S8 Relic",
         "chance": 0.0909,
         "rarity": "Rare"
@@ -11019,7 +11115,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Veil/Lu-Yan (Caches)",
+        "location": "Veil/Lu-Yan (Caches), Rotation B",
         "type": "Axi S8 Relic",
         "chance": 0.0909,
         "rarity": "Rare"
@@ -11138,7 +11234,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Veil/Lu-Yan (Caches)",
+        "location": "Veil/Lu-Yan (Caches), Rotation B",
         "type": "Axi S8 Relic",
         "chance": 0.0909,
         "rarity": "Rare"
@@ -11379,6 +11475,12 @@
       {
         "location": "Jupiter/Ganymede (Disruption), Rotation C",
         "type": "Axi T6 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Veil Proxima)",
+        "type": "Axi T6 Relic (Radiant)",
         "chance": 0.05,
         "rarity": "Rare"
       },
@@ -11790,6 +11892,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Veil Proxima)",
+        "type": "Axi T6 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Veil/Arc Silver (Defense), Rotation C",
         "type": "Axi T6 Relic",
         "chance": 0.0571,
@@ -12197,6 +12305,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Veil Proxima)",
+        "type": "Axi T6 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Veil/Arc Silver (Defense), Rotation C",
         "type": "Axi T6 Relic",
         "chance": 0.0571,
@@ -12600,6 +12714,12 @@
       {
         "location": "Jupiter/Ganymede (Disruption), Rotation C",
         "type": "Axi T6 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Veil Proxima)",
+        "type": "Axi T6 Relic (Radiant)",
         "chance": 0.05,
         "rarity": "Rare"
       },
@@ -13101,7 +13221,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Veil/Lu-Yan (Caches)",
+        "location": "Veil/Lu-Yan (Caches), Rotation B",
         "type": "Axi V10 Relic",
         "chance": 0.0909,
         "rarity": "Rare"
@@ -13220,7 +13340,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Veil/Lu-Yan (Caches)",
+        "location": "Veil/Lu-Yan (Caches), Rotation B",
         "type": "Axi V10 Relic",
         "chance": 0.0909,
         "rarity": "Rare"
@@ -13339,7 +13459,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Veil/Lu-Yan (Caches)",
+        "location": "Veil/Lu-Yan (Caches), Rotation B",
         "type": "Axi V10 Relic",
         "chance": 0.0909,
         "rarity": "Rare"
@@ -13458,7 +13578,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Veil/Lu-Yan (Caches)",
+        "location": "Veil/Lu-Yan (Caches), Rotation B",
         "type": "Axi V10 Relic",
         "chance": 0.0909,
         "rarity": "Rare"
@@ -13861,6 +13981,12 @@
       {
         "location": "Jupiter/Ganymede (Disruption), Rotation C",
         "type": "Axi W2 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Veil Proxima)",
+        "type": "Axi W2 Relic (Radiant)",
         "chance": 0.05,
         "rarity": "Rare"
       },
@@ -14290,6 +14416,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Veil Proxima)",
+        "type": "Axi W2 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Veil/Arc Silver (Defense), Rotation B",
         "type": "Axi W2 Relic",
         "chance": 0.0571,
@@ -14711,6 +14843,12 @@
       {
         "location": "Jupiter/Ganymede (Disruption), Rotation C",
         "type": "Axi W2 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Veil Proxima)",
+        "type": "Axi W2 Relic (Radiant)",
         "chance": 0.05,
         "rarity": "Rare"
       },
@@ -15140,6 +15278,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Veil Proxima)",
+        "type": "Axi W2 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Veil/Arc Silver (Defense), Rotation B",
         "type": "Axi W2 Relic",
         "chance": 0.0571,
@@ -15543,6 +15687,12 @@
       {
         "location": "Jupiter/Ganymede (Disruption), Rotation C",
         "type": "Axi Z1 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Veil Proxima)",
+        "type": "Axi Z1 Relic (Radiant)",
         "chance": 0.05,
         "rarity": "Rare"
       },
@@ -15954,6 +16104,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Veil Proxima)",
+        "type": "Axi Z1 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Veil/Arc Silver (Defense), Rotation B",
         "type": "Axi Z1 Relic",
         "chance": 0.0571,
@@ -16361,6 +16517,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Veil Proxima)",
+        "type": "Axi Z1 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Veil/Arc Silver (Defense), Rotation B",
         "type": "Axi Z1 Relic",
         "chance": 0.0571,
@@ -16764,6 +16926,12 @@
       {
         "location": "Jupiter/Ganymede (Disruption), Rotation C",
         "type": "Axi Z1 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Veil Proxima)",
+        "type": "Axi Z1 Relic (Radiant)",
         "chance": 0.05,
         "rarity": "Rare"
       },
@@ -17629,6 +17797,24 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith B8 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Earth)",
+        "type": "Lith B8 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Venus)",
+        "type": "Lith B8 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Void/Stribog (Sabotage)",
         "type": "Lith B8 Relic",
         "chance": 0.0588,
@@ -17674,6 +17860,12 @@
         "location": "Earth/Sover Strait (Caches)",
         "type": "Lith B8 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith B8 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -17836,6 +18028,24 @@
         "location": "Venus/V Prime (Survival), Rotation B",
         "type": "Lith B8 Relic",
         "chance": 0.0769,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith B8 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith B8 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith B8 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -18228,6 +18438,24 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith B8 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Earth)",
+        "type": "Lith B8 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Venus)",
+        "type": "Lith B8 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Void/Stribog (Sabotage)",
         "type": "Lith B8 Relic",
         "chance": 0.0588,
@@ -18273,6 +18501,12 @@
         "location": "Earth/Sover Strait (Caches)",
         "type": "Lith B8 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith B8 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -18435,6 +18669,24 @@
         "location": "Venus/V Prime (Survival), Rotation B",
         "type": "Lith B8 Relic",
         "chance": 0.0769,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith B8 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith B8 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith B8 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -18827,6 +19079,24 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith B8 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Earth)",
+        "type": "Lith B8 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Venus)",
+        "type": "Lith B8 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Void/Stribog (Sabotage)",
         "type": "Lith B8 Relic",
         "chance": 0.0588,
@@ -18872,6 +19142,12 @@
         "location": "Earth/Sover Strait (Caches)",
         "type": "Lith B8 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith B8 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -19034,6 +19310,24 @@
         "location": "Venus/V Prime (Survival), Rotation B",
         "type": "Lith B8 Relic",
         "chance": 0.0769,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith B8 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith B8 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith B8 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -19426,6 +19720,24 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith B8 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Earth)",
+        "type": "Lith B8 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Venus)",
+        "type": "Lith B8 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Void/Stribog (Sabotage)",
         "type": "Lith B8 Relic",
         "chance": 0.0588,
@@ -19471,6 +19783,12 @@
         "location": "Earth/Sover Strait (Caches)",
         "type": "Lith B8 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith B8 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -19633,6 +19951,24 @@
         "location": "Venus/V Prime (Survival), Rotation B",
         "type": "Lith B8 Relic",
         "chance": 0.0769,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith B8 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith B8 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith B8 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -20753,6 +21089,24 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith D4 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Earth)",
+        "type": "Lith D4 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Venus)",
+        "type": "Lith D4 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Void/Stribog (Sabotage)",
         "type": "Lith D4 Relic",
         "chance": 0.0588,
@@ -20798,6 +21152,12 @@
         "location": "Earth/Sover Strait (Caches)",
         "type": "Lith D4 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith D4 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -20960,6 +21320,24 @@
         "location": "Venus/V Prime (Survival), Rotation B",
         "type": "Lith D4 Relic",
         "chance": 0.0769,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith D4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith D4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith D4 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -21352,6 +21730,24 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith D4 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Earth)",
+        "type": "Lith D4 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Venus)",
+        "type": "Lith D4 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Void/Stribog (Sabotage)",
         "type": "Lith D4 Relic",
         "chance": 0.0588,
@@ -21397,6 +21793,12 @@
         "location": "Earth/Sover Strait (Caches)",
         "type": "Lith D4 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith D4 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -21559,6 +21961,24 @@
         "location": "Venus/V Prime (Survival), Rotation B",
         "type": "Lith D4 Relic",
         "chance": 0.0769,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith D4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith D4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith D4 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -21951,6 +22371,24 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith D4 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Earth)",
+        "type": "Lith D4 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Venus)",
+        "type": "Lith D4 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Void/Stribog (Sabotage)",
         "type": "Lith D4 Relic",
         "chance": 0.0588,
@@ -21996,6 +22434,12 @@
         "location": "Earth/Sover Strait (Caches)",
         "type": "Lith D4 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith D4 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -22158,6 +22602,24 @@
         "location": "Venus/V Prime (Survival), Rotation B",
         "type": "Lith D4 Relic",
         "chance": 0.0769,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith D4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith D4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith D4 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -22550,6 +23012,24 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith D4 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Earth)",
+        "type": "Lith D4 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Venus)",
+        "type": "Lith D4 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Void/Stribog (Sabotage)",
         "type": "Lith D4 Relic",
         "chance": 0.0588,
@@ -22595,6 +23075,12 @@
         "location": "Earth/Sover Strait (Caches)",
         "type": "Lith D4 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith D4 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -22757,6 +23243,24 @@
         "location": "Venus/V Prime (Survival), Rotation B",
         "type": "Lith D4 Relic",
         "chance": 0.0769,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith D4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith D4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith D4 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -23293,6 +23797,24 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith G3 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Earth)",
+        "type": "Lith G3 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Venus)",
+        "type": "Lith G3 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Void/Stribog (Sabotage)",
         "type": "Lith G3 Relic",
         "chance": 0.0588,
@@ -23338,6 +23860,12 @@
         "location": "Earth/Sover Strait (Caches)",
         "type": "Lith G3 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith G3 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -23500,6 +24028,24 @@
         "location": "Venus/V Prime (Survival), Rotation B",
         "type": "Lith G3 Relic",
         "chance": 0.0769,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith G3 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith G3 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith G3 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -23892,6 +24438,24 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith G3 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Earth)",
+        "type": "Lith G3 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Venus)",
+        "type": "Lith G3 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Void/Stribog (Sabotage)",
         "type": "Lith G3 Relic",
         "chance": 0.0588,
@@ -23937,6 +24501,12 @@
         "location": "Earth/Sover Strait (Caches)",
         "type": "Lith G3 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith G3 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -24099,6 +24669,24 @@
         "location": "Venus/V Prime (Survival), Rotation B",
         "type": "Lith G3 Relic",
         "chance": 0.0769,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith G3 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith G3 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith G3 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -24491,6 +25079,24 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith G3 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Earth)",
+        "type": "Lith G3 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Venus)",
+        "type": "Lith G3 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Void/Stribog (Sabotage)",
         "type": "Lith G3 Relic",
         "chance": 0.0588,
@@ -24536,6 +25142,12 @@
         "location": "Earth/Sover Strait (Caches)",
         "type": "Lith G3 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith G3 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -24698,6 +25310,24 @@
         "location": "Venus/V Prime (Survival), Rotation B",
         "type": "Lith G3 Relic",
         "chance": 0.0769,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith G3 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith G3 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith G3 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -25090,6 +25720,24 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith G3 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Earth)",
+        "type": "Lith G3 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Venus)",
+        "type": "Lith G3 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Void/Stribog (Sabotage)",
         "type": "Lith G3 Relic",
         "chance": 0.0588,
@@ -25135,6 +25783,12 @@
         "location": "Earth/Sover Strait (Caches)",
         "type": "Lith G3 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith G3 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -25297,6 +25951,24 @@
         "location": "Venus/V Prime (Survival), Rotation B",
         "type": "Lith G3 Relic",
         "chance": 0.0769,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith G3 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith G3 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith G3 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -25801,6 +26473,24 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith I1 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Earth)",
+        "type": "Lith I1 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Venus)",
+        "type": "Lith I1 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Venus/Falling Glory (Defense), Rotation C",
         "type": "Lith I1 Relic",
         "chance": 0.0526,
@@ -25852,6 +26542,12 @@
         "location": "Earth/Sover Strait (Caches)",
         "type": "Lith I1 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith I1 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -26026,6 +26722,24 @@
         "location": "Venus/V Prime (Survival), Rotation B",
         "type": "Lith I1 Relic",
         "chance": 0.0769,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith I1 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith I1 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith I1 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -26394,6 +27108,24 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith I1 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Earth)",
+        "type": "Lith I1 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Venus)",
+        "type": "Lith I1 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Venus/Falling Glory (Defense), Rotation C",
         "type": "Lith I1 Relic",
         "chance": 0.0526,
@@ -26445,6 +27177,12 @@
         "location": "Earth/Sover Strait (Caches)",
         "type": "Lith I1 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith I1 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -26619,6 +27357,24 @@
         "location": "Venus/V Prime (Survival), Rotation B",
         "type": "Lith I1 Relic",
         "chance": 0.0769,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith I1 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith I1 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith I1 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -26987,6 +27743,24 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith I1 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Earth)",
+        "type": "Lith I1 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Venus)",
+        "type": "Lith I1 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Venus/Falling Glory (Defense), Rotation C",
         "type": "Lith I1 Relic",
         "chance": 0.0526,
@@ -27038,6 +27812,12 @@
         "location": "Earth/Sover Strait (Caches)",
         "type": "Lith I1 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith I1 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -27212,6 +27992,24 @@
         "location": "Venus/V Prime (Survival), Rotation B",
         "type": "Lith I1 Relic",
         "chance": 0.0769,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith I1 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith I1 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith I1 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -27580,6 +28378,24 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith I1 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Earth)",
+        "type": "Lith I1 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Venus)",
+        "type": "Lith I1 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Venus/Falling Glory (Defense), Rotation C",
         "type": "Lith I1 Relic",
         "chance": 0.0526,
@@ -27631,6 +28447,12 @@
         "location": "Earth/Sover Strait (Caches)",
         "type": "Lith I1 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith I1 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -27805,6 +28627,24 @@
         "location": "Venus/V Prime (Survival), Rotation B",
         "type": "Lith I1 Relic",
         "chance": 0.0769,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith I1 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith I1 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith I1 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -28279,6 +29119,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith K5 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Void/Stribog (Sabotage)",
         "type": "Lith K5 Relic",
         "chance": 0.0588,
@@ -28294,6 +29140,12 @@
         "location": "Void/Tiwaz (Mobile Defense)",
         "type": "Lith K5 Relic",
         "chance": 0.0588,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith K5 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -28324,6 +29176,24 @@
         "location": "Deimos/Cambion Drift (Level 5 - 15 Cambion Drift Bounty), Rotation C",
         "type": "Lith K5 Relic",
         "chance": 0.0752,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith K5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith K5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith K5 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -28470,6 +29340,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith K5 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Void/Stribog (Sabotage)",
         "type": "Lith K5 Relic",
         "chance": 0.0588,
@@ -28485,6 +29361,12 @@
         "location": "Void/Tiwaz (Mobile Defense)",
         "type": "Lith K5 Relic",
         "chance": 0.0588,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith K5 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -28515,6 +29397,24 @@
         "location": "Deimos/Cambion Drift (Level 5 - 15 Cambion Drift Bounty), Rotation C",
         "type": "Lith K5 Relic",
         "chance": 0.0752,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith K5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith K5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith K5 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -28661,6 +29561,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith K5 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Void/Stribog (Sabotage)",
         "type": "Lith K5 Relic",
         "chance": 0.0588,
@@ -28676,6 +29582,12 @@
         "location": "Void/Tiwaz (Mobile Defense)",
         "type": "Lith K5 Relic",
         "chance": 0.0588,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith K5 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -28706,6 +29618,24 @@
         "location": "Deimos/Cambion Drift (Level 5 - 15 Cambion Drift Bounty), Rotation C",
         "type": "Lith K5 Relic",
         "chance": 0.0752,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith K5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith K5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith K5 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -28852,6 +29782,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith K5 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Void/Stribog (Sabotage)",
         "type": "Lith K5 Relic",
         "chance": 0.0588,
@@ -28867,6 +29803,12 @@
         "location": "Void/Tiwaz (Mobile Defense)",
         "type": "Lith K5 Relic",
         "chance": 0.0588,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith K5 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -28897,6 +29839,24 @@
         "location": "Deimos/Cambion Drift (Level 5 - 15 Cambion Drift Bounty), Rotation C",
         "type": "Lith K5 Relic",
         "chance": 0.0752,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith K5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith K5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith K5 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -29318,7 +30278,21 @@
     "type": "Relic",
     "imageName": "lith-exceptional.png",
     "category": "Relics",
-    "tradable": true
+    "tradable": true,
+    "drops": [
+      {
+        "location": "Void Storm (Earth)",
+        "type": "Lith M6 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Venus)",
+        "type": "Lith M6 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      }
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionInarosPrimeAGold",
@@ -29327,7 +30301,21 @@
     "type": "Relic",
     "imageName": "lith-flawless.png",
     "category": "Relics",
-    "tradable": true
+    "tradable": true,
+    "drops": [
+      {
+        "location": "Void Storm (Earth)",
+        "type": "Lith M6 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Venus)",
+        "type": "Lith M6 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      }
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionInarosPrimeABronze",
@@ -29336,7 +30324,21 @@
     "type": "Relic",
     "imageName": "lith-intact.png",
     "category": "Relics",
-    "tradable": true
+    "tradable": true,
+    "drops": [
+      {
+        "location": "Void Storm (Earth)",
+        "type": "Lith M6 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Venus)",
+        "type": "Lith M6 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      }
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionInarosPrimeAPlatinum",
@@ -29345,7 +30347,21 @@
     "type": "Relic",
     "imageName": "lith-radiant.png",
     "category": "Relics",
-    "tradable": true
+    "tradable": true,
+    "drops": [
+      {
+        "location": "Void Storm (Earth)",
+        "type": "Lith M6 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Venus)",
+        "type": "Lith M6 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      }
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionBansheeMirageVaultBSilver",
@@ -29387,6 +30403,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith M7 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Void/Stribog (Sabotage)",
         "type": "Lith M7 Relic",
         "chance": 0.0588,
@@ -29405,6 +30427,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith M7 Relic",
+        "chance": 0.06,
+        "rarity": "Rare"
+      },
+      {
         "location": "Deimos/Cambion Drift (Level 5 - 15 Cambion Drift Bounty), Rotation B",
         "type": "Lith M7 Relic",
         "chance": 0.0737,
@@ -29414,6 +30442,24 @@
         "location": "Deimos/Cambion Drift (Level 5 - 15 Cambion Drift Bounty), Rotation B",
         "type": "Lith M7 Relic",
         "chance": 0.0752,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith M7 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith M7 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith M7 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -29566,6 +30612,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith M7 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Void/Stribog (Sabotage)",
         "type": "Lith M7 Relic",
         "chance": 0.0588,
@@ -29584,6 +30636,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith M7 Relic",
+        "chance": 0.06,
+        "rarity": "Rare"
+      },
+      {
         "location": "Deimos/Cambion Drift (Level 5 - 15 Cambion Drift Bounty), Rotation B",
         "type": "Lith M7 Relic",
         "chance": 0.0737,
@@ -29593,6 +30651,24 @@
         "location": "Deimos/Cambion Drift (Level 5 - 15 Cambion Drift Bounty), Rotation B",
         "type": "Lith M7 Relic",
         "chance": 0.0752,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith M7 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith M7 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith M7 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -29745,6 +30821,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith M7 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Void/Stribog (Sabotage)",
         "type": "Lith M7 Relic",
         "chance": 0.0588,
@@ -29763,6 +30845,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith M7 Relic",
+        "chance": 0.06,
+        "rarity": "Rare"
+      },
+      {
         "location": "Deimos/Cambion Drift (Level 5 - 15 Cambion Drift Bounty), Rotation B",
         "type": "Lith M7 Relic",
         "chance": 0.0737,
@@ -29772,6 +30860,24 @@
         "location": "Deimos/Cambion Drift (Level 5 - 15 Cambion Drift Bounty), Rotation B",
         "type": "Lith M7 Relic",
         "chance": 0.0752,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith M7 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith M7 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith M7 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -29924,6 +31030,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith M7 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Void/Stribog (Sabotage)",
         "type": "Lith M7 Relic",
         "chance": 0.0588,
@@ -29942,6 +31054,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith M7 Relic",
+        "chance": 0.06,
+        "rarity": "Rare"
+      },
+      {
         "location": "Deimos/Cambion Drift (Level 5 - 15 Cambion Drift Bounty), Rotation B",
         "type": "Lith M7 Relic",
         "chance": 0.0737,
@@ -29951,6 +31069,24 @@
         "location": "Deimos/Cambion Drift (Level 5 - 15 Cambion Drift Bounty), Rotation B",
         "type": "Lith M7 Relic",
         "chance": 0.0752,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith M7 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith M7 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith M7 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -30582,7 +31718,21 @@
     "type": "Relic",
     "imageName": "lith-exceptional.png",
     "category": "Relics",
-    "tradable": true
+    "tradable": true,
+    "drops": [
+      {
+        "location": "Void Storm (Earth)",
+        "type": "Lith P4 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Venus)",
+        "type": "Lith P4 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      }
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionNezhaPrimeAGold",
@@ -30591,7 +31741,21 @@
     "type": "Relic",
     "imageName": "lith-flawless.png",
     "category": "Relics",
-    "tradable": true
+    "tradable": true,
+    "drops": [
+      {
+        "location": "Void Storm (Earth)",
+        "type": "Lith P4 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Venus)",
+        "type": "Lith P4 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      }
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionNezhaPrimeABronze",
@@ -30600,7 +31764,21 @@
     "type": "Relic",
     "imageName": "lith-intact.png",
     "category": "Relics",
-    "tradable": true
+    "tradable": true,
+    "drops": [
+      {
+        "location": "Void Storm (Earth)",
+        "type": "Lith P4 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Venus)",
+        "type": "Lith P4 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      }
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionNezhaPrimeAPlatinum",
@@ -30609,7 +31787,21 @@
     "type": "Relic",
     "imageName": "lith-radiant.png",
     "category": "Relics",
-    "tradable": true
+    "tradable": true,
+    "drops": [
+      {
+        "location": "Void Storm (Earth)",
+        "type": "Lith P4 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Venus)",
+        "type": "Lith P4 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      }
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionNezhaPrimeDSilver",
@@ -30717,6 +31909,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith P5 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Venus/Falling Glory (Defense), Rotation B",
         "type": "Lith P5 Relic",
         "chance": 0.0588,
@@ -30768,6 +31966,12 @@
         "location": "Earth/Sover Strait (Caches)",
         "type": "Lith P5 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith P5 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -30924,6 +32128,24 @@
         "location": "Venus/V Prime (Survival), Rotation B",
         "type": "Lith P5 Relic",
         "chance": 0.0769,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith P5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith P5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith P5 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -31316,6 +32538,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith P5 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Venus/Falling Glory (Defense), Rotation B",
         "type": "Lith P5 Relic",
         "chance": 0.0588,
@@ -31367,6 +32595,12 @@
         "location": "Earth/Sover Strait (Caches)",
         "type": "Lith P5 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith P5 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -31523,6 +32757,24 @@
         "location": "Venus/V Prime (Survival), Rotation B",
         "type": "Lith P5 Relic",
         "chance": 0.0769,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith P5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith P5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith P5 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -31915,6 +33167,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith P5 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Venus/Falling Glory (Defense), Rotation B",
         "type": "Lith P5 Relic",
         "chance": 0.0588,
@@ -31966,6 +33224,12 @@
         "location": "Earth/Sover Strait (Caches)",
         "type": "Lith P5 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith P5 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -32122,6 +33386,24 @@
         "location": "Venus/V Prime (Survival), Rotation B",
         "type": "Lith P5 Relic",
         "chance": 0.0769,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith P5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith P5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith P5 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -32514,6 +33796,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith P5 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Venus/Falling Glory (Defense), Rotation B",
         "type": "Lith P5 Relic",
         "chance": 0.0588,
@@ -32565,6 +33853,12 @@
         "location": "Earth/Sover Strait (Caches)",
         "type": "Lith P5 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith P5 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -32721,6 +34015,24 @@
         "location": "Venus/V Prime (Survival), Rotation B",
         "type": "Lith P5 Relic",
         "chance": 0.0769,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith P5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith P5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith P5 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -33701,6 +35013,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith T4 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Venus/Falling Glory (Defense), Rotation C",
         "type": "Lith T4 Relic",
         "chance": 0.0526,
@@ -33752,6 +35070,12 @@
         "location": "Earth/Sover Strait (Caches)",
         "type": "Lith T4 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith T4 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -33926,6 +35250,24 @@
         "location": "Venus/V Prime (Survival), Rotation B",
         "type": "Lith T4 Relic",
         "chance": 0.0769,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith T4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith T4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith T4 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -34294,6 +35636,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith T4 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Venus/Falling Glory (Defense), Rotation C",
         "type": "Lith T4 Relic",
         "chance": 0.0526,
@@ -34345,6 +35693,12 @@
         "location": "Earth/Sover Strait (Caches)",
         "type": "Lith T4 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith T4 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -34519,6 +35873,24 @@
         "location": "Venus/V Prime (Survival), Rotation B",
         "type": "Lith T4 Relic",
         "chance": 0.0769,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith T4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith T4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith T4 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -34887,6 +36259,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith T4 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Venus/Falling Glory (Defense), Rotation C",
         "type": "Lith T4 Relic",
         "chance": 0.0526,
@@ -34938,6 +36316,12 @@
         "location": "Earth/Sover Strait (Caches)",
         "type": "Lith T4 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith T4 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -35112,6 +36496,24 @@
         "location": "Venus/V Prime (Survival), Rotation B",
         "type": "Lith T4 Relic",
         "chance": 0.0769,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith T4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith T4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith T4 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -35480,6 +36882,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith T4 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Venus/Falling Glory (Defense), Rotation C",
         "type": "Lith T4 Relic",
         "chance": 0.0526,
@@ -35531,6 +36939,12 @@
         "location": "Earth/Sover Strait (Caches)",
         "type": "Lith T4 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith T4 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -35705,6 +37119,24 @@
         "location": "Venus/V Prime (Survival), Rotation B",
         "type": "Lith T4 Relic",
         "chance": 0.0769,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith T4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith T4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith T4 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -36073,6 +37505,24 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith T5 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Earth)",
+        "type": "Lith T5 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Venus)",
+        "type": "Lith T5 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Venus/Falling Glory (Defense), Rotation B",
         "type": "Lith T5 Relic",
         "chance": 0.0588,
@@ -36124,6 +37574,12 @@
         "location": "Earth/Sover Strait (Caches)",
         "type": "Lith T5 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith T5 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -36298,6 +37754,24 @@
         "location": "Venus/V Prime (Survival), Rotation B",
         "type": "Lith T5 Relic",
         "chance": 0.0769,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith T5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith T5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith T5 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -36660,6 +38134,24 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith T5 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Earth)",
+        "type": "Lith T5 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Venus)",
+        "type": "Lith T5 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Venus/Falling Glory (Defense), Rotation B",
         "type": "Lith T5 Relic",
         "chance": 0.0588,
@@ -36711,6 +38203,12 @@
         "location": "Earth/Sover Strait (Caches)",
         "type": "Lith T5 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith T5 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -36885,6 +38383,24 @@
         "location": "Venus/V Prime (Survival), Rotation B",
         "type": "Lith T5 Relic",
         "chance": 0.0769,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith T5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith T5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith T5 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -37247,6 +38763,24 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith T5 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Earth)",
+        "type": "Lith T5 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Venus)",
+        "type": "Lith T5 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Venus/Falling Glory (Defense), Rotation B",
         "type": "Lith T5 Relic",
         "chance": 0.0588,
@@ -37298,6 +38832,12 @@
         "location": "Earth/Sover Strait (Caches)",
         "type": "Lith T5 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith T5 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -37472,6 +39012,24 @@
         "location": "Venus/V Prime (Survival), Rotation B",
         "type": "Lith T5 Relic",
         "chance": 0.0769,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith T5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith T5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith T5 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -37834,6 +39392,24 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith T5 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Earth)",
+        "type": "Lith T5 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Venus)",
+        "type": "Lith T5 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Venus/Falling Glory (Defense), Rotation B",
         "type": "Lith T5 Relic",
         "chance": 0.0588,
@@ -37885,6 +39461,12 @@
         "location": "Earth/Sover Strait (Caches)",
         "type": "Lith T5 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith T5 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -38059,6 +39641,24 @@
         "location": "Venus/V Prime (Survival), Rotation B",
         "type": "Lith T5 Relic",
         "chance": 0.0769,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith T5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith T5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith T5 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -39421,6 +41021,18 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Neptune)",
+        "type": "Meso C6 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Saturn)",
+        "type": "Meso C6 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Saturn/Pandora (Pursuit)",
         "type": "Meso C6 Relic",
         "chance": 0.0506,
@@ -39514,6 +41126,12 @@
         "location": "Saturn/Vand Cluster (Caches)",
         "type": "Meso C6 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso C6 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -39718,6 +41336,30 @@
         "location": "Deimos/Cambion Drift (Level 30 - 40 Arcana Isolation Vault), Rotation B",
         "type": "Meso C6 Relic",
         "chance": 0.0781,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso C6 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso C6 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso C6 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso C6 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -40302,6 +41944,18 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Neptune)",
+        "type": "Meso C6 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Saturn)",
+        "type": "Meso C6 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Saturn/Pandora (Pursuit)",
         "type": "Meso C6 Relic",
         "chance": 0.0506,
@@ -40395,6 +42049,12 @@
         "location": "Saturn/Vand Cluster (Caches)",
         "type": "Meso C6 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso C6 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -40599,6 +42259,30 @@
         "location": "Deimos/Cambion Drift (Level 30 - 40 Arcana Isolation Vault), Rotation B",
         "type": "Meso C6 Relic",
         "chance": 0.0781,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso C6 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso C6 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso C6 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso C6 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -41183,6 +42867,18 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Neptune)",
+        "type": "Meso C6 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Saturn)",
+        "type": "Meso C6 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Saturn/Pandora (Pursuit)",
         "type": "Meso C6 Relic",
         "chance": 0.0506,
@@ -41276,6 +42972,12 @@
         "location": "Saturn/Vand Cluster (Caches)",
         "type": "Meso C6 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso C6 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -41480,6 +43182,30 @@
         "location": "Deimos/Cambion Drift (Level 30 - 40 Arcana Isolation Vault), Rotation B",
         "type": "Meso C6 Relic",
         "chance": 0.0781,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso C6 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso C6 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso C6 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso C6 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -42064,6 +43790,18 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Neptune)",
+        "type": "Meso C6 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Saturn)",
+        "type": "Meso C6 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Saturn/Pandora (Pursuit)",
         "type": "Meso C6 Relic",
         "chance": 0.0506,
@@ -42157,6 +43895,12 @@
         "location": "Saturn/Vand Cluster (Caches)",
         "type": "Meso C6 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso C6 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -42361,6 +44105,30 @@
         "location": "Deimos/Cambion Drift (Level 30 - 40 Arcana Isolation Vault), Rotation B",
         "type": "Meso C6 Relic",
         "chance": 0.0781,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso C6 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso C6 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso C6 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso C6 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -43107,6 +44875,18 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Neptune)",
+        "type": "Meso D6 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Saturn)",
+        "type": "Meso D6 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Saturn/Pandora (Pursuit)",
         "type": "Meso D6 Relic",
         "chance": 0.0506,
@@ -43200,6 +44980,12 @@
         "location": "Saturn/Vand Cluster (Caches)",
         "type": "Meso D6 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso D6 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -43356,6 +45142,30 @@
         "location": "Venus/Romula (Defense), Rotation C",
         "type": "Meso D6 Relic",
         "chance": 0.0759,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso D6 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso D6 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso D6 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso D6 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -43904,6 +45714,18 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Neptune)",
+        "type": "Meso D6 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Saturn)",
+        "type": "Meso D6 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Saturn/Pandora (Pursuit)",
         "type": "Meso D6 Relic",
         "chance": 0.0506,
@@ -43997,6 +45819,12 @@
         "location": "Saturn/Vand Cluster (Caches)",
         "type": "Meso D6 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso D6 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -44153,6 +45981,30 @@
         "location": "Venus/Romula (Defense), Rotation C",
         "type": "Meso D6 Relic",
         "chance": 0.0759,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso D6 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso D6 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso D6 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso D6 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -44701,6 +46553,18 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Neptune)",
+        "type": "Meso D6 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Saturn)",
+        "type": "Meso D6 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Saturn/Pandora (Pursuit)",
         "type": "Meso D6 Relic",
         "chance": 0.0506,
@@ -44794,6 +46658,12 @@
         "location": "Saturn/Vand Cluster (Caches)",
         "type": "Meso D6 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso D6 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -44950,6 +46820,30 @@
         "location": "Venus/Romula (Defense), Rotation C",
         "type": "Meso D6 Relic",
         "chance": 0.0759,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso D6 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso D6 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso D6 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso D6 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -45498,6 +47392,18 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Neptune)",
+        "type": "Meso D6 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Saturn)",
+        "type": "Meso D6 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Saturn/Pandora (Pursuit)",
         "type": "Meso D6 Relic",
         "chance": 0.0506,
@@ -45591,6 +47497,12 @@
         "location": "Saturn/Vand Cluster (Caches)",
         "type": "Meso D6 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso D6 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -45747,6 +47659,30 @@
         "location": "Venus/Romula (Defense), Rotation C",
         "type": "Meso D6 Relic",
         "chance": 0.0759,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso D6 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso D6 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso D6 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso D6 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -46283,6 +48219,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso E5 Relic",
+        "chance": 0.06,
+        "rarity": "Rare"
+      },
+      {
         "location": "Void/Ani (Survival), Rotation C",
         "type": "Meso E5 Relic",
         "chance": 0.0625,
@@ -46310,6 +48252,30 @@
         "location": "Deimos/Cambion Drift (Level 25 - 30 Cambion Drift Bounty), Rotation B",
         "type": "Meso E5 Relic",
         "chance": 0.0694,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso E5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso E5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso E5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso E5 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -46552,6 +48518,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso E5 Relic",
+        "chance": 0.06,
+        "rarity": "Rare"
+      },
+      {
         "location": "Void/Ani (Survival), Rotation C",
         "type": "Meso E5 Relic",
         "chance": 0.0625,
@@ -46579,6 +48551,30 @@
         "location": "Deimos/Cambion Drift (Level 25 - 30 Cambion Drift Bounty), Rotation B",
         "type": "Meso E5 Relic",
         "chance": 0.0694,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso E5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso E5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso E5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso E5 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -46821,6 +48817,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso E5 Relic",
+        "chance": 0.06,
+        "rarity": "Rare"
+      },
+      {
         "location": "Void/Ani (Survival), Rotation C",
         "type": "Meso E5 Relic",
         "chance": 0.0625,
@@ -46848,6 +48850,30 @@
         "location": "Deimos/Cambion Drift (Level 25 - 30 Cambion Drift Bounty), Rotation B",
         "type": "Meso E5 Relic",
         "chance": 0.0694,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso E5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso E5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso E5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso E5 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -47090,6 +49116,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso E5 Relic",
+        "chance": 0.06,
+        "rarity": "Rare"
+      },
+      {
         "location": "Void/Ani (Survival), Rotation C",
         "type": "Meso E5 Relic",
         "chance": 0.0625,
@@ -47117,6 +49149,30 @@
         "location": "Deimos/Cambion Drift (Level 25 - 30 Cambion Drift Bounty), Rotation B",
         "type": "Meso E5 Relic",
         "chance": 0.0694,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso E5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso E5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso E5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso E5 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -47803,6 +49859,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso I1 Relic",
+        "chance": 0.06,
+        "rarity": "Rare"
+      },
+      {
         "location": "Murex Raid, Rotation B",
         "type": "Meso I1 Relic",
         "chance": 0.0606,
@@ -47956,6 +50018,30 @@
         "location": "Venus/Romula (Defense), Rotation C",
         "type": "Meso I1 Relic",
         "chance": 0.0759,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso I1 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso I1 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso I1 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso I1 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -48598,6 +50684,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso I1 Relic",
+        "chance": 0.06,
+        "rarity": "Rare"
+      },
+      {
         "location": "Murex Raid, Rotation B",
         "type": "Meso I1 Relic",
         "chance": 0.0606,
@@ -48751,6 +50843,30 @@
         "location": "Venus/Romula (Defense), Rotation C",
         "type": "Meso I1 Relic",
         "chance": 0.0759,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso I1 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso I1 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso I1 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso I1 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -49393,6 +51509,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso I1 Relic",
+        "chance": 0.06,
+        "rarity": "Rare"
+      },
+      {
         "location": "Murex Raid, Rotation B",
         "type": "Meso I1 Relic",
         "chance": 0.0606,
@@ -49546,6 +51668,30 @@
         "location": "Venus/Romula (Defense), Rotation C",
         "type": "Meso I1 Relic",
         "chance": 0.0759,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso I1 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso I1 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso I1 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso I1 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -50188,6 +52334,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso I1 Relic",
+        "chance": 0.06,
+        "rarity": "Rare"
+      },
+      {
         "location": "Murex Raid, Rotation B",
         "type": "Meso I1 Relic",
         "chance": 0.0606,
@@ -50341,6 +52493,30 @@
         "location": "Venus/Romula (Defense), Rotation C",
         "type": "Meso I1 Relic",
         "chance": 0.0759,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso I1 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso I1 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso I1 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso I1 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -51067,6 +53243,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso K3 Relic",
+        "chance": 0.06,
+        "rarity": "Rare"
+      },
+      {
         "location": "Void/Ani (Survival), Rotation C",
         "type": "Meso K3 Relic",
         "chance": 0.0625,
@@ -51232,6 +53414,30 @@
         "location": "Venus/Cytherean (Interception), Rotation A",
         "type": "Meso K3 Relic",
         "chance": 0.0769,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso K3 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso K3 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso K3 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso K3 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -51876,6 +54082,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso K3 Relic",
+        "chance": 0.06,
+        "rarity": "Rare"
+      },
+      {
         "location": "Void/Ani (Survival), Rotation C",
         "type": "Meso K3 Relic",
         "chance": 0.0625,
@@ -52041,6 +54253,30 @@
         "location": "Venus/Cytherean (Interception), Rotation A",
         "type": "Meso K3 Relic",
         "chance": 0.0769,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso K3 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso K3 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso K3 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso K3 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -52685,6 +54921,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso K3 Relic",
+        "chance": 0.06,
+        "rarity": "Rare"
+      },
+      {
         "location": "Void/Ani (Survival), Rotation C",
         "type": "Meso K3 Relic",
         "chance": 0.0625,
@@ -52850,6 +55092,30 @@
         "location": "Venus/Cytherean (Interception), Rotation A",
         "type": "Meso K3 Relic",
         "chance": 0.0769,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso K3 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso K3 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso K3 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso K3 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -53494,6 +55760,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso K3 Relic",
+        "chance": 0.06,
+        "rarity": "Rare"
+      },
+      {
         "location": "Void/Ani (Survival), Rotation C",
         "type": "Meso K3 Relic",
         "chance": 0.0625,
@@ -53659,6 +55931,30 @@
         "location": "Venus/Cytherean (Interception), Rotation A",
         "type": "Meso K3 Relic",
         "chance": 0.0769,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso K3 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso K3 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso K3 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso K3 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -55329,6 +57625,18 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Neptune)",
+        "type": "Meso P2 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Saturn)",
+        "type": "Meso P2 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Saturn/Pandora (Pursuit)",
         "type": "Meso P2 Relic",
         "chance": 0.0506,
@@ -55422,6 +57730,12 @@
         "location": "Saturn/Vand Cluster (Caches)",
         "type": "Meso P2 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso P2 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -55590,6 +57904,30 @@
         "location": "Venus/Cytherean (Interception), Rotation A",
         "type": "Meso P2 Relic",
         "chance": 0.0769,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso P2 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso P2 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso P2 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso P2 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -56138,6 +58476,18 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Neptune)",
+        "type": "Meso P2 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Saturn)",
+        "type": "Meso P2 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Saturn/Pandora (Pursuit)",
         "type": "Meso P2 Relic",
         "chance": 0.0506,
@@ -56231,6 +58581,12 @@
         "location": "Saturn/Vand Cluster (Caches)",
         "type": "Meso P2 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso P2 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -56399,6 +58755,30 @@
         "location": "Venus/Cytherean (Interception), Rotation A",
         "type": "Meso P2 Relic",
         "chance": 0.0769,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso P2 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso P2 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso P2 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso P2 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -56947,6 +59327,18 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Neptune)",
+        "type": "Meso P2 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Saturn)",
+        "type": "Meso P2 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Saturn/Pandora (Pursuit)",
         "type": "Meso P2 Relic",
         "chance": 0.0506,
@@ -57040,6 +59432,12 @@
         "location": "Saturn/Vand Cluster (Caches)",
         "type": "Meso P2 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso P2 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -57208,6 +59606,30 @@
         "location": "Venus/Cytherean (Interception), Rotation A",
         "type": "Meso P2 Relic",
         "chance": 0.0769,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso P2 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso P2 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso P2 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso P2 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -57756,6 +60178,18 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Neptune)",
+        "type": "Meso P2 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Saturn)",
+        "type": "Meso P2 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Saturn/Pandora (Pursuit)",
         "type": "Meso P2 Relic",
         "chance": 0.0506,
@@ -57849,6 +60283,12 @@
         "location": "Saturn/Vand Cluster (Caches)",
         "type": "Meso P2 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso P2 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -58017,6 +60457,30 @@
         "location": "Venus/Cytherean (Interception), Rotation A",
         "type": "Meso P2 Relic",
         "chance": 0.0769,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso P2 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso P2 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso P2 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso P2 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -58619,6 +61083,18 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Neptune)",
+        "type": "Meso P4 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Saturn)",
+        "type": "Meso P4 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Saturn/Pandora (Pursuit)",
         "type": "Meso P4 Relic",
         "chance": 0.0506,
@@ -58706,6 +61182,12 @@
         "location": "Saturn/Vand Cluster (Caches)",
         "type": "Meso P4 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso P4 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -58874,6 +61356,30 @@
         "location": "Deimos/Cambion Drift (Level 30 - 40 Arcana Isolation Vault), Rotation A",
         "type": "Meso P4 Relic",
         "chance": 0.0781,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso P4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso P4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso P4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso P4 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -59452,6 +61958,18 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Neptune)",
+        "type": "Meso P4 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Saturn)",
+        "type": "Meso P4 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Saturn/Pandora (Pursuit)",
         "type": "Meso P4 Relic",
         "chance": 0.0506,
@@ -59539,6 +62057,12 @@
         "location": "Saturn/Vand Cluster (Caches)",
         "type": "Meso P4 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso P4 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -59707,6 +62231,30 @@
         "location": "Deimos/Cambion Drift (Level 30 - 40 Arcana Isolation Vault), Rotation A",
         "type": "Meso P4 Relic",
         "chance": 0.0781,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso P4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso P4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso P4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso P4 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -60285,6 +62833,18 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Neptune)",
+        "type": "Meso P4 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Saturn)",
+        "type": "Meso P4 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Saturn/Pandora (Pursuit)",
         "type": "Meso P4 Relic",
         "chance": 0.0506,
@@ -60372,6 +62932,12 @@
         "location": "Saturn/Vand Cluster (Caches)",
         "type": "Meso P4 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso P4 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -60540,6 +63106,30 @@
         "location": "Deimos/Cambion Drift (Level 30 - 40 Arcana Isolation Vault), Rotation A",
         "type": "Meso P4 Relic",
         "chance": 0.0781,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso P4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso P4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso P4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso P4 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -61118,6 +63708,18 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Neptune)",
+        "type": "Meso P4 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Saturn)",
+        "type": "Meso P4 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Saturn/Pandora (Pursuit)",
         "type": "Meso P4 Relic",
         "chance": 0.0506,
@@ -61205,6 +63807,12 @@
         "location": "Saturn/Vand Cluster (Caches)",
         "type": "Meso P4 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso P4 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -61373,6 +63981,30 @@
         "location": "Deimos/Cambion Drift (Level 30 - 40 Arcana Isolation Vault), Rotation A",
         "type": "Meso P4 Relic",
         "chance": 0.0781,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso P4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso P4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso P4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso P4 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -62531,6 +65163,18 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Neptune)",
+        "type": "Meso T4 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Saturn)",
+        "type": "Meso T4 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Saturn/Pandora (Pursuit)",
         "type": "Meso T4 Relic",
         "chance": 0.0506,
@@ -62624,6 +65268,12 @@
         "location": "Saturn/Vand Cluster (Caches)",
         "type": "Meso T4 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso T4 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -62780,6 +65430,30 @@
         "location": "Venus/Romula (Defense), Rotation C",
         "type": "Meso T4 Relic",
         "chance": 0.0759,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso T4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso T4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso T4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso T4 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -63334,6 +66008,18 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Neptune)",
+        "type": "Meso T4 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Saturn)",
+        "type": "Meso T4 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Saturn/Pandora (Pursuit)",
         "type": "Meso T4 Relic",
         "chance": 0.0506,
@@ -63427,6 +66113,12 @@
         "location": "Saturn/Vand Cluster (Caches)",
         "type": "Meso T4 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso T4 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -63583,6 +66275,30 @@
         "location": "Venus/Romula (Defense), Rotation C",
         "type": "Meso T4 Relic",
         "chance": 0.0759,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso T4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso T4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso T4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso T4 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -64137,6 +66853,18 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Neptune)",
+        "type": "Meso T4 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Saturn)",
+        "type": "Meso T4 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Saturn/Pandora (Pursuit)",
         "type": "Meso T4 Relic",
         "chance": 0.0506,
@@ -64230,6 +66958,12 @@
         "location": "Saturn/Vand Cluster (Caches)",
         "type": "Meso T4 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso T4 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -64386,6 +67120,30 @@
         "location": "Venus/Romula (Defense), Rotation C",
         "type": "Meso T4 Relic",
         "chance": 0.0759,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso T4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso T4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso T4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso T4 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -64940,6 +67698,18 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Neptune)",
+        "type": "Meso T4 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Saturn)",
+        "type": "Meso T4 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Saturn/Pandora (Pursuit)",
         "type": "Meso T4 Relic",
         "chance": 0.0506,
@@ -65033,6 +67803,12 @@
         "location": "Saturn/Vand Cluster (Caches)",
         "type": "Meso T4 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso T4 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -65189,6 +67965,30 @@
         "location": "Venus/Romula (Defense), Rotation C",
         "type": "Meso T4 Relic",
         "chance": 0.0759,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso T4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso T4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso T4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation B",
+        "type": "Meso T4 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -66323,6 +69123,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo B6 Relic",
+        "chance": 0.06,
+        "rarity": "Rare"
+      },
+      {
         "location": "Void/Ani (Survival), Rotation C",
         "type": "Neo B6 Relic",
         "chance": 0.0625,
@@ -66344,6 +69150,30 @@
         "location": "Void/Ukko (Capture)",
         "type": "Neo B6 Relic",
         "chance": 0.0625,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo B6 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo B6 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo B6 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo B6 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -66640,6 +69470,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo B6 Relic",
+        "chance": 0.06,
+        "rarity": "Rare"
+      },
+      {
         "location": "Void/Ani (Survival), Rotation C",
         "type": "Neo B6 Relic",
         "chance": 0.0625,
@@ -66661,6 +69497,30 @@
         "location": "Void/Ukko (Capture)",
         "type": "Neo B6 Relic",
         "chance": 0.0625,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo B6 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo B6 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo B6 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo B6 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -66957,6 +69817,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo B6 Relic",
+        "chance": 0.06,
+        "rarity": "Rare"
+      },
+      {
         "location": "Void/Ani (Survival), Rotation C",
         "type": "Neo B6 Relic",
         "chance": 0.0625,
@@ -66978,6 +69844,30 @@
         "location": "Void/Ukko (Capture)",
         "type": "Neo B6 Relic",
         "chance": 0.0625,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo B6 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo B6 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo B6 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo B6 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -67274,6 +70164,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo B6 Relic",
+        "chance": 0.06,
+        "rarity": "Rare"
+      },
+      {
         "location": "Void/Ani (Survival), Rotation C",
         "type": "Neo B6 Relic",
         "chance": 0.0625,
@@ -67295,6 +70191,30 @@
         "location": "Void/Ukko (Capture)",
         "type": "Neo B6 Relic",
         "chance": 0.0625,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo B6 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo B6 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo B6 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo B6 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -67741,7 +70661,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Veil/Lu-Yan (Caches)",
+        "location": "Veil/Lu-Yan (Caches), Rotation A",
         "type": "Neo B7 Relic",
         "chance": 0.0435,
         "rarity": "Rare"
@@ -67789,6 +70709,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Pluto)",
+        "type": "Neo B7 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Pluto/Obol Crossing (Defense), Rotation C",
         "type": "Neo B7 Relic",
         "chance": 0.0513,
@@ -67810,6 +70736,12 @@
         "location": "Void/Marduk (Sabotage)",
         "type": "Neo B7 Relic",
         "chance": 0.0588,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo B7 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -67990,6 +70922,30 @@
         "location": "Uranus/Umbriel (Interception), Rotation B",
         "type": "Neo B7 Relic",
         "chance": 0.0714,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo B7 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo B7 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo B7 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo B7 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -68526,7 +71482,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Veil/Lu-Yan (Caches)",
+        "location": "Veil/Lu-Yan (Caches), Rotation A",
         "type": "Neo B7 Relic",
         "chance": 0.0435,
         "rarity": "Rare"
@@ -68574,6 +71530,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Pluto)",
+        "type": "Neo B7 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Pluto/Obol Crossing (Defense), Rotation C",
         "type": "Neo B7 Relic",
         "chance": 0.0513,
@@ -68595,6 +71557,12 @@
         "location": "Void/Marduk (Sabotage)",
         "type": "Neo B7 Relic",
         "chance": 0.0588,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo B7 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -68775,6 +71743,30 @@
         "location": "Uranus/Umbriel (Interception), Rotation B",
         "type": "Neo B7 Relic",
         "chance": 0.0714,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo B7 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo B7 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo B7 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo B7 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -69311,7 +72303,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Veil/Lu-Yan (Caches)",
+        "location": "Veil/Lu-Yan (Caches), Rotation A",
         "type": "Neo B7 Relic",
         "chance": 0.0435,
         "rarity": "Rare"
@@ -69359,6 +72351,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Pluto)",
+        "type": "Neo B7 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Pluto/Obol Crossing (Defense), Rotation C",
         "type": "Neo B7 Relic",
         "chance": 0.0513,
@@ -69380,6 +72378,12 @@
         "location": "Void/Marduk (Sabotage)",
         "type": "Neo B7 Relic",
         "chance": 0.0588,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo B7 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -69560,6 +72564,30 @@
         "location": "Uranus/Umbriel (Interception), Rotation B",
         "type": "Neo B7 Relic",
         "chance": 0.0714,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo B7 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo B7 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo B7 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo B7 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -70096,7 +73124,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Veil/Lu-Yan (Caches)",
+        "location": "Veil/Lu-Yan (Caches), Rotation A",
         "type": "Neo B7 Relic",
         "chance": 0.0435,
         "rarity": "Rare"
@@ -70144,6 +73172,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Pluto)",
+        "type": "Neo B7 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Pluto/Obol Crossing (Defense), Rotation C",
         "type": "Neo B7 Relic",
         "chance": 0.0513,
@@ -70165,6 +73199,12 @@
         "location": "Void/Marduk (Sabotage)",
         "type": "Neo B7 Relic",
         "chance": 0.0588,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo B7 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -70345,6 +73385,30 @@
         "location": "Uranus/Umbriel (Interception), Rotation B",
         "type": "Neo B7 Relic",
         "chance": 0.0714,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo B7 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo B7 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo B7 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo B7 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -70734,7 +73798,15 @@
     "type": "Relic",
     "imageName": "neo-exceptional.png",
     "category": "Relics",
-    "tradable": true
+    "tradable": true,
+    "drops": [
+      {
+        "location": "Void Storm (Pluto)",
+        "type": "Neo D2 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      }
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionNezhaPrimeAGold",
@@ -70743,7 +73815,15 @@
     "type": "Relic",
     "imageName": "neo-flawless.png",
     "category": "Relics",
-    "tradable": true
+    "tradable": true,
+    "drops": [
+      {
+        "location": "Void Storm (Pluto)",
+        "type": "Neo D2 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      }
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionNezhaPrimeABronze",
@@ -70752,7 +73832,15 @@
     "type": "Relic",
     "imageName": "neo-intact.png",
     "category": "Relics",
-    "tradable": true
+    "tradable": true,
+    "drops": [
+      {
+        "location": "Void Storm (Pluto)",
+        "type": "Neo D2 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      }
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionNezhaPrimeAPlatinum",
@@ -70761,7 +73849,15 @@
     "type": "Relic",
     "imageName": "neo-radiant.png",
     "category": "Relics",
-    "tradable": true
+    "tradable": true,
+    "drops": [
+      {
+        "location": "Void Storm (Pluto)",
+        "type": "Neo D2 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      }
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionELFVaultBSilver",
@@ -71839,7 +74935,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Veil/Lu-Yan (Caches)",
+        "location": "Veil/Lu-Yan (Caches), Rotation A",
         "type": "Neo N13 Relic",
         "chance": 0.0435,
         "rarity": "Rare"
@@ -71914,6 +75010,12 @@
         "location": "Void/Marduk (Sabotage)",
         "type": "Neo N13 Relic",
         "chance": 0.0588,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo N13 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -72100,6 +75202,30 @@
         "location": "Deimos/Cambion Drift (Level 30 - 40 Arcana Isolation Vault), Rotation C",
         "type": "Neo N13 Relic",
         "chance": 0.075,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo N13 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo N13 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo N13 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo N13 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -72726,7 +75852,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Veil/Lu-Yan (Caches)",
+        "location": "Veil/Lu-Yan (Caches), Rotation A",
         "type": "Neo N13 Relic",
         "chance": 0.0435,
         "rarity": "Rare"
@@ -72801,6 +75927,12 @@
         "location": "Void/Marduk (Sabotage)",
         "type": "Neo N13 Relic",
         "chance": 0.0588,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo N13 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -72987,6 +76119,30 @@
         "location": "Deimos/Cambion Drift (Level 30 - 40 Arcana Isolation Vault), Rotation C",
         "type": "Neo N13 Relic",
         "chance": 0.075,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo N13 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo N13 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo N13 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo N13 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -73613,7 +76769,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Veil/Lu-Yan (Caches)",
+        "location": "Veil/Lu-Yan (Caches), Rotation A",
         "type": "Neo N13 Relic",
         "chance": 0.0435,
         "rarity": "Rare"
@@ -73688,6 +76844,12 @@
         "location": "Void/Marduk (Sabotage)",
         "type": "Neo N13 Relic",
         "chance": 0.0588,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo N13 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -73874,6 +77036,30 @@
         "location": "Deimos/Cambion Drift (Level 30 - 40 Arcana Isolation Vault), Rotation C",
         "type": "Neo N13 Relic",
         "chance": 0.075,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo N13 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo N13 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo N13 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo N13 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -74500,7 +77686,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Veil/Lu-Yan (Caches)",
+        "location": "Veil/Lu-Yan (Caches), Rotation A",
         "type": "Neo N13 Relic",
         "chance": 0.0435,
         "rarity": "Rare"
@@ -74575,6 +77761,12 @@
         "location": "Void/Marduk (Sabotage)",
         "type": "Neo N13 Relic",
         "chance": 0.0588,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo N13 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -74761,6 +77953,30 @@
         "location": "Deimos/Cambion Drift (Level 30 - 40 Arcana Isolation Vault), Rotation C",
         "type": "Neo N13 Relic",
         "chance": 0.075,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo N13 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo N13 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo N13 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo N13 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -75303,7 +78519,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Veil/Lu-Yan (Caches)",
+        "location": "Veil/Lu-Yan (Caches), Rotation A",
         "type": "Neo N14 Relic",
         "chance": 0.0435,
         "rarity": "Rare"
@@ -75357,6 +78573,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Pluto)",
+        "type": "Neo N14 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Jupiter/Ganymede (Disruption), Rotation B",
         "type": "Neo N14 Relic",
         "chance": 0.0556,
@@ -75372,6 +78594,12 @@
         "location": "Void/Marduk (Sabotage)",
         "type": "Neo N14 Relic",
         "chance": 0.0588,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo N14 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -75552,6 +78780,30 @@
         "location": "Uranus/Umbriel (Interception), Rotation B",
         "type": "Neo N14 Relic",
         "chance": 0.0714,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo N14 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo N14 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo N14 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo N14 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -76118,7 +79370,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Veil/Lu-Yan (Caches)",
+        "location": "Veil/Lu-Yan (Caches), Rotation A",
         "type": "Neo N14 Relic",
         "chance": 0.0435,
         "rarity": "Rare"
@@ -76172,6 +79424,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Pluto)",
+        "type": "Neo N14 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Jupiter/Ganymede (Disruption), Rotation B",
         "type": "Neo N14 Relic",
         "chance": 0.0556,
@@ -76187,6 +79445,12 @@
         "location": "Void/Marduk (Sabotage)",
         "type": "Neo N14 Relic",
         "chance": 0.0588,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo N14 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -76367,6 +79631,30 @@
         "location": "Uranus/Umbriel (Interception), Rotation B",
         "type": "Neo N14 Relic",
         "chance": 0.0714,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo N14 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo N14 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo N14 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo N14 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -76933,7 +80221,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Veil/Lu-Yan (Caches)",
+        "location": "Veil/Lu-Yan (Caches), Rotation A",
         "type": "Neo N14 Relic",
         "chance": 0.0435,
         "rarity": "Rare"
@@ -76987,6 +80275,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Pluto)",
+        "type": "Neo N14 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Jupiter/Ganymede (Disruption), Rotation B",
         "type": "Neo N14 Relic",
         "chance": 0.0556,
@@ -77002,6 +80296,12 @@
         "location": "Void/Marduk (Sabotage)",
         "type": "Neo N14 Relic",
         "chance": 0.0588,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo N14 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -77182,6 +80482,30 @@
         "location": "Uranus/Umbriel (Interception), Rotation B",
         "type": "Neo N14 Relic",
         "chance": 0.0714,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo N14 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo N14 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo N14 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo N14 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -77748,7 +81072,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Veil/Lu-Yan (Caches)",
+        "location": "Veil/Lu-Yan (Caches), Rotation A",
         "type": "Neo N14 Relic",
         "chance": 0.0435,
         "rarity": "Rare"
@@ -77802,6 +81126,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Pluto)",
+        "type": "Neo N14 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Jupiter/Ganymede (Disruption), Rotation B",
         "type": "Neo N14 Relic",
         "chance": 0.0556,
@@ -77817,6 +81147,12 @@
         "location": "Void/Marduk (Sabotage)",
         "type": "Neo N14 Relic",
         "chance": 0.0588,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo N14 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -77997,6 +81333,30 @@
         "location": "Uranus/Umbriel (Interception), Rotation B",
         "type": "Neo N14 Relic",
         "chance": 0.0714,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo N14 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo N14 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo N14 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo N14 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -78557,7 +81917,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Veil/Lu-Yan (Caches)",
+        "location": "Veil/Lu-Yan (Caches), Rotation A",
         "type": "Neo N15 Relic",
         "chance": 0.0435,
         "rarity": "Rare"
@@ -78605,6 +81965,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Pluto)",
+        "type": "Neo N15 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Pluto/Obol Crossing (Defense), Rotation C",
         "type": "Neo N15 Relic",
         "chance": 0.0513,
@@ -78626,6 +81992,12 @@
         "location": "Void/Marduk (Sabotage)",
         "type": "Neo N15 Relic",
         "chance": 0.0588,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo N15 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -78806,6 +82178,30 @@
         "location": "Uranus/Umbriel (Interception), Rotation B",
         "type": "Neo N15 Relic",
         "chance": 0.0714,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo N15 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo N15 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo N15 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo N15 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -79342,7 +82738,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Veil/Lu-Yan (Caches)",
+        "location": "Veil/Lu-Yan (Caches), Rotation A",
         "type": "Neo N15 Relic",
         "chance": 0.0435,
         "rarity": "Rare"
@@ -79390,6 +82786,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Pluto)",
+        "type": "Neo N15 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Pluto/Obol Crossing (Defense), Rotation C",
         "type": "Neo N15 Relic",
         "chance": 0.0513,
@@ -79411,6 +82813,12 @@
         "location": "Void/Marduk (Sabotage)",
         "type": "Neo N15 Relic",
         "chance": 0.0588,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo N15 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -79591,6 +82999,30 @@
         "location": "Uranus/Umbriel (Interception), Rotation B",
         "type": "Neo N15 Relic",
         "chance": 0.0714,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo N15 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo N15 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo N15 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo N15 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -80127,7 +83559,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Veil/Lu-Yan (Caches)",
+        "location": "Veil/Lu-Yan (Caches), Rotation A",
         "type": "Neo N15 Relic",
         "chance": 0.0435,
         "rarity": "Rare"
@@ -80175,6 +83607,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Pluto)",
+        "type": "Neo N15 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Pluto/Obol Crossing (Defense), Rotation C",
         "type": "Neo N15 Relic",
         "chance": 0.0513,
@@ -80196,6 +83634,12 @@
         "location": "Void/Marduk (Sabotage)",
         "type": "Neo N15 Relic",
         "chance": 0.0588,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo N15 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -80376,6 +83820,30 @@
         "location": "Uranus/Umbriel (Interception), Rotation B",
         "type": "Neo N15 Relic",
         "chance": 0.0714,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo N15 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo N15 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo N15 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo N15 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -80912,7 +84380,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Veil/Lu-Yan (Caches)",
+        "location": "Veil/Lu-Yan (Caches), Rotation A",
         "type": "Neo N15 Relic",
         "chance": 0.0435,
         "rarity": "Rare"
@@ -80960,6 +84428,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Pluto)",
+        "type": "Neo N15 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Pluto/Obol Crossing (Defense), Rotation C",
         "type": "Neo N15 Relic",
         "chance": 0.0513,
@@ -80981,6 +84455,12 @@
         "location": "Void/Marduk (Sabotage)",
         "type": "Neo N15 Relic",
         "chance": 0.0588,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo N15 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -81161,6 +84641,30 @@
         "location": "Uranus/Umbriel (Interception), Rotation B",
         "type": "Neo N15 Relic",
         "chance": 0.0714,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo N15 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo N15 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo N15 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo N15 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -82115,7 +85619,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Veil/Lu-Yan (Caches)",
+        "location": "Veil/Lu-Yan (Caches), Rotation A",
         "type": "Neo P2 Relic",
         "chance": 0.0435,
         "rarity": "Rare"
@@ -82163,6 +85667,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Pluto)",
+        "type": "Neo P2 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Jupiter/Ganymede (Disruption), Rotation B",
         "type": "Neo P2 Relic",
         "chance": 0.0556,
@@ -82178,6 +85688,12 @@
         "location": "Void/Marduk (Sabotage)",
         "type": "Neo P2 Relic",
         "chance": 0.0588,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo P2 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -82370,6 +85886,30 @@
         "location": "Uranus/Umbriel (Interception), Rotation B",
         "type": "Neo P2 Relic",
         "chance": 0.0714,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo P2 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo P2 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo P2 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo P2 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -82924,7 +86464,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Veil/Lu-Yan (Caches)",
+        "location": "Veil/Lu-Yan (Caches), Rotation A",
         "type": "Neo P2 Relic",
         "chance": 0.0435,
         "rarity": "Rare"
@@ -82972,6 +86512,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Pluto)",
+        "type": "Neo P2 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Jupiter/Ganymede (Disruption), Rotation B",
         "type": "Neo P2 Relic",
         "chance": 0.0556,
@@ -82987,6 +86533,12 @@
         "location": "Void/Marduk (Sabotage)",
         "type": "Neo P2 Relic",
         "chance": 0.0588,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo P2 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -83179,6 +86731,30 @@
         "location": "Uranus/Umbriel (Interception), Rotation B",
         "type": "Neo P2 Relic",
         "chance": 0.0714,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo P2 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo P2 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo P2 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo P2 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -83733,7 +87309,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Veil/Lu-Yan (Caches)",
+        "location": "Veil/Lu-Yan (Caches), Rotation A",
         "type": "Neo P2 Relic",
         "chance": 0.0435,
         "rarity": "Rare"
@@ -83781,6 +87357,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Pluto)",
+        "type": "Neo P2 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Jupiter/Ganymede (Disruption), Rotation B",
         "type": "Neo P2 Relic",
         "chance": 0.0556,
@@ -83796,6 +87378,12 @@
         "location": "Void/Marduk (Sabotage)",
         "type": "Neo P2 Relic",
         "chance": 0.0588,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo P2 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -83988,6 +87576,30 @@
         "location": "Uranus/Umbriel (Interception), Rotation B",
         "type": "Neo P2 Relic",
         "chance": 0.0714,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo P2 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo P2 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo P2 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo P2 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -84542,7 +88154,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Veil/Lu-Yan (Caches)",
+        "location": "Veil/Lu-Yan (Caches), Rotation A",
         "type": "Neo P2 Relic",
         "chance": 0.0435,
         "rarity": "Rare"
@@ -84590,6 +88202,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Pluto)",
+        "type": "Neo P2 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Jupiter/Ganymede (Disruption), Rotation B",
         "type": "Neo P2 Relic",
         "chance": 0.0556,
@@ -84605,6 +88223,12 @@
         "location": "Void/Marduk (Sabotage)",
         "type": "Neo P2 Relic",
         "chance": 0.0588,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo P2 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -84797,6 +88421,30 @@
         "location": "Uranus/Umbriel (Interception), Rotation B",
         "type": "Neo P2 Relic",
         "chance": 0.0714,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo P2 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo P2 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo P2 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo P2 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -85939,7 +89587,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Veil/Lu-Yan (Caches)",
+        "location": "Veil/Lu-Yan (Caches), Rotation A",
         "type": "Neo T2 Relic",
         "chance": 0.0435,
         "rarity": "Rare"
@@ -86002,6 +89650,12 @@
         "location": "Void/Marduk (Sabotage)",
         "type": "Neo T2 Relic",
         "chance": 0.0588,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo T2 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -86182,6 +89836,30 @@
         "location": "Uranus/Umbriel (Interception), Rotation B",
         "type": "Neo T2 Relic",
         "chance": 0.0714,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo T2 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo T2 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo T2 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo T2 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -86682,7 +90360,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Veil/Lu-Yan (Caches)",
+        "location": "Veil/Lu-Yan (Caches), Rotation A",
         "type": "Neo T2 Relic",
         "chance": 0.0435,
         "rarity": "Rare"
@@ -86745,6 +90423,12 @@
         "location": "Void/Marduk (Sabotage)",
         "type": "Neo T2 Relic",
         "chance": 0.0588,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo T2 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -86925,6 +90609,30 @@
         "location": "Uranus/Umbriel (Interception), Rotation B",
         "type": "Neo T2 Relic",
         "chance": 0.0714,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo T2 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo T2 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo T2 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo T2 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -87425,7 +91133,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Veil/Lu-Yan (Caches)",
+        "location": "Veil/Lu-Yan (Caches), Rotation A",
         "type": "Neo T2 Relic",
         "chance": 0.0435,
         "rarity": "Rare"
@@ -87488,6 +91196,12 @@
         "location": "Void/Marduk (Sabotage)",
         "type": "Neo T2 Relic",
         "chance": 0.0588,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo T2 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -87668,6 +91382,30 @@
         "location": "Uranus/Umbriel (Interception), Rotation B",
         "type": "Neo T2 Relic",
         "chance": 0.0714,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo T2 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo T2 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo T2 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo T2 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -88168,7 +91906,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Veil/Lu-Yan (Caches)",
+        "location": "Veil/Lu-Yan (Caches), Rotation A",
         "type": "Neo T2 Relic",
         "chance": 0.0435,
         "rarity": "Rare"
@@ -88231,6 +91969,12 @@
         "location": "Void/Marduk (Sabotage)",
         "type": "Neo T2 Relic",
         "chance": 0.0588,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo T2 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -88411,6 +92155,30 @@
         "location": "Uranus/Umbriel (Interception), Rotation B",
         "type": "Neo T2 Relic",
         "chance": 0.0714,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo T2 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo T2 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo T2 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo T2 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -88734,7 +92502,15 @@
     "type": "Relic",
     "imageName": "neo-exceptional.png",
     "category": "Relics",
-    "tradable": true
+    "tradable": true,
+    "drops": [
+      {
+        "location": "Void Storm (Pluto)",
+        "type": "Neo T3 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      }
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionInarosPrimeAGold",
@@ -88743,7 +92519,15 @@
     "type": "Relic",
     "imageName": "neo-flawless.png",
     "category": "Relics",
-    "tradable": true
+    "tradable": true,
+    "drops": [
+      {
+        "location": "Void Storm (Pluto)",
+        "type": "Neo T3 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      }
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionInarosPrimeABronze",
@@ -88752,7 +92536,15 @@
     "type": "Relic",
     "imageName": "neo-intact.png",
     "category": "Relics",
-    "tradable": true
+    "tradable": true,
+    "drops": [
+      {
+        "location": "Void Storm (Pluto)",
+        "type": "Neo T3 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      }
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionInarosPrimeAPlatinum",
@@ -88761,7 +92553,15 @@
     "type": "Relic",
     "imageName": "neo-radiant.png",
     "category": "Relics",
-    "tradable": true
+    "tradable": true,
+    "drops": [
+      {
+        "location": "Void Storm (Pluto)",
+        "type": "Neo T3 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      }
+    ]
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionESilver",
@@ -89757,7 +93557,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Veil/Lu-Yan (Caches)",
+        "location": "Veil/Lu-Yan (Caches), Rotation A",
         "type": "Neo Z7 Relic",
         "chance": 0.0435,
         "rarity": "Rare"
@@ -89817,6 +93617,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Pluto)",
+        "type": "Neo Z7 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Jupiter/Ganymede (Disruption), Rotation B",
         "type": "Neo Z7 Relic",
         "chance": 0.0556,
@@ -89832,6 +93638,12 @@
         "location": "Void/Marduk (Sabotage)",
         "type": "Neo Z7 Relic",
         "chance": 0.0588,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo Z7 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -90042,6 +93854,30 @@
         "location": "Deimos/Cambion Drift (Level 30 - 40 Arcana Isolation Vault), Rotation C",
         "type": "Neo Z7 Relic",
         "chance": 0.0781,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo Z7 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo Z7 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo Z7 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo Z7 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -90596,7 +94432,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Veil/Lu-Yan (Caches)",
+        "location": "Veil/Lu-Yan (Caches), Rotation A",
         "type": "Neo Z7 Relic",
         "chance": 0.0435,
         "rarity": "Rare"
@@ -90656,6 +94492,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Pluto)",
+        "type": "Neo Z7 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Jupiter/Ganymede (Disruption), Rotation B",
         "type": "Neo Z7 Relic",
         "chance": 0.0556,
@@ -90671,6 +94513,12 @@
         "location": "Void/Marduk (Sabotage)",
         "type": "Neo Z7 Relic",
         "chance": 0.0588,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo Z7 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -90881,6 +94729,30 @@
         "location": "Deimos/Cambion Drift (Level 30 - 40 Arcana Isolation Vault), Rotation C",
         "type": "Neo Z7 Relic",
         "chance": 0.0781,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo Z7 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo Z7 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo Z7 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo Z7 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -91435,7 +95307,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Veil/Lu-Yan (Caches)",
+        "location": "Veil/Lu-Yan (Caches), Rotation A",
         "type": "Neo Z7 Relic",
         "chance": 0.0435,
         "rarity": "Rare"
@@ -91495,6 +95367,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Pluto)",
+        "type": "Neo Z7 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Jupiter/Ganymede (Disruption), Rotation B",
         "type": "Neo Z7 Relic",
         "chance": 0.0556,
@@ -91510,6 +95388,12 @@
         "location": "Void/Marduk (Sabotage)",
         "type": "Neo Z7 Relic",
         "chance": 0.0588,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo Z7 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -91720,6 +95604,30 @@
         "location": "Deimos/Cambion Drift (Level 30 - 40 Arcana Isolation Vault), Rotation C",
         "type": "Neo Z7 Relic",
         "chance": 0.0781,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo Z7 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo Z7 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo Z7 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo Z7 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
@@ -92274,7 +96182,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Veil/Lu-Yan (Caches)",
+        "location": "Veil/Lu-Yan (Caches), Rotation A",
         "type": "Neo Z7 Relic",
         "chance": 0.0435,
         "rarity": "Rare"
@@ -92334,6 +96242,12 @@
         "rarity": "Rare"
       },
       {
+        "location": "Void Storm (Pluto)",
+        "type": "Neo Z7 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Jupiter/Ganymede (Disruption), Rotation B",
         "type": "Neo Z7 Relic",
         "chance": 0.0556,
@@ -92349,6 +96263,12 @@
         "location": "Void/Marduk (Sabotage)",
         "type": "Neo Z7 Relic",
         "chance": 0.0588,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo Z7 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -92559,6 +96479,30 @@
         "location": "Deimos/Cambion Drift (Level 30 - 40 Arcana Isolation Vault), Rotation C",
         "type": "Neo Z7 Relic",
         "chance": 0.0781,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo Z7 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo Z7 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Neo Z7 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Neo Z7 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {

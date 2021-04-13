@@ -250,12 +250,6 @@
       },
       {
         "location": "Eidolon Hydrolyst (Capture)",
-        "type": "Arcane Barrier",
-        "chance": 0.05,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eidolon Hydrolyst (Capture)",
         "type": "Arcane Energize",
         "chance": 0.05,
         "rarity": "Rare"
@@ -267,14 +261,20 @@
         "rarity": "Rare"
       },
       {
-        "location": "Eidolon Gantulyst (Capture)",
-        "type": "Arcane Aegis",
-        "chance": 0.0529,
+        "location": "Eidolon Hydrolyst (Capture)",
+        "type": "Arcane Barrier",
+        "chance": 0.05,
         "rarity": "Rare"
       },
       {
         "location": "Eidolon Gantulyst (Capture)",
         "type": "Arcane Ultimatum",
+        "chance": 0.0529,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eidolon Gantulyst (Capture)",
+        "type": "Arcane Aegis",
         "chance": 0.0529,
         "rarity": "Rare"
       },
@@ -370,13 +370,7 @@
       },
       {
         "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Resistance",
-        "chance": 0.0602,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Victory",
+        "type": "Arcane Deflection",
         "chance": 0.0602,
         "rarity": "Rare"
       },
@@ -388,7 +382,13 @@
       },
       {
         "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Deflection",
+        "type": "Arcane Victory",
+        "chance": 0.0602,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eidolon Teralyst (Capture)",
+        "type": "Arcane Resistance",
         "chance": 0.0602,
         "rarity": "Rare"
       },
@@ -514,12 +514,6 @@
       },
       {
         "location": "Eidolon Gantulyst (Capture)",
-        "type": "Arcane Eruption",
-        "chance": 0.0925,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eidolon Gantulyst (Capture)",
         "type": "Arcane Acceleration",
         "chance": 0.0925,
         "rarity": "Rare"
@@ -537,81 +531,81 @@
         "rarity": "Rare"
       },
       {
-        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
-        "type": "Arcane Tempo",
-        "chance": 0.1,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
-        "type": "Arcane Consequence",
-        "chance": 0.1,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
-        "type": "Arcane Momentum",
-        "chance": 0.1,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
-        "type": "Arcane Ice",
-        "chance": 0.1,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
-        "type": "Arcane Nullifier",
-        "chance": 0.1,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
-        "type": "Arcane Warmth",
-        "chance": 0.1,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
-        "type": "Arcane Tempo",
-        "chance": 0.1,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
-        "type": "Arcane Consequence",
-        "chance": 0.1,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
-        "type": "Arcane Momentum",
-        "chance": 0.1,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
-        "type": "Arcane Ice",
-        "chance": 0.1,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
-        "type": "Arcane Nullifier",
-        "chance": 0.1,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
-        "type": "Arcane Warmth",
-        "chance": 0.1,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Gantulyst",
+        "location": "Eidolon Gantulyst (Capture)",
         "type": "Arcane Eruption",
-        "chance": 0.102,
+        "chance": 0.0925,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
+        "type": "Arcane Tempo",
+        "chance": 0.1,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
+        "type": "Arcane Consequence",
+        "chance": 0.1,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
+        "type": "Arcane Momentum",
+        "chance": 0.1,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
+        "type": "Arcane Ice",
+        "chance": 0.1,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
+        "type": "Arcane Nullifier",
+        "chance": 0.1,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
+        "type": "Arcane Warmth",
+        "chance": 0.1,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
+        "type": "Arcane Tempo",
+        "chance": 0.1,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
+        "type": "Arcane Consequence",
+        "chance": 0.1,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
+        "type": "Arcane Momentum",
+        "chance": 0.1,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
+        "type": "Arcane Ice",
+        "chance": 0.1,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
+        "type": "Arcane Nullifier",
+        "chance": 0.1,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
+        "type": "Arcane Warmth",
+        "chance": 0.1,
         "rarity": "Uncommon"
       },
       {
@@ -633,6 +627,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Eidolon Gantulyst",
+        "type": "Arcane Eruption",
+        "chance": 0.102,
+        "rarity": "Uncommon"
+      },
+      {
         "location": "Neptune/Mammon's Prospect (Orphix), Rotation C",
         "type": "Arcane Tempo",
         "chance": 0.1034,
@@ -702,17 +702,17 @@
         "location": "Venus/Vesper Strait (Orphix), Rotation C",
         "type": "Arcane Warmth",
         "chance": 0.1034,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Hydrolyst (Capture)",
-        "type": "Arcane Avenger",
-        "chance": 0.1124,
         "rarity": "Uncommon"
       },
       {
         "location": "Eidolon Hydrolyst (Capture)",
         "type": "Arcane Fury",
+        "chance": 0.1124,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Eidolon Hydrolyst (Capture)",
+        "type": "Arcane Avenger",
         "chance": 0.1124,
         "rarity": "Uncommon"
       },
@@ -730,7 +730,7 @@
       },
       {
         "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Warmth",
+        "type": "Arcane Ice",
         "chance": 0.1205,
         "rarity": "Uncommon"
       },
@@ -742,19 +742,19 @@
       },
       {
         "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Consequence",
-        "chance": 0.1205,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Ice",
+        "type": "Arcane Warmth",
         "chance": 0.1205,
         "rarity": "Uncommon"
       },
       {
         "location": "Eidolon Teralyst (Capture)",
         "type": "Arcane Nullifier",
+        "chance": 0.1205,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Eidolon Teralyst (Capture)",
+        "type": "Arcane Consequence",
         "chance": 0.1205,
         "rarity": "Uncommon"
       },
@@ -772,13 +772,13 @@
       },
       {
         "location": "Eidolon Hydrolyst",
-        "type": "Arcane Arachne",
+        "type": "Arcane Fury",
         "chance": 0.1376,
         "rarity": "Uncommon"
       },
       {
         "location": "Eidolon Hydrolyst",
-        "type": "Arcane Fury",
+        "type": "Arcane Arachne",
         "chance": 0.1376,
         "rarity": "Uncommon"
       },
@@ -802,7 +802,7 @@
       },
       {
         "location": "Eidolon Teralyst",
-        "type": "Arcane Warmth",
+        "type": "Arcane Ice",
         "chance": 0.1495,
         "rarity": "Uncommon"
       },
@@ -814,19 +814,19 @@
       },
       {
         "location": "Eidolon Teralyst",
-        "type": "Arcane Consequence",
-        "chance": 0.1495,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Teralyst",
-        "type": "Arcane Ice",
+        "type": "Arcane Warmth",
         "chance": 0.1495,
         "rarity": "Uncommon"
       },
       {
         "location": "Eidolon Teralyst",
         "type": "Arcane Nullifier",
+        "chance": 0.1495,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Eidolon Teralyst",
+        "type": "Arcane Consequence",
         "chance": 0.1495,
         "rarity": "Uncommon"
       },
@@ -2077,12 +2077,6 @@
       },
       {
         "location": "Eidolon Hydrolyst (Capture)",
-        "type": "Arcane Barrier",
-        "chance": 0.05,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eidolon Hydrolyst (Capture)",
         "type": "Arcane Energize",
         "chance": 0.05,
         "rarity": "Rare"
@@ -2094,14 +2088,20 @@
         "rarity": "Rare"
       },
       {
-        "location": "Eidolon Gantulyst (Capture)",
-        "type": "Arcane Aegis",
-        "chance": 0.0529,
+        "location": "Eidolon Hydrolyst (Capture)",
+        "type": "Arcane Barrier",
+        "chance": 0.05,
         "rarity": "Rare"
       },
       {
         "location": "Eidolon Gantulyst (Capture)",
         "type": "Arcane Ultimatum",
+        "chance": 0.0529,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eidolon Gantulyst (Capture)",
+        "type": "Arcane Aegis",
         "chance": 0.0529,
         "rarity": "Rare"
       },
@@ -2197,13 +2197,7 @@
       },
       {
         "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Resistance",
-        "chance": 0.0602,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Victory",
+        "type": "Arcane Deflection",
         "chance": 0.0602,
         "rarity": "Rare"
       },
@@ -2215,7 +2209,13 @@
       },
       {
         "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Deflection",
+        "type": "Arcane Victory",
+        "chance": 0.0602,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eidolon Teralyst (Capture)",
+        "type": "Arcane Resistance",
         "chance": 0.0602,
         "rarity": "Rare"
       },
@@ -2341,12 +2341,6 @@
       },
       {
         "location": "Eidolon Gantulyst (Capture)",
-        "type": "Arcane Eruption",
-        "chance": 0.0925,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eidolon Gantulyst (Capture)",
         "type": "Arcane Acceleration",
         "chance": 0.0925,
         "rarity": "Rare"
@@ -2364,81 +2358,81 @@
         "rarity": "Rare"
       },
       {
-        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
-        "type": "Arcane Tempo",
-        "chance": 0.1,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
-        "type": "Arcane Consequence",
-        "chance": 0.1,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
-        "type": "Arcane Momentum",
-        "chance": 0.1,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
-        "type": "Arcane Ice",
-        "chance": 0.1,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
-        "type": "Arcane Nullifier",
-        "chance": 0.1,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
-        "type": "Arcane Warmth",
-        "chance": 0.1,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
-        "type": "Arcane Tempo",
-        "chance": 0.1,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
-        "type": "Arcane Consequence",
-        "chance": 0.1,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
-        "type": "Arcane Momentum",
-        "chance": 0.1,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
-        "type": "Arcane Ice",
-        "chance": 0.1,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
-        "type": "Arcane Nullifier",
-        "chance": 0.1,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
-        "type": "Arcane Warmth",
-        "chance": 0.1,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Gantulyst",
+        "location": "Eidolon Gantulyst (Capture)",
         "type": "Arcane Eruption",
-        "chance": 0.102,
+        "chance": 0.0925,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
+        "type": "Arcane Tempo",
+        "chance": 0.1,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
+        "type": "Arcane Consequence",
+        "chance": 0.1,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
+        "type": "Arcane Momentum",
+        "chance": 0.1,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
+        "type": "Arcane Ice",
+        "chance": 0.1,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
+        "type": "Arcane Nullifier",
+        "chance": 0.1,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
+        "type": "Arcane Warmth",
+        "chance": 0.1,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
+        "type": "Arcane Tempo",
+        "chance": 0.1,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
+        "type": "Arcane Consequence",
+        "chance": 0.1,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
+        "type": "Arcane Momentum",
+        "chance": 0.1,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
+        "type": "Arcane Ice",
+        "chance": 0.1,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
+        "type": "Arcane Nullifier",
+        "chance": 0.1,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
+        "type": "Arcane Warmth",
+        "chance": 0.1,
         "rarity": "Uncommon"
       },
       {
@@ -2460,6 +2454,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Eidolon Gantulyst",
+        "type": "Arcane Eruption",
+        "chance": 0.102,
+        "rarity": "Uncommon"
+      },
+      {
         "location": "Neptune/Mammon's Prospect (Orphix), Rotation C",
         "type": "Arcane Tempo",
         "chance": 0.1034,
@@ -2529,17 +2529,17 @@
         "location": "Venus/Vesper Strait (Orphix), Rotation C",
         "type": "Arcane Warmth",
         "chance": 0.1034,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Hydrolyst (Capture)",
-        "type": "Arcane Avenger",
-        "chance": 0.1124,
         "rarity": "Uncommon"
       },
       {
         "location": "Eidolon Hydrolyst (Capture)",
         "type": "Arcane Fury",
+        "chance": 0.1124,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Eidolon Hydrolyst (Capture)",
+        "type": "Arcane Avenger",
         "chance": 0.1124,
         "rarity": "Uncommon"
       },
@@ -2557,7 +2557,7 @@
       },
       {
         "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Warmth",
+        "type": "Arcane Ice",
         "chance": 0.1205,
         "rarity": "Uncommon"
       },
@@ -2569,19 +2569,19 @@
       },
       {
         "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Consequence",
-        "chance": 0.1205,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Ice",
+        "type": "Arcane Warmth",
         "chance": 0.1205,
         "rarity": "Uncommon"
       },
       {
         "location": "Eidolon Teralyst (Capture)",
         "type": "Arcane Nullifier",
+        "chance": 0.1205,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Eidolon Teralyst (Capture)",
+        "type": "Arcane Consequence",
         "chance": 0.1205,
         "rarity": "Uncommon"
       },
@@ -2599,13 +2599,13 @@
       },
       {
         "location": "Eidolon Hydrolyst",
-        "type": "Arcane Arachne",
+        "type": "Arcane Fury",
         "chance": 0.1376,
         "rarity": "Uncommon"
       },
       {
         "location": "Eidolon Hydrolyst",
-        "type": "Arcane Fury",
+        "type": "Arcane Arachne",
         "chance": 0.1376,
         "rarity": "Uncommon"
       },
@@ -2629,7 +2629,7 @@
       },
       {
         "location": "Eidolon Teralyst",
-        "type": "Arcane Warmth",
+        "type": "Arcane Ice",
         "chance": 0.1495,
         "rarity": "Uncommon"
       },
@@ -2641,19 +2641,19 @@
       },
       {
         "location": "Eidolon Teralyst",
-        "type": "Arcane Consequence",
-        "chance": 0.1495,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Teralyst",
-        "type": "Arcane Ice",
+        "type": "Arcane Warmth",
         "chance": 0.1495,
         "rarity": "Uncommon"
       },
       {
         "location": "Eidolon Teralyst",
         "type": "Arcane Nullifier",
+        "chance": 0.1495,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Eidolon Teralyst",
+        "type": "Arcane Consequence",
         "chance": 0.1495,
         "rarity": "Uncommon"
       },
@@ -3904,12 +3904,6 @@
       },
       {
         "location": "Eidolon Hydrolyst (Capture)",
-        "type": "Arcane Barrier",
-        "chance": 0.05,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eidolon Hydrolyst (Capture)",
         "type": "Arcane Energize",
         "chance": 0.05,
         "rarity": "Rare"
@@ -3921,14 +3915,20 @@
         "rarity": "Rare"
       },
       {
-        "location": "Eidolon Gantulyst (Capture)",
-        "type": "Arcane Aegis",
-        "chance": 0.0529,
+        "location": "Eidolon Hydrolyst (Capture)",
+        "type": "Arcane Barrier",
+        "chance": 0.05,
         "rarity": "Rare"
       },
       {
         "location": "Eidolon Gantulyst (Capture)",
         "type": "Arcane Ultimatum",
+        "chance": 0.0529,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eidolon Gantulyst (Capture)",
+        "type": "Arcane Aegis",
         "chance": 0.0529,
         "rarity": "Rare"
       },
@@ -4024,13 +4024,7 @@
       },
       {
         "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Resistance",
-        "chance": 0.0602,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Victory",
+        "type": "Arcane Deflection",
         "chance": 0.0602,
         "rarity": "Rare"
       },
@@ -4042,7 +4036,13 @@
       },
       {
         "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Deflection",
+        "type": "Arcane Victory",
+        "chance": 0.0602,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eidolon Teralyst (Capture)",
+        "type": "Arcane Resistance",
         "chance": 0.0602,
         "rarity": "Rare"
       },
@@ -4168,12 +4168,6 @@
       },
       {
         "location": "Eidolon Gantulyst (Capture)",
-        "type": "Arcane Eruption",
-        "chance": 0.0925,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eidolon Gantulyst (Capture)",
         "type": "Arcane Acceleration",
         "chance": 0.0925,
         "rarity": "Rare"
@@ -4191,81 +4185,81 @@
         "rarity": "Rare"
       },
       {
-        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
-        "type": "Arcane Tempo",
-        "chance": 0.1,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
-        "type": "Arcane Consequence",
-        "chance": 0.1,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
-        "type": "Arcane Momentum",
-        "chance": 0.1,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
-        "type": "Arcane Ice",
-        "chance": 0.1,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
-        "type": "Arcane Nullifier",
-        "chance": 0.1,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
-        "type": "Arcane Warmth",
-        "chance": 0.1,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
-        "type": "Arcane Tempo",
-        "chance": 0.1,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
-        "type": "Arcane Consequence",
-        "chance": 0.1,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
-        "type": "Arcane Momentum",
-        "chance": 0.1,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
-        "type": "Arcane Ice",
-        "chance": 0.1,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
-        "type": "Arcane Nullifier",
-        "chance": 0.1,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
-        "type": "Arcane Warmth",
-        "chance": 0.1,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Gantulyst",
+        "location": "Eidolon Gantulyst (Capture)",
         "type": "Arcane Eruption",
-        "chance": 0.102,
+        "chance": 0.0925,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
+        "type": "Arcane Tempo",
+        "chance": 0.1,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
+        "type": "Arcane Consequence",
+        "chance": 0.1,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
+        "type": "Arcane Momentum",
+        "chance": 0.1,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
+        "type": "Arcane Ice",
+        "chance": 0.1,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
+        "type": "Arcane Nullifier",
+        "chance": 0.1,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
+        "type": "Arcane Warmth",
+        "chance": 0.1,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
+        "type": "Arcane Tempo",
+        "chance": 0.1,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
+        "type": "Arcane Consequence",
+        "chance": 0.1,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
+        "type": "Arcane Momentum",
+        "chance": 0.1,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
+        "type": "Arcane Ice",
+        "chance": 0.1,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
+        "type": "Arcane Nullifier",
+        "chance": 0.1,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
+        "type": "Arcane Warmth",
+        "chance": 0.1,
         "rarity": "Uncommon"
       },
       {
@@ -4287,6 +4281,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Eidolon Gantulyst",
+        "type": "Arcane Eruption",
+        "chance": 0.102,
+        "rarity": "Uncommon"
+      },
+      {
         "location": "Neptune/Mammon's Prospect (Orphix), Rotation C",
         "type": "Arcane Tempo",
         "chance": 0.1034,
@@ -4356,17 +4356,17 @@
         "location": "Venus/Vesper Strait (Orphix), Rotation C",
         "type": "Arcane Warmth",
         "chance": 0.1034,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Hydrolyst (Capture)",
-        "type": "Arcane Avenger",
-        "chance": 0.1124,
         "rarity": "Uncommon"
       },
       {
         "location": "Eidolon Hydrolyst (Capture)",
         "type": "Arcane Fury",
+        "chance": 0.1124,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Eidolon Hydrolyst (Capture)",
+        "type": "Arcane Avenger",
         "chance": 0.1124,
         "rarity": "Uncommon"
       },
@@ -4384,7 +4384,7 @@
       },
       {
         "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Warmth",
+        "type": "Arcane Ice",
         "chance": 0.1205,
         "rarity": "Uncommon"
       },
@@ -4396,19 +4396,19 @@
       },
       {
         "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Consequence",
-        "chance": 0.1205,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Ice",
+        "type": "Arcane Warmth",
         "chance": 0.1205,
         "rarity": "Uncommon"
       },
       {
         "location": "Eidolon Teralyst (Capture)",
         "type": "Arcane Nullifier",
+        "chance": 0.1205,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Eidolon Teralyst (Capture)",
+        "type": "Arcane Consequence",
         "chance": 0.1205,
         "rarity": "Uncommon"
       },
@@ -4426,13 +4426,13 @@
       },
       {
         "location": "Eidolon Hydrolyst",
-        "type": "Arcane Arachne",
+        "type": "Arcane Fury",
         "chance": 0.1376,
         "rarity": "Uncommon"
       },
       {
         "location": "Eidolon Hydrolyst",
-        "type": "Arcane Fury",
+        "type": "Arcane Arachne",
         "chance": 0.1376,
         "rarity": "Uncommon"
       },
@@ -4456,7 +4456,7 @@
       },
       {
         "location": "Eidolon Teralyst",
-        "type": "Arcane Warmth",
+        "type": "Arcane Ice",
         "chance": 0.1495,
         "rarity": "Uncommon"
       },
@@ -4468,19 +4468,19 @@
       },
       {
         "location": "Eidolon Teralyst",
-        "type": "Arcane Consequence",
-        "chance": 0.1495,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Teralyst",
-        "type": "Arcane Ice",
+        "type": "Arcane Warmth",
         "chance": 0.1495,
         "rarity": "Uncommon"
       },
       {
         "location": "Eidolon Teralyst",
         "type": "Arcane Nullifier",
+        "chance": 0.1495,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Eidolon Teralyst",
+        "type": "Arcane Consequence",
         "chance": 0.1495,
         "rarity": "Uncommon"
       },
@@ -5731,12 +5731,6 @@
       },
       {
         "location": "Eidolon Hydrolyst (Capture)",
-        "type": "Arcane Barrier",
-        "chance": 0.05,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eidolon Hydrolyst (Capture)",
         "type": "Arcane Energize",
         "chance": 0.05,
         "rarity": "Rare"
@@ -5748,14 +5742,20 @@
         "rarity": "Rare"
       },
       {
-        "location": "Eidolon Gantulyst (Capture)",
-        "type": "Arcane Aegis",
-        "chance": 0.0529,
+        "location": "Eidolon Hydrolyst (Capture)",
+        "type": "Arcane Barrier",
+        "chance": 0.05,
         "rarity": "Rare"
       },
       {
         "location": "Eidolon Gantulyst (Capture)",
         "type": "Arcane Ultimatum",
+        "chance": 0.0529,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eidolon Gantulyst (Capture)",
+        "type": "Arcane Aegis",
         "chance": 0.0529,
         "rarity": "Rare"
       },
@@ -5851,13 +5851,7 @@
       },
       {
         "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Resistance",
-        "chance": 0.0602,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Victory",
+        "type": "Arcane Deflection",
         "chance": 0.0602,
         "rarity": "Rare"
       },
@@ -5869,7 +5863,13 @@
       },
       {
         "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Deflection",
+        "type": "Arcane Victory",
+        "chance": 0.0602,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eidolon Teralyst (Capture)",
+        "type": "Arcane Resistance",
         "chance": 0.0602,
         "rarity": "Rare"
       },
@@ -5995,12 +5995,6 @@
       },
       {
         "location": "Eidolon Gantulyst (Capture)",
-        "type": "Arcane Eruption",
-        "chance": 0.0925,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eidolon Gantulyst (Capture)",
         "type": "Arcane Acceleration",
         "chance": 0.0925,
         "rarity": "Rare"
@@ -6018,81 +6012,81 @@
         "rarity": "Rare"
       },
       {
-        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
-        "type": "Arcane Tempo",
-        "chance": 0.1,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
-        "type": "Arcane Consequence",
-        "chance": 0.1,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
-        "type": "Arcane Momentum",
-        "chance": 0.1,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
-        "type": "Arcane Ice",
-        "chance": 0.1,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
-        "type": "Arcane Nullifier",
-        "chance": 0.1,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
-        "type": "Arcane Warmth",
-        "chance": 0.1,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
-        "type": "Arcane Tempo",
-        "chance": 0.1,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
-        "type": "Arcane Consequence",
-        "chance": 0.1,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
-        "type": "Arcane Momentum",
-        "chance": 0.1,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
-        "type": "Arcane Ice",
-        "chance": 0.1,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
-        "type": "Arcane Nullifier",
-        "chance": 0.1,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
-        "type": "Arcane Warmth",
-        "chance": 0.1,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Gantulyst",
+        "location": "Eidolon Gantulyst (Capture)",
         "type": "Arcane Eruption",
-        "chance": 0.102,
+        "chance": 0.0925,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
+        "type": "Arcane Tempo",
+        "chance": 0.1,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
+        "type": "Arcane Consequence",
+        "chance": 0.1,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
+        "type": "Arcane Momentum",
+        "chance": 0.1,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
+        "type": "Arcane Ice",
+        "chance": 0.1,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
+        "type": "Arcane Nullifier",
+        "chance": 0.1,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
+        "type": "Arcane Warmth",
+        "chance": 0.1,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
+        "type": "Arcane Tempo",
+        "chance": 0.1,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
+        "type": "Arcane Consequence",
+        "chance": 0.1,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
+        "type": "Arcane Momentum",
+        "chance": 0.1,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
+        "type": "Arcane Ice",
+        "chance": 0.1,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
+        "type": "Arcane Nullifier",
+        "chance": 0.1,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
+        "type": "Arcane Warmth",
+        "chance": 0.1,
         "rarity": "Uncommon"
       },
       {
@@ -6114,6 +6108,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Eidolon Gantulyst",
+        "type": "Arcane Eruption",
+        "chance": 0.102,
+        "rarity": "Uncommon"
+      },
+      {
         "location": "Neptune/Mammon's Prospect (Orphix), Rotation C",
         "type": "Arcane Tempo",
         "chance": 0.1034,
@@ -6183,17 +6183,17 @@
         "location": "Venus/Vesper Strait (Orphix), Rotation C",
         "type": "Arcane Warmth",
         "chance": 0.1034,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Hydrolyst (Capture)",
-        "type": "Arcane Avenger",
-        "chance": 0.1124,
         "rarity": "Uncommon"
       },
       {
         "location": "Eidolon Hydrolyst (Capture)",
         "type": "Arcane Fury",
+        "chance": 0.1124,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Eidolon Hydrolyst (Capture)",
+        "type": "Arcane Avenger",
         "chance": 0.1124,
         "rarity": "Uncommon"
       },
@@ -6211,7 +6211,7 @@
       },
       {
         "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Warmth",
+        "type": "Arcane Ice",
         "chance": 0.1205,
         "rarity": "Uncommon"
       },
@@ -6223,19 +6223,19 @@
       },
       {
         "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Consequence",
-        "chance": 0.1205,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Ice",
+        "type": "Arcane Warmth",
         "chance": 0.1205,
         "rarity": "Uncommon"
       },
       {
         "location": "Eidolon Teralyst (Capture)",
         "type": "Arcane Nullifier",
+        "chance": 0.1205,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Eidolon Teralyst (Capture)",
+        "type": "Arcane Consequence",
         "chance": 0.1205,
         "rarity": "Uncommon"
       },
@@ -6253,13 +6253,13 @@
       },
       {
         "location": "Eidolon Hydrolyst",
-        "type": "Arcane Arachne",
+        "type": "Arcane Fury",
         "chance": 0.1376,
         "rarity": "Uncommon"
       },
       {
         "location": "Eidolon Hydrolyst",
-        "type": "Arcane Fury",
+        "type": "Arcane Arachne",
         "chance": 0.1376,
         "rarity": "Uncommon"
       },
@@ -6283,7 +6283,7 @@
       },
       {
         "location": "Eidolon Teralyst",
-        "type": "Arcane Warmth",
+        "type": "Arcane Ice",
         "chance": 0.1495,
         "rarity": "Uncommon"
       },
@@ -6295,19 +6295,19 @@
       },
       {
         "location": "Eidolon Teralyst",
-        "type": "Arcane Consequence",
-        "chance": 0.1495,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Teralyst",
-        "type": "Arcane Ice",
+        "type": "Arcane Warmth",
         "chance": 0.1495,
         "rarity": "Uncommon"
       },
       {
         "location": "Eidolon Teralyst",
         "type": "Arcane Nullifier",
+        "chance": 0.1495,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Eidolon Teralyst",
+        "type": "Arcane Consequence",
         "chance": 0.1495,
         "rarity": "Uncommon"
       },

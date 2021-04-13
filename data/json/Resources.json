@@ -10133,6 +10133,24 @@
         "rarity": "Common"
       },
       {
+        "location": "Elite Orm Basilisk",
+        "type": "Ticor Plate",
+        "chance": 0.2845,
+        "rarity": "Common"
+      },
+      {
+        "location": "Elite Orm Harpi",
+        "type": "Ticor Plate",
+        "chance": 0.2845,
+        "rarity": "Common"
+      },
+      {
+        "location": "Elite Orm Weaver",
+        "type": "Ticor Plate",
+        "chance": 0.2845,
+        "rarity": "Common"
+      },
+      {
         "location": "Elite Taro Basilisk",
         "type": "Ticor Plate",
         "chance": 0.2845,
@@ -10170,6 +10188,12 @@
       },
       {
         "location": "Exo Outrider",
+        "type": "Ticor Plate",
+        "chance": 0.2845,
+        "rarity": "Common"
+      },
+      {
+        "location": "Gox Scavenger",
         "type": "Ticor Plate",
         "chance": 0.2845,
         "rarity": "Common"
@@ -11523,6 +11547,24 @@
             "rarity": "Uncommon"
           },
           {
+            "location": "Elite Orm Basilisk",
+            "type": "Isos",
+            "chance": 0.1658,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Elite Orm Harpi",
+            "type": "Isos",
+            "chance": 0.1658,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Elite Orm Weaver",
+            "type": "Isos",
+            "chance": 0.1658,
+            "rarity": "Uncommon"
+          },
+          {
             "location": "Elite Taro Basilisk",
             "type": "Isos",
             "chance": 0.1658,
@@ -11542,6 +11584,12 @@
           },
           {
             "location": "Elite Vorac Harpi",
+            "type": "Isos",
+            "chance": 0.1658,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Gox Scavenger",
             "type": "Isos",
             "chance": 0.1658,
             "rarity": "Uncommon"

@@ -4040,6 +4040,24 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Elite Orm Basilisk",
+        "type": "Isos",
+        "chance": 0.1658,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Elite Orm Harpi",
+        "type": "Isos",
+        "chance": 0.1658,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Elite Orm Weaver",
+        "type": "Isos",
+        "chance": 0.1658,
+        "rarity": "Uncommon"
+      },
+      {
         "location": "Elite Taro Basilisk",
         "type": "Isos",
         "chance": 0.1658,
@@ -4059,6 +4077,12 @@
       },
       {
         "location": "Elite Vorac Harpi",
+        "type": "Isos",
+        "chance": 0.1658,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Gox Scavenger",
         "type": "Isos",
         "chance": 0.1658,
         "rarity": "Uncommon"
@@ -6926,6 +6950,144 @@
         "rarity": "Rare"
       },
       {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith D4 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith B8 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith G3 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith P5 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith T5 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith I1 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith T4 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith K5 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith M7 Relic",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Earth)",
+        "type": "Lith D4 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Earth)",
+        "type": "Lith B8 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Earth)",
+        "type": "Lith M6 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Earth)",
+        "type": "Lith P4 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Earth)",
+        "type": "Lith G3 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Earth)",
+        "type": "Lith T5 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Earth)",
+        "type": "Lith I1 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Venus)",
+        "type": "Lith D4 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Venus)",
+        "type": "Lith B8 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Venus)",
+        "type": "Lith M6 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Venus)",
+        "type": "Lith P4 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Venus)",
+        "type": "Lith G3 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Venus)",
+        "type": "Lith T5 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Void Storm (Venus)",
+        "type": "Lith I1 Relic (Radiant)",
+        "chance": 0.05,
+        "rarity": "Rare"
+      },
+      {
         "location": "Venus/Falling Glory (Defense), Rotation C",
         "type": "Lith I1 Relic",
         "chance": 0.0526,
@@ -7319,6 +7481,60 @@
         "location": "Earth/Sover Strait (Caches)",
         "type": "Lith T4 Relic",
         "chance": 0.0599,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith D4 Relic",
+        "chance": 0.06,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith B8 Relic",
+        "chance": 0.06,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith G3 Relic",
+        "chance": 0.06,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith P5 Relic",
+        "chance": 0.06,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith T5 Relic",
+        "chance": 0.06,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith I1 Relic",
+        "chance": 0.06,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith T4 Relic",
+        "chance": 0.06,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith K5 Relic",
+        "chance": 0.06,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation A",
+        "type": "Lith M7 Relic",
+        "chance": 0.06,
         "rarity": "Rare"
       },
       {
@@ -8555,6 +8771,168 @@
         "location": "Venus/V Prime (Survival), Rotation B",
         "type": "Lith T4 Relic",
         "chance": 0.0769,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith D4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith B8 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith G3 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith P5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith T5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith I1 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith T4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith K5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith M7 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith D4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith B8 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith G3 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith P5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith T5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith I1 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith T4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith K5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith M7 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith D4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith B8 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith G3 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith P5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith T5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith I1 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith T4 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith K5 Relic",
+        "chance": 0.08,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Operation: Orphix Venom, Rotation C",
+        "type": "Lith M7 Relic",
+        "chance": 0.08,
         "rarity": "Rare"
       },
       {
