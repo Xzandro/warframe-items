@@ -34941,5 +34941,9 @@
  {
   "uniqueName": "/Lotus/Upgrades/Skins/RailJack/HullMaterialsZektiC",
   "isComponent": false
+ },
+ {
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageSevagothAction",
+  "isComponent": false
  }
 ]
