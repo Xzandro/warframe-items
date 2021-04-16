@@ -34945,5 +34945,13 @@
  {
   "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageSevagothAction",
   "isComponent": false
+ },
+ {
+  "uniqueName": "/Lotus/Types/Items/ShipDecos/TennoCon2021MerchDisplay",
+  "isComponent": false
+ },
+ {
+  "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/TennoCon2021MerchGlyph",
+  "isComponent": false
  }
 ]
