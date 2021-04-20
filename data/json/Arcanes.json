@@ -171,19 +171,19 @@
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Aegis",
         "chance": 0.0345,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Precision",
         "chance": 0.0345,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Pulse",
         "chance": 0.0345,
         "rarity": "Rare"
@@ -256,13 +256,13 @@
       },
       {
         "location": "Eidolon Hydrolyst (Capture)",
-        "type": "Arcane Grace",
+        "type": "Arcane Energize",
         "chance": 0.05,
         "rarity": "Rare"
       },
       {
         "location": "Eidolon Hydrolyst (Capture)",
-        "type": "Arcane Energize",
+        "type": "Arcane Grace",
         "chance": 0.05,
         "rarity": "Rare"
       },
@@ -274,13 +274,13 @@
       },
       {
         "location": "Eidolon Gantulyst (Capture)",
-        "type": "Arcane Pulse",
+        "type": "Arcane Aegis",
         "chance": 0.0529,
         "rarity": "Rare"
       },
       {
         "location": "Eidolon Gantulyst (Capture)",
-        "type": "Arcane Aegis",
+        "type": "Arcane Pulse",
         "chance": 0.0529,
         "rarity": "Rare"
       },
@@ -376,6 +376,12 @@
       },
       {
         "location": "Eidolon Teralyst (Capture)",
+        "type": "Arcane Healing",
+        "chance": 0.0602,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eidolon Teralyst (Capture)",
         "type": "Arcane Victory",
         "chance": 0.0602,
         "rarity": "Rare"
@@ -383,12 +389,6 @@
       {
         "location": "Eidolon Teralyst (Capture)",
         "type": "Arcane Deflection",
-        "chance": 0.0602,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Healing",
         "chance": 0.0602,
         "rarity": "Rare"
       },
@@ -483,25 +483,25 @@
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Resistance",
         "chance": 0.069,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Victory",
         "chance": 0.069,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Strike",
         "chance": 0.069,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Acceleration",
         "chance": 0.069,
         "rarity": "Rare"
@@ -514,13 +514,7 @@
       },
       {
         "location": "Eidolon Gantulyst (Capture)",
-        "type": "Arcane Eruption",
-        "chance": 0.0925,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eidolon Gantulyst (Capture)",
-        "type": "Arcane Phantasm",
+        "type": "Arcane Agility",
         "chance": 0.0925,
         "rarity": "Rare"
       },
@@ -532,7 +526,13 @@
       },
       {
         "location": "Eidolon Gantulyst (Capture)",
-        "type": "Arcane Agility",
+        "type": "Arcane Eruption",
+        "chance": 0.0925,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eidolon Gantulyst (Capture)",
+        "type": "Arcane Phantasm",
         "chance": 0.0925,
         "rarity": "Rare"
       },
@@ -610,13 +610,7 @@
       },
       {
         "location": "Eidolon Gantulyst",
-        "type": "Arcane Eruption",
-        "chance": 0.102,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Gantulyst",
-        "type": "Arcane Phantasm",
+        "type": "Arcane Agility",
         "chance": 0.102,
         "rarity": "Uncommon"
       },
@@ -628,7 +622,13 @@
       },
       {
         "location": "Eidolon Gantulyst",
-        "type": "Arcane Agility",
+        "type": "Arcane Eruption",
+        "chance": 0.102,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Eidolon Gantulyst",
+        "type": "Arcane Phantasm",
         "chance": 0.102,
         "rarity": "Uncommon"
       },
@@ -669,50 +669,50 @@
         "rarity": "Uncommon"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Tempo",
         "chance": 0.1034,
         "rarity": "Uncommon"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Consequence",
         "chance": 0.1034,
         "rarity": "Uncommon"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Momentum",
         "chance": 0.1034,
         "rarity": "Uncommon"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Ice",
         "chance": 0.1034,
         "rarity": "Uncommon"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Nullifier",
         "chance": 0.1034,
         "rarity": "Uncommon"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Warmth",
         "chance": 0.1034,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Hydrolyst (Capture)",
-        "type": "Arcane Fury",
-        "chance": 0.1124,
         "rarity": "Uncommon"
       },
       {
         "location": "Eidolon Hydrolyst (Capture)",
         "type": "Arcane Avenger",
+        "chance": 0.1124,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Eidolon Hydrolyst (Capture)",
+        "type": "Arcane Fury",
         "chance": 0.1124,
         "rarity": "Uncommon"
       },
@@ -736,13 +736,7 @@
       },
       {
         "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Consequence",
-        "chance": 0.1205,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Momentum",
+        "type": "Arcane Ice",
         "chance": 0.1205,
         "rarity": "Uncommon"
       },
@@ -754,32 +748,26 @@
       },
       {
         "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Ice",
+        "type": "Arcane Consequence",
+        "chance": 0.1205,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Eidolon Teralyst (Capture)",
+        "type": "Arcane Momentum",
         "chance": 0.1205,
         "rarity": "Uncommon"
       },
       {
         "location": "Eidolon Hydrolyst (Capture)",
-        "type": "Arcane Arachne",
+        "type": "Arcane Rage",
         "chance": 0.1274,
         "rarity": "Uncommon"
       },
       {
         "location": "Eidolon Hydrolyst (Capture)",
-        "type": "Arcane Rage",
-        "chance": 0.1274,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Hydrolyst",
         "type": "Arcane Arachne",
-        "chance": 0.1376,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Hydrolyst",
-        "type": "Arcane Rage",
-        "chance": 0.1376,
+        "chance": 0.1274,
         "rarity": "Uncommon"
       },
       {
@@ -789,14 +777,26 @@
         "rarity": "Uncommon"
       },
       {
-        "location": "Eidolon Gantulyst (Capture)",
-        "type": "Arcane Awakening",
-        "chance": 0.1463,
+        "location": "Eidolon Hydrolyst",
+        "type": "Arcane Rage",
+        "chance": 0.1376,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Eidolon Hydrolyst",
+        "type": "Arcane Arachne",
+        "chance": 0.1376,
         "rarity": "Uncommon"
       },
       {
         "location": "Eidolon Gantulyst (Capture)",
         "type": "Arcane Strike",
+        "chance": 0.1463,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Eidolon Gantulyst (Capture)",
+        "type": "Arcane Awakening",
         "chance": 0.1463,
         "rarity": "Uncommon"
       },
@@ -808,13 +808,7 @@
       },
       {
         "location": "Eidolon Teralyst",
-        "type": "Arcane Consequence",
-        "chance": 0.1495,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Teralyst",
-        "type": "Arcane Momentum",
+        "type": "Arcane Ice",
         "chance": 0.1495,
         "rarity": "Uncommon"
       },
@@ -826,7 +820,13 @@
       },
       {
         "location": "Eidolon Teralyst",
-        "type": "Arcane Ice",
+        "type": "Arcane Consequence",
+        "chance": 0.1495,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Eidolon Teralyst",
+        "type": "Arcane Momentum",
         "chance": 0.1495,
         "rarity": "Uncommon"
       },
@@ -850,13 +850,13 @@
       },
       {
         "location": "Eidolon Gantulyst",
-        "type": "Arcane Awakening",
+        "type": "Arcane Strike",
         "chance": 0.1825,
         "rarity": "Uncommon"
       },
       {
         "location": "Eidolon Gantulyst",
-        "type": "Arcane Strike",
+        "type": "Arcane Awakening",
         "chance": 0.1825,
         "rarity": "Uncommon"
       },
@@ -1998,19 +1998,19 @@
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Aegis",
         "chance": 0.0345,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Precision",
         "chance": 0.0345,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Pulse",
         "chance": 0.0345,
         "rarity": "Rare"
@@ -2083,13 +2083,13 @@
       },
       {
         "location": "Eidolon Hydrolyst (Capture)",
-        "type": "Arcane Grace",
+        "type": "Arcane Energize",
         "chance": 0.05,
         "rarity": "Rare"
       },
       {
         "location": "Eidolon Hydrolyst (Capture)",
-        "type": "Arcane Energize",
+        "type": "Arcane Grace",
         "chance": 0.05,
         "rarity": "Rare"
       },
@@ -2101,13 +2101,13 @@
       },
       {
         "location": "Eidolon Gantulyst (Capture)",
-        "type": "Arcane Pulse",
+        "type": "Arcane Aegis",
         "chance": 0.0529,
         "rarity": "Rare"
       },
       {
         "location": "Eidolon Gantulyst (Capture)",
-        "type": "Arcane Aegis",
+        "type": "Arcane Pulse",
         "chance": 0.0529,
         "rarity": "Rare"
       },
@@ -2203,6 +2203,12 @@
       },
       {
         "location": "Eidolon Teralyst (Capture)",
+        "type": "Arcane Healing",
+        "chance": 0.0602,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eidolon Teralyst (Capture)",
         "type": "Arcane Victory",
         "chance": 0.0602,
         "rarity": "Rare"
@@ -2210,12 +2216,6 @@
       {
         "location": "Eidolon Teralyst (Capture)",
         "type": "Arcane Deflection",
-        "chance": 0.0602,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Healing",
         "chance": 0.0602,
         "rarity": "Rare"
       },
@@ -2310,25 +2310,25 @@
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Resistance",
         "chance": 0.069,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Victory",
         "chance": 0.069,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Strike",
         "chance": 0.069,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Acceleration",
         "chance": 0.069,
         "rarity": "Rare"
@@ -2341,13 +2341,7 @@
       },
       {
         "location": "Eidolon Gantulyst (Capture)",
-        "type": "Arcane Eruption",
-        "chance": 0.0925,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eidolon Gantulyst (Capture)",
-        "type": "Arcane Phantasm",
+        "type": "Arcane Agility",
         "chance": 0.0925,
         "rarity": "Rare"
       },
@@ -2359,7 +2353,13 @@
       },
       {
         "location": "Eidolon Gantulyst (Capture)",
-        "type": "Arcane Agility",
+        "type": "Arcane Eruption",
+        "chance": 0.0925,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eidolon Gantulyst (Capture)",
+        "type": "Arcane Phantasm",
         "chance": 0.0925,
         "rarity": "Rare"
       },
@@ -2437,13 +2437,7 @@
       },
       {
         "location": "Eidolon Gantulyst",
-        "type": "Arcane Eruption",
-        "chance": 0.102,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Gantulyst",
-        "type": "Arcane Phantasm",
+        "type": "Arcane Agility",
         "chance": 0.102,
         "rarity": "Uncommon"
       },
@@ -2455,7 +2449,13 @@
       },
       {
         "location": "Eidolon Gantulyst",
-        "type": "Arcane Agility",
+        "type": "Arcane Eruption",
+        "chance": 0.102,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Eidolon Gantulyst",
+        "type": "Arcane Phantasm",
         "chance": 0.102,
         "rarity": "Uncommon"
       },
@@ -2496,50 +2496,50 @@
         "rarity": "Uncommon"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Tempo",
         "chance": 0.1034,
         "rarity": "Uncommon"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Consequence",
         "chance": 0.1034,
         "rarity": "Uncommon"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Momentum",
         "chance": 0.1034,
         "rarity": "Uncommon"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Ice",
         "chance": 0.1034,
         "rarity": "Uncommon"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Nullifier",
         "chance": 0.1034,
         "rarity": "Uncommon"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Warmth",
         "chance": 0.1034,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Hydrolyst (Capture)",
-        "type": "Arcane Fury",
-        "chance": 0.1124,
         "rarity": "Uncommon"
       },
       {
         "location": "Eidolon Hydrolyst (Capture)",
         "type": "Arcane Avenger",
+        "chance": 0.1124,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Eidolon Hydrolyst (Capture)",
+        "type": "Arcane Fury",
         "chance": 0.1124,
         "rarity": "Uncommon"
       },
@@ -2563,13 +2563,7 @@
       },
       {
         "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Consequence",
-        "chance": 0.1205,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Momentum",
+        "type": "Arcane Ice",
         "chance": 0.1205,
         "rarity": "Uncommon"
       },
@@ -2581,32 +2575,26 @@
       },
       {
         "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Ice",
+        "type": "Arcane Consequence",
+        "chance": 0.1205,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Eidolon Teralyst (Capture)",
+        "type": "Arcane Momentum",
         "chance": 0.1205,
         "rarity": "Uncommon"
       },
       {
         "location": "Eidolon Hydrolyst (Capture)",
-        "type": "Arcane Arachne",
+        "type": "Arcane Rage",
         "chance": 0.1274,
         "rarity": "Uncommon"
       },
       {
         "location": "Eidolon Hydrolyst (Capture)",
-        "type": "Arcane Rage",
-        "chance": 0.1274,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Hydrolyst",
         "type": "Arcane Arachne",
-        "chance": 0.1376,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Hydrolyst",
-        "type": "Arcane Rage",
-        "chance": 0.1376,
+        "chance": 0.1274,
         "rarity": "Uncommon"
       },
       {
@@ -2616,14 +2604,26 @@
         "rarity": "Uncommon"
       },
       {
-        "location": "Eidolon Gantulyst (Capture)",
-        "type": "Arcane Awakening",
-        "chance": 0.1463,
+        "location": "Eidolon Hydrolyst",
+        "type": "Arcane Rage",
+        "chance": 0.1376,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Eidolon Hydrolyst",
+        "type": "Arcane Arachne",
+        "chance": 0.1376,
         "rarity": "Uncommon"
       },
       {
         "location": "Eidolon Gantulyst (Capture)",
         "type": "Arcane Strike",
+        "chance": 0.1463,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Eidolon Gantulyst (Capture)",
+        "type": "Arcane Awakening",
         "chance": 0.1463,
         "rarity": "Uncommon"
       },
@@ -2635,13 +2635,7 @@
       },
       {
         "location": "Eidolon Teralyst",
-        "type": "Arcane Consequence",
-        "chance": 0.1495,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Teralyst",
-        "type": "Arcane Momentum",
+        "type": "Arcane Ice",
         "chance": 0.1495,
         "rarity": "Uncommon"
       },
@@ -2653,7 +2647,13 @@
       },
       {
         "location": "Eidolon Teralyst",
-        "type": "Arcane Ice",
+        "type": "Arcane Consequence",
+        "chance": 0.1495,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Eidolon Teralyst",
+        "type": "Arcane Momentum",
         "chance": 0.1495,
         "rarity": "Uncommon"
       },
@@ -2677,13 +2677,13 @@
       },
       {
         "location": "Eidolon Gantulyst",
-        "type": "Arcane Awakening",
+        "type": "Arcane Strike",
         "chance": 0.1825,
         "rarity": "Uncommon"
       },
       {
         "location": "Eidolon Gantulyst",
-        "type": "Arcane Strike",
+        "type": "Arcane Awakening",
         "chance": 0.1825,
         "rarity": "Uncommon"
       },
@@ -3825,19 +3825,19 @@
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Aegis",
         "chance": 0.0345,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Precision",
         "chance": 0.0345,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Pulse",
         "chance": 0.0345,
         "rarity": "Rare"
@@ -3910,13 +3910,13 @@
       },
       {
         "location": "Eidolon Hydrolyst (Capture)",
-        "type": "Arcane Grace",
+        "type": "Arcane Energize",
         "chance": 0.05,
         "rarity": "Rare"
       },
       {
         "location": "Eidolon Hydrolyst (Capture)",
-        "type": "Arcane Energize",
+        "type": "Arcane Grace",
         "chance": 0.05,
         "rarity": "Rare"
       },
@@ -3928,13 +3928,13 @@
       },
       {
         "location": "Eidolon Gantulyst (Capture)",
-        "type": "Arcane Pulse",
+        "type": "Arcane Aegis",
         "chance": 0.0529,
         "rarity": "Rare"
       },
       {
         "location": "Eidolon Gantulyst (Capture)",
-        "type": "Arcane Aegis",
+        "type": "Arcane Pulse",
         "chance": 0.0529,
         "rarity": "Rare"
       },
@@ -4030,6 +4030,12 @@
       },
       {
         "location": "Eidolon Teralyst (Capture)",
+        "type": "Arcane Healing",
+        "chance": 0.0602,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eidolon Teralyst (Capture)",
         "type": "Arcane Victory",
         "chance": 0.0602,
         "rarity": "Rare"
@@ -4037,12 +4043,6 @@
       {
         "location": "Eidolon Teralyst (Capture)",
         "type": "Arcane Deflection",
-        "chance": 0.0602,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Healing",
         "chance": 0.0602,
         "rarity": "Rare"
       },
@@ -4137,25 +4137,25 @@
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Resistance",
         "chance": 0.069,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Victory",
         "chance": 0.069,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Strike",
         "chance": 0.069,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Acceleration",
         "chance": 0.069,
         "rarity": "Rare"
@@ -4168,13 +4168,7 @@
       },
       {
         "location": "Eidolon Gantulyst (Capture)",
-        "type": "Arcane Eruption",
-        "chance": 0.0925,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eidolon Gantulyst (Capture)",
-        "type": "Arcane Phantasm",
+        "type": "Arcane Agility",
         "chance": 0.0925,
         "rarity": "Rare"
       },
@@ -4186,7 +4180,13 @@
       },
       {
         "location": "Eidolon Gantulyst (Capture)",
-        "type": "Arcane Agility",
+        "type": "Arcane Eruption",
+        "chance": 0.0925,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eidolon Gantulyst (Capture)",
+        "type": "Arcane Phantasm",
         "chance": 0.0925,
         "rarity": "Rare"
       },
@@ -4264,13 +4264,7 @@
       },
       {
         "location": "Eidolon Gantulyst",
-        "type": "Arcane Eruption",
-        "chance": 0.102,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Gantulyst",
-        "type": "Arcane Phantasm",
+        "type": "Arcane Agility",
         "chance": 0.102,
         "rarity": "Uncommon"
       },
@@ -4282,7 +4276,13 @@
       },
       {
         "location": "Eidolon Gantulyst",
-        "type": "Arcane Agility",
+        "type": "Arcane Eruption",
+        "chance": 0.102,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Eidolon Gantulyst",
+        "type": "Arcane Phantasm",
         "chance": 0.102,
         "rarity": "Uncommon"
       },
@@ -4323,50 +4323,50 @@
         "rarity": "Uncommon"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Tempo",
         "chance": 0.1034,
         "rarity": "Uncommon"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Consequence",
         "chance": 0.1034,
         "rarity": "Uncommon"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Momentum",
         "chance": 0.1034,
         "rarity": "Uncommon"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Ice",
         "chance": 0.1034,
         "rarity": "Uncommon"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Nullifier",
         "chance": 0.1034,
         "rarity": "Uncommon"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Warmth",
         "chance": 0.1034,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Hydrolyst (Capture)",
-        "type": "Arcane Fury",
-        "chance": 0.1124,
         "rarity": "Uncommon"
       },
       {
         "location": "Eidolon Hydrolyst (Capture)",
         "type": "Arcane Avenger",
+        "chance": 0.1124,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Eidolon Hydrolyst (Capture)",
+        "type": "Arcane Fury",
         "chance": 0.1124,
         "rarity": "Uncommon"
       },
@@ -4390,13 +4390,7 @@
       },
       {
         "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Consequence",
-        "chance": 0.1205,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Momentum",
+        "type": "Arcane Ice",
         "chance": 0.1205,
         "rarity": "Uncommon"
       },
@@ -4408,32 +4402,26 @@
       },
       {
         "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Ice",
+        "type": "Arcane Consequence",
+        "chance": 0.1205,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Eidolon Teralyst (Capture)",
+        "type": "Arcane Momentum",
         "chance": 0.1205,
         "rarity": "Uncommon"
       },
       {
         "location": "Eidolon Hydrolyst (Capture)",
-        "type": "Arcane Arachne",
+        "type": "Arcane Rage",
         "chance": 0.1274,
         "rarity": "Uncommon"
       },
       {
         "location": "Eidolon Hydrolyst (Capture)",
-        "type": "Arcane Rage",
-        "chance": 0.1274,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Hydrolyst",
         "type": "Arcane Arachne",
-        "chance": 0.1376,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Hydrolyst",
-        "type": "Arcane Rage",
-        "chance": 0.1376,
+        "chance": 0.1274,
         "rarity": "Uncommon"
       },
       {
@@ -4443,14 +4431,26 @@
         "rarity": "Uncommon"
       },
       {
-        "location": "Eidolon Gantulyst (Capture)",
-        "type": "Arcane Awakening",
-        "chance": 0.1463,
+        "location": "Eidolon Hydrolyst",
+        "type": "Arcane Rage",
+        "chance": 0.1376,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Eidolon Hydrolyst",
+        "type": "Arcane Arachne",
+        "chance": 0.1376,
         "rarity": "Uncommon"
       },
       {
         "location": "Eidolon Gantulyst (Capture)",
         "type": "Arcane Strike",
+        "chance": 0.1463,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Eidolon Gantulyst (Capture)",
+        "type": "Arcane Awakening",
         "chance": 0.1463,
         "rarity": "Uncommon"
       },
@@ -4462,13 +4462,7 @@
       },
       {
         "location": "Eidolon Teralyst",
-        "type": "Arcane Consequence",
-        "chance": 0.1495,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Teralyst",
-        "type": "Arcane Momentum",
+        "type": "Arcane Ice",
         "chance": 0.1495,
         "rarity": "Uncommon"
       },
@@ -4480,7 +4474,13 @@
       },
       {
         "location": "Eidolon Teralyst",
-        "type": "Arcane Ice",
+        "type": "Arcane Consequence",
+        "chance": 0.1495,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Eidolon Teralyst",
+        "type": "Arcane Momentum",
         "chance": 0.1495,
         "rarity": "Uncommon"
       },
@@ -4504,13 +4504,13 @@
       },
       {
         "location": "Eidolon Gantulyst",
-        "type": "Arcane Awakening",
+        "type": "Arcane Strike",
         "chance": 0.1825,
         "rarity": "Uncommon"
       },
       {
         "location": "Eidolon Gantulyst",
-        "type": "Arcane Strike",
+        "type": "Arcane Awakening",
         "chance": 0.1825,
         "rarity": "Uncommon"
       },
@@ -5652,19 +5652,19 @@
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Aegis",
         "chance": 0.0345,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Precision",
         "chance": 0.0345,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Pulse",
         "chance": 0.0345,
         "rarity": "Rare"
@@ -5737,13 +5737,13 @@
       },
       {
         "location": "Eidolon Hydrolyst (Capture)",
-        "type": "Arcane Grace",
+        "type": "Arcane Energize",
         "chance": 0.05,
         "rarity": "Rare"
       },
       {
         "location": "Eidolon Hydrolyst (Capture)",
-        "type": "Arcane Energize",
+        "type": "Arcane Grace",
         "chance": 0.05,
         "rarity": "Rare"
       },
@@ -5755,13 +5755,13 @@
       },
       {
         "location": "Eidolon Gantulyst (Capture)",
-        "type": "Arcane Pulse",
+        "type": "Arcane Aegis",
         "chance": 0.0529,
         "rarity": "Rare"
       },
       {
         "location": "Eidolon Gantulyst (Capture)",
-        "type": "Arcane Aegis",
+        "type": "Arcane Pulse",
         "chance": 0.0529,
         "rarity": "Rare"
       },
@@ -5857,6 +5857,12 @@
       },
       {
         "location": "Eidolon Teralyst (Capture)",
+        "type": "Arcane Healing",
+        "chance": 0.0602,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eidolon Teralyst (Capture)",
         "type": "Arcane Victory",
         "chance": 0.0602,
         "rarity": "Rare"
@@ -5864,12 +5870,6 @@
       {
         "location": "Eidolon Teralyst (Capture)",
         "type": "Arcane Deflection",
-        "chance": 0.0602,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Healing",
         "chance": 0.0602,
         "rarity": "Rare"
       },
@@ -5964,25 +5964,25 @@
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Resistance",
         "chance": 0.069,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Victory",
         "chance": 0.069,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Strike",
         "chance": 0.069,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Acceleration",
         "chance": 0.069,
         "rarity": "Rare"
@@ -5995,13 +5995,7 @@
       },
       {
         "location": "Eidolon Gantulyst (Capture)",
-        "type": "Arcane Eruption",
-        "chance": 0.0925,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Eidolon Gantulyst (Capture)",
-        "type": "Arcane Phantasm",
+        "type": "Arcane Agility",
         "chance": 0.0925,
         "rarity": "Rare"
       },
@@ -6013,7 +6007,13 @@
       },
       {
         "location": "Eidolon Gantulyst (Capture)",
-        "type": "Arcane Agility",
+        "type": "Arcane Eruption",
+        "chance": 0.0925,
+        "rarity": "Rare"
+      },
+      {
+        "location": "Eidolon Gantulyst (Capture)",
+        "type": "Arcane Phantasm",
         "chance": 0.0925,
         "rarity": "Rare"
       },
@@ -6091,13 +6091,7 @@
       },
       {
         "location": "Eidolon Gantulyst",
-        "type": "Arcane Eruption",
-        "chance": 0.102,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Gantulyst",
-        "type": "Arcane Phantasm",
+        "type": "Arcane Agility",
         "chance": 0.102,
         "rarity": "Uncommon"
       },
@@ -6109,7 +6103,13 @@
       },
       {
         "location": "Eidolon Gantulyst",
-        "type": "Arcane Agility",
+        "type": "Arcane Eruption",
+        "chance": 0.102,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Eidolon Gantulyst",
+        "type": "Arcane Phantasm",
         "chance": 0.102,
         "rarity": "Uncommon"
       },
@@ -6150,50 +6150,50 @@
         "rarity": "Uncommon"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Tempo",
         "chance": 0.1034,
         "rarity": "Uncommon"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Consequence",
         "chance": 0.1034,
         "rarity": "Uncommon"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Momentum",
         "chance": 0.1034,
         "rarity": "Uncommon"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Ice",
         "chance": 0.1034,
         "rarity": "Uncommon"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Nullifier",
         "chance": 0.1034,
         "rarity": "Uncommon"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Warmth",
         "chance": 0.1034,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Hydrolyst (Capture)",
-        "type": "Arcane Fury",
-        "chance": 0.1124,
         "rarity": "Uncommon"
       },
       {
         "location": "Eidolon Hydrolyst (Capture)",
         "type": "Arcane Avenger",
+        "chance": 0.1124,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Eidolon Hydrolyst (Capture)",
+        "type": "Arcane Fury",
         "chance": 0.1124,
         "rarity": "Uncommon"
       },
@@ -6217,13 +6217,7 @@
       },
       {
         "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Consequence",
-        "chance": 0.1205,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Momentum",
+        "type": "Arcane Ice",
         "chance": 0.1205,
         "rarity": "Uncommon"
       },
@@ -6235,32 +6229,26 @@
       },
       {
         "location": "Eidolon Teralyst (Capture)",
-        "type": "Arcane Ice",
+        "type": "Arcane Consequence",
+        "chance": 0.1205,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Eidolon Teralyst (Capture)",
+        "type": "Arcane Momentum",
         "chance": 0.1205,
         "rarity": "Uncommon"
       },
       {
         "location": "Eidolon Hydrolyst (Capture)",
-        "type": "Arcane Arachne",
+        "type": "Arcane Rage",
         "chance": 0.1274,
         "rarity": "Uncommon"
       },
       {
         "location": "Eidolon Hydrolyst (Capture)",
-        "type": "Arcane Rage",
-        "chance": 0.1274,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Hydrolyst",
         "type": "Arcane Arachne",
-        "chance": 0.1376,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Hydrolyst",
-        "type": "Arcane Rage",
-        "chance": 0.1376,
+        "chance": 0.1274,
         "rarity": "Uncommon"
       },
       {
@@ -6270,14 +6258,26 @@
         "rarity": "Uncommon"
       },
       {
-        "location": "Eidolon Gantulyst (Capture)",
-        "type": "Arcane Awakening",
-        "chance": 0.1463,
+        "location": "Eidolon Hydrolyst",
+        "type": "Arcane Rage",
+        "chance": 0.1376,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Eidolon Hydrolyst",
+        "type": "Arcane Arachne",
+        "chance": 0.1376,
         "rarity": "Uncommon"
       },
       {
         "location": "Eidolon Gantulyst (Capture)",
         "type": "Arcane Strike",
+        "chance": 0.1463,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Eidolon Gantulyst (Capture)",
+        "type": "Arcane Awakening",
         "chance": 0.1463,
         "rarity": "Uncommon"
       },
@@ -6289,13 +6289,7 @@
       },
       {
         "location": "Eidolon Teralyst",
-        "type": "Arcane Consequence",
-        "chance": 0.1495,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Eidolon Teralyst",
-        "type": "Arcane Momentum",
+        "type": "Arcane Ice",
         "chance": 0.1495,
         "rarity": "Uncommon"
       },
@@ -6307,7 +6301,13 @@
       },
       {
         "location": "Eidolon Teralyst",
-        "type": "Arcane Ice",
+        "type": "Arcane Consequence",
+        "chance": 0.1495,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Eidolon Teralyst",
+        "type": "Arcane Momentum",
         "chance": 0.1495,
         "rarity": "Uncommon"
       },
@@ -6331,13 +6331,13 @@
       },
       {
         "location": "Eidolon Gantulyst",
-        "type": "Arcane Awakening",
+        "type": "Arcane Strike",
         "chance": 0.1825,
         "rarity": "Uncommon"
       },
       {
         "location": "Eidolon Gantulyst",
-        "type": "Arcane Strike",
+        "type": "Arcane Awakening",
         "chance": 0.1825,
         "rarity": "Uncommon"
       },
@@ -7397,7 +7397,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Acceleration",
         "chance": 0.069,
         "rarity": "Rare"
@@ -7470,7 +7470,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Aegis",
         "chance": 0.0345,
         "rarity": "Rare"
@@ -8036,7 +8036,7 @@
         "rarity": "Uncommon"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Consequence",
         "chance": 0.1034,
         "rarity": "Uncommon"
@@ -8690,7 +8690,7 @@
         "rarity": "Uncommon"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Ice",
         "chance": 0.1034,
         "rarity": "Uncommon"
@@ -8794,7 +8794,7 @@
         "rarity": "Uncommon"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Momentum",
         "chance": 0.1034,
         "rarity": "Uncommon"
@@ -8886,7 +8886,7 @@
         "rarity": "Uncommon"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Nullifier",
         "chance": 0.1034,
         "rarity": "Uncommon"
@@ -9092,7 +9092,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Precision",
         "chance": 0.0345,
         "rarity": "Rare"
@@ -9248,7 +9248,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Pulse",
         "chance": 0.0345,
         "rarity": "Rare"
@@ -9417,7 +9417,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Resistance",
         "chance": 0.069,
         "rarity": "Rare"
@@ -9515,7 +9515,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Strike",
         "chance": 0.069,
         "rarity": "Rare"
@@ -9701,7 +9701,7 @@
         "rarity": "Uncommon"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Tempo",
         "chance": 0.1034,
         "rarity": "Uncommon"
@@ -10010,7 +10010,7 @@
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Victory",
         "chance": 0.069,
         "rarity": "Rare"
@@ -10082,7 +10082,7 @@
         "rarity": "Uncommon"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "type": "Arcane Warmth",
         "chance": 0.1034,
         "rarity": "Uncommon"
