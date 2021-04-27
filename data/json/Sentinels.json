@@ -3780,6 +3780,12 @@
             "rarity": "Uncommon"
           },
           {
+            "location": "Axi G5 Relic",
+            "type": "Forma Blueprint",
+            "chance": 0.11,
+            "rarity": "Uncommon"
+          },
+          {
             "location": "Axi H3 Relic",
             "type": "Forma Blueprint",
             "chance": 0.11,
@@ -3877,6 +3883,12 @@
           },
           {
             "location": "Lith C1 Relic",
+            "type": "Forma Blueprint",
+            "chance": 0.11,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Lith C8 Relic",
             "type": "Forma Blueprint",
             "chance": 0.11,
             "rarity": "Uncommon"
@@ -4080,6 +4092,12 @@
             "rarity": "Uncommon"
           },
           {
+            "location": "Meso R4 Relic",
+            "type": "Forma Blueprint",
+            "chance": 0.11,
+            "rarity": "Uncommon"
+          },
+          {
             "location": "Meso S2 Relic",
             "type": "Forma Blueprint",
             "chance": 0.11,
@@ -4278,6 +4296,12 @@
             "rarity": "Uncommon"
           },
           {
+            "location": "Neo Z8 Relic",
+            "type": "Forma Blueprint",
+            "chance": 0.11,
+            "rarity": "Uncommon"
+          },
+          {
             "location": "Hallowed Flame Endurance Caches, Rotation B",
             "type": "Forma Blueprint",
             "chance": 0.1106,
@@ -4345,6 +4369,12 @@
           },
           {
             "location": "Axi G1 Relic (Exceptional)",
+            "type": "Forma Blueprint",
+            "chance": 0.13,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Axi G5 Relic (Exceptional)",
             "type": "Forma Blueprint",
             "chance": 0.13,
             "rarity": "Uncommon"
@@ -4447,6 +4477,12 @@
           },
           {
             "location": "Lith C1 Relic (Exceptional)",
+            "type": "Forma Blueprint",
+            "chance": 0.13,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Lith C8 Relic (Exceptional)",
             "type": "Forma Blueprint",
             "chance": 0.13,
             "rarity": "Uncommon"
@@ -4650,6 +4686,12 @@
             "rarity": "Uncommon"
           },
           {
+            "location": "Meso R4 Relic (Exceptional)",
+            "type": "Forma Blueprint",
+            "chance": 0.13,
+            "rarity": "Uncommon"
+          },
+          {
             "location": "Meso S2 Relic (Exceptional)",
             "type": "Forma Blueprint",
             "chance": 0.13,
@@ -4843,6 +4885,12 @@
           },
           {
             "location": "Neo Z5 Relic (Exceptional)",
+            "type": "Forma Blueprint",
+            "chance": 0.13,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Neo Z8 Relic (Exceptional)",
             "type": "Forma Blueprint",
             "chance": 0.13,
             "rarity": "Uncommon"
@@ -5262,6 +5310,12 @@
             "rarity": "Uncommon"
           },
           {
+            "location": "Lith T6 Relic (Radiant)",
+            "type": "Forma Blueprint",
+            "chance": 0.1667,
+            "rarity": "Uncommon"
+          },
+          {
             "location": "Lith V8 Relic (Radiant)",
             "type": "Forma Blueprint",
             "chance": 0.1667,
@@ -5550,6 +5604,12 @@
             "rarity": "Uncommon"
           },
           {
+            "location": "Neo K3 Relic (Radiant)",
+            "type": "Forma Blueprint",
+            "chance": 0.1667,
+            "rarity": "Uncommon"
+          },
+          {
             "location": "Neo M2 Relic (Radiant)",
             "type": "Forma Blueprint",
             "chance": 0.1667,
@@ -5724,6 +5784,12 @@
             "rarity": "Uncommon"
           },
           {
+            "location": "Axi G5 Relic (Flawless)",
+            "type": "Forma Blueprint",
+            "chance": 0.17,
+            "rarity": "Uncommon"
+          },
+          {
             "location": "Axi H3 Relic (Flawless)",
             "type": "Forma Blueprint",
             "chance": 0.17,
@@ -5821,6 +5887,12 @@
           },
           {
             "location": "Lith C1 Relic (Flawless)",
+            "type": "Forma Blueprint",
+            "chance": 0.17,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Lith C8 Relic (Flawless)",
             "type": "Forma Blueprint",
             "chance": 0.17,
             "rarity": "Uncommon"
@@ -6024,6 +6096,12 @@
             "rarity": "Uncommon"
           },
           {
+            "location": "Meso R4 Relic (Flawless)",
+            "type": "Forma Blueprint",
+            "chance": 0.17,
+            "rarity": "Uncommon"
+          },
+          {
             "location": "Meso S2 Relic (Flawless)",
             "type": "Forma Blueprint",
             "chance": 0.17,
@@ -6222,6 +6300,12 @@
             "rarity": "Uncommon"
           },
           {
+            "location": "Neo Z8 Relic (Flawless)",
+            "type": "Forma Blueprint",
+            "chance": 0.17,
+            "rarity": "Uncommon"
+          },
+          {
             "location": "Axi A10 Relic (Flawless)",
             "type": "Forma Blueprint",
             "chance": 0.2,
@@ -6337,6 +6421,12 @@
           },
           {
             "location": "Axi G3 Relic (Flawless)",
+            "type": "Forma Blueprint",
+            "chance": 0.2,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Axi G5 Relic (Radiant)",
             "type": "Forma Blueprint",
             "chance": 0.2,
             "rarity": "Uncommon"
@@ -6654,6 +6744,12 @@
             "rarity": "Uncommon"
           },
           {
+            "location": "Lith C8 Relic (Radiant)",
+            "type": "Forma Blueprint",
+            "chance": 0.2,
+            "rarity": "Uncommon"
+          },
+          {
             "location": "Lith D2 Relic (Flawless)",
             "type": "Forma Blueprint",
             "chance": 0.2,
@@ -6871,6 +6967,12 @@
           },
           {
             "location": "Lith T5 Relic (Flawless)",
+            "type": "Forma Blueprint",
+            "chance": 0.2,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Lith T6 Relic (Flawless)",
             "type": "Forma Blueprint",
             "chance": 0.2,
             "rarity": "Uncommon"
@@ -7152,6 +7254,12 @@
             "rarity": "Uncommon"
           },
           {
+            "location": "Meso R4 Relic (Radiant)",
+            "type": "Forma Blueprint",
+            "chance": 0.2,
+            "rarity": "Uncommon"
+          },
+          {
             "location": "Meso S2 Relic (Radiant)",
             "type": "Forma Blueprint",
             "chance": 0.2,
@@ -7345,6 +7453,12 @@
           },
           {
             "location": "Neo I2 Relic (Flawless)",
+            "type": "Forma Blueprint",
+            "chance": 0.2,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Neo K3 Relic (Flawless)",
             "type": "Forma Blueprint",
             "chance": 0.2,
             "rarity": "Uncommon"
@@ -7591,6 +7705,12 @@
           },
           {
             "location": "Neo Z7 Relic (Flawless)",
+            "type": "Forma Blueprint",
+            "chance": 0.2,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Neo Z8 Relic (Radiant)",
             "type": "Forma Blueprint",
             "chance": 0.2,
             "rarity": "Uncommon"
@@ -8016,6 +8136,12 @@
             "rarity": "Uncommon"
           },
           {
+            "location": "Lith T6 Relic (Exceptional)",
+            "type": "Forma Blueprint",
+            "chance": 0.2333,
+            "rarity": "Uncommon"
+          },
+          {
             "location": "Lith V8 Relic (Exceptional)",
             "type": "Forma Blueprint",
             "chance": 0.2333,
@@ -8299,6 +8425,12 @@
           },
           {
             "location": "Neo I2 Relic (Exceptional)",
+            "type": "Forma Blueprint",
+            "chance": 0.2333,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Neo K3 Relic (Exceptional)",
             "type": "Forma Blueprint",
             "chance": 0.2333,
             "rarity": "Uncommon"
@@ -8838,6 +8970,12 @@
             "rarity": "Uncommon"
           },
           {
+            "location": "Lith T6 Relic",
+            "type": "Forma Blueprint",
+            "chance": 0.2533,
+            "rarity": "Uncommon"
+          },
+          {
             "location": "Lith V8 Relic",
             "type": "Forma Blueprint",
             "chance": 0.2533,
@@ -9121,6 +9259,12 @@
           },
           {
             "location": "Neo I2 Relic",
+            "type": "Forma Blueprint",
+            "chance": 0.2533,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Neo K3 Relic",
             "type": "Forma Blueprint",
             "chance": 0.2533,
             "rarity": "Uncommon"
@@ -9748,6 +9892,12 @@
             "rarity": "Uncommon"
           },
           {
+            "location": "Axi G5 Relic",
+            "type": "Forma Blueprint",
+            "chance": 0.11,
+            "rarity": "Uncommon"
+          },
+          {
             "location": "Axi H3 Relic",
             "type": "Forma Blueprint",
             "chance": 0.11,
@@ -9845,6 +9995,12 @@
           },
           {
             "location": "Lith C1 Relic",
+            "type": "Forma Blueprint",
+            "chance": 0.11,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Lith C8 Relic",
             "type": "Forma Blueprint",
             "chance": 0.11,
             "rarity": "Uncommon"
@@ -10048,6 +10204,12 @@
             "rarity": "Uncommon"
           },
           {
+            "location": "Meso R4 Relic",
+            "type": "Forma Blueprint",
+            "chance": 0.11,
+            "rarity": "Uncommon"
+          },
+          {
             "location": "Meso S2 Relic",
             "type": "Forma Blueprint",
             "chance": 0.11,
@@ -10246,6 +10408,12 @@
             "rarity": "Uncommon"
           },
           {
+            "location": "Neo Z8 Relic",
+            "type": "Forma Blueprint",
+            "chance": 0.11,
+            "rarity": "Uncommon"
+          },
+          {
             "location": "Hallowed Flame Endurance Caches, Rotation B",
             "type": "Forma Blueprint",
             "chance": 0.1106,
@@ -10313,6 +10481,12 @@
           },
           {
             "location": "Axi G1 Relic (Exceptional)",
+            "type": "Forma Blueprint",
+            "chance": 0.13,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Axi G5 Relic (Exceptional)",
             "type": "Forma Blueprint",
             "chance": 0.13,
             "rarity": "Uncommon"
@@ -10415,6 +10589,12 @@
           },
           {
             "location": "Lith C1 Relic (Exceptional)",
+            "type": "Forma Blueprint",
+            "chance": 0.13,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Lith C8 Relic (Exceptional)",
             "type": "Forma Blueprint",
             "chance": 0.13,
             "rarity": "Uncommon"
@@ -10618,6 +10798,12 @@
             "rarity": "Uncommon"
           },
           {
+            "location": "Meso R4 Relic (Exceptional)",
+            "type": "Forma Blueprint",
+            "chance": 0.13,
+            "rarity": "Uncommon"
+          },
+          {
             "location": "Meso S2 Relic (Exceptional)",
             "type": "Forma Blueprint",
             "chance": 0.13,
@@ -10811,6 +10997,12 @@
           },
           {
             "location": "Neo Z5 Relic (Exceptional)",
+            "type": "Forma Blueprint",
+            "chance": 0.13,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Neo Z8 Relic (Exceptional)",
             "type": "Forma Blueprint",
             "chance": 0.13,
             "rarity": "Uncommon"
@@ -11230,6 +11422,12 @@
             "rarity": "Uncommon"
           },
           {
+            "location": "Lith T6 Relic (Radiant)",
+            "type": "Forma Blueprint",
+            "chance": 0.1667,
+            "rarity": "Uncommon"
+          },
+          {
             "location": "Lith V8 Relic (Radiant)",
             "type": "Forma Blueprint",
             "chance": 0.1667,
@@ -11518,6 +11716,12 @@
             "rarity": "Uncommon"
           },
           {
+            "location": "Neo K3 Relic (Radiant)",
+            "type": "Forma Blueprint",
+            "chance": 0.1667,
+            "rarity": "Uncommon"
+          },
+          {
             "location": "Neo M2 Relic (Radiant)",
             "type": "Forma Blueprint",
             "chance": 0.1667,
@@ -11692,6 +11896,12 @@
             "rarity": "Uncommon"
           },
           {
+            "location": "Axi G5 Relic (Flawless)",
+            "type": "Forma Blueprint",
+            "chance": 0.17,
+            "rarity": "Uncommon"
+          },
+          {
             "location": "Axi H3 Relic (Flawless)",
             "type": "Forma Blueprint",
             "chance": 0.17,
@@ -11789,6 +11999,12 @@
           },
           {
             "location": "Lith C1 Relic (Flawless)",
+            "type": "Forma Blueprint",
+            "chance": 0.17,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Lith C8 Relic (Flawless)",
             "type": "Forma Blueprint",
             "chance": 0.17,
             "rarity": "Uncommon"
@@ -11992,6 +12208,12 @@
             "rarity": "Uncommon"
           },
           {
+            "location": "Meso R4 Relic (Flawless)",
+            "type": "Forma Blueprint",
+            "chance": 0.17,
+            "rarity": "Uncommon"
+          },
+          {
             "location": "Meso S2 Relic (Flawless)",
             "type": "Forma Blueprint",
             "chance": 0.17,
@@ -12190,6 +12412,12 @@
             "rarity": "Uncommon"
           },
           {
+            "location": "Neo Z8 Relic (Flawless)",
+            "type": "Forma Blueprint",
+            "chance": 0.17,
+            "rarity": "Uncommon"
+          },
+          {
             "location": "Axi A10 Relic (Flawless)",
             "type": "Forma Blueprint",
             "chance": 0.2,
@@ -12305,6 +12533,12 @@
           },
           {
             "location": "Axi G3 Relic (Flawless)",
+            "type": "Forma Blueprint",
+            "chance": 0.2,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Axi G5 Relic (Radiant)",
             "type": "Forma Blueprint",
             "chance": 0.2,
             "rarity": "Uncommon"
@@ -12622,6 +12856,12 @@
             "rarity": "Uncommon"
           },
           {
+            "location": "Lith C8 Relic (Radiant)",
+            "type": "Forma Blueprint",
+            "chance": 0.2,
+            "rarity": "Uncommon"
+          },
+          {
             "location": "Lith D2 Relic (Flawless)",
             "type": "Forma Blueprint",
             "chance": 0.2,
@@ -12839,6 +13079,12 @@
           },
           {
             "location": "Lith T5 Relic (Flawless)",
+            "type": "Forma Blueprint",
+            "chance": 0.2,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Lith T6 Relic (Flawless)",
             "type": "Forma Blueprint",
             "chance": 0.2,
             "rarity": "Uncommon"
@@ -13120,6 +13366,12 @@
             "rarity": "Uncommon"
           },
           {
+            "location": "Meso R4 Relic (Radiant)",
+            "type": "Forma Blueprint",
+            "chance": 0.2,
+            "rarity": "Uncommon"
+          },
+          {
             "location": "Meso S2 Relic (Radiant)",
             "type": "Forma Blueprint",
             "chance": 0.2,
@@ -13313,6 +13565,12 @@
           },
           {
             "location": "Neo I2 Relic (Flawless)",
+            "type": "Forma Blueprint",
+            "chance": 0.2,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Neo K3 Relic (Flawless)",
             "type": "Forma Blueprint",
             "chance": 0.2,
             "rarity": "Uncommon"
@@ -13559,6 +13817,12 @@
           },
           {
             "location": "Neo Z7 Relic (Flawless)",
+            "type": "Forma Blueprint",
+            "chance": 0.2,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Neo Z8 Relic (Radiant)",
             "type": "Forma Blueprint",
             "chance": 0.2,
             "rarity": "Uncommon"
@@ -13984,6 +14248,12 @@
             "rarity": "Uncommon"
           },
           {
+            "location": "Lith T6 Relic (Exceptional)",
+            "type": "Forma Blueprint",
+            "chance": 0.2333,
+            "rarity": "Uncommon"
+          },
+          {
             "location": "Lith V8 Relic (Exceptional)",
             "type": "Forma Blueprint",
             "chance": 0.2333,
@@ -14267,6 +14537,12 @@
           },
           {
             "location": "Neo I2 Relic (Exceptional)",
+            "type": "Forma Blueprint",
+            "chance": 0.2333,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Neo K3 Relic (Exceptional)",
             "type": "Forma Blueprint",
             "chance": 0.2333,
             "rarity": "Uncommon"
@@ -14806,6 +15082,12 @@
             "rarity": "Uncommon"
           },
           {
+            "location": "Lith T6 Relic",
+            "type": "Forma Blueprint",
+            "chance": 0.2533,
+            "rarity": "Uncommon"
+          },
+          {
             "location": "Lith V8 Relic",
             "type": "Forma Blueprint",
             "chance": 0.2533,
@@ -15089,6 +15371,12 @@
           },
           {
             "location": "Neo I2 Relic",
+            "type": "Forma Blueprint",
+            "chance": 0.2533,
+            "rarity": "Uncommon"
+          },
+          {
+            "location": "Neo K3 Relic",
             "type": "Forma Blueprint",
             "chance": 0.2533,
             "rarity": "Uncommon"
@@ -17297,7 +17585,7 @@
             "rarity": "Rare"
           },
           {
-            "location": "Veil/Arc Silver (Defense)",
+            "location": "Veil/Arc Silver (Skirmish)",
             "type": "Nullstones",
             "chance": 0.0714,
             "rarity": "Rare"
@@ -17339,7 +17627,7 @@
             "rarity": "Rare"
           },
           {
-            "location": "Veil/Numina (Volatile)",
+            "location": "Veil/Numina (Skirmish)",
             "type": "Nullstones",
             "chance": 0.0714,
             "rarity": "Rare"
