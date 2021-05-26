@@ -6249,7 +6249,7 @@
       },
       {
         "location": "Phobos/Opik (Rush), Rotation A",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.0221,
         "rarity": "Rare"
       },
@@ -6261,7 +6261,7 @@
       },
       {
         "location": "Phobos/Opik (Rush), Rotation A",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.0221,
         "rarity": "Rare"
       },
@@ -6273,7 +6273,7 @@
       },
       {
         "location": "Phobos/Opik (Rush), Rotation A",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.0221,
         "rarity": "Rare"
       },
@@ -6291,7 +6291,7 @@
       },
       {
         "location": "Recover The Orokin Archive, Rotation A",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.0221,
         "rarity": "Rare"
       },
@@ -6303,7 +6303,7 @@
       },
       {
         "location": "Recover The Orokin Archive, Rotation A",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.0221,
         "rarity": "Rare"
       },
@@ -6315,7 +6315,7 @@
       },
       {
         "location": "Recover The Orokin Archive, Rotation A",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.0221,
         "rarity": "Rare"
       },
@@ -6332,134 +6332,134 @@
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Beacon Shield Ring (Volatile)",
-        "type": "Lith D4 Relic",
+        "location": "Venus/Beacon Shield Ring (Skirmish)",
+        "type": "Lith G4 Relic",
         "chance": 0.0244,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Beacon Shield Ring (Volatile)",
+        "location": "Venus/Beacon Shield Ring (Skirmish)",
         "type": "Lith B8 Relic",
         "chance": 0.0244,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Beacon Shield Ring (Volatile)",
-        "type": "Lith G3 Relic",
+        "location": "Venus/Beacon Shield Ring (Skirmish)",
+        "type": "Lith K6 Relic",
         "chance": 0.0244,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Beacon Shield Ring (Volatile)",
+        "location": "Venus/Beacon Shield Ring (Skirmish)",
         "type": "Lith P5 Relic",
         "chance": 0.0244,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Beacon Shield Ring (Volatile)",
-        "type": "Lith T5 Relic",
+        "location": "Venus/Beacon Shield Ring (Skirmish)",
+        "type": "Lith A4 Relic",
         "chance": 0.0244,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Beacon Shield Ring (Volatile)",
+        "location": "Venus/Beacon Shield Ring (Skirmish)",
         "type": "Lith I1 Relic",
         "chance": 0.0244,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Beacon Shield Ring (Volatile)",
+        "location": "Venus/Beacon Shield Ring (Skirmish)",
         "type": "Lith T4 Relic",
         "chance": 0.0244,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Bifrost Echo (Exterminate)",
-        "type": "Lith D4 Relic",
+        "location": "Venus/Bifrost Echo (Skirmish)",
+        "type": "Lith G4 Relic",
         "chance": 0.0244,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Bifrost Echo (Exterminate)",
+        "location": "Venus/Bifrost Echo (Skirmish)",
         "type": "Lith B8 Relic",
         "chance": 0.0244,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Bifrost Echo (Exterminate)",
-        "type": "Lith G3 Relic",
+        "location": "Venus/Bifrost Echo (Skirmish)",
+        "type": "Lith K6 Relic",
         "chance": 0.0244,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Bifrost Echo (Exterminate)",
+        "location": "Venus/Bifrost Echo (Skirmish)",
         "type": "Lith P5 Relic",
         "chance": 0.0244,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Bifrost Echo (Exterminate)",
-        "type": "Lith T5 Relic",
+        "location": "Venus/Bifrost Echo (Skirmish)",
+        "type": "Lith A4 Relic",
         "chance": 0.0244,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Bifrost Echo (Exterminate)",
+        "location": "Venus/Bifrost Echo (Skirmish)",
         "type": "Lith I1 Relic",
         "chance": 0.0244,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Bifrost Echo (Exterminate)",
+        "location": "Venus/Bifrost Echo (Skirmish)",
         "type": "Lith T4 Relic",
         "chance": 0.0244,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Orvin-Haarc (Exterminate)",
-        "type": "Lith D4 Relic",
+        "location": "Venus/Orvin-Haarc (Skirmish)",
+        "type": "Lith G4 Relic",
         "chance": 0.0244,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Orvin-Haarc (Exterminate)",
+        "location": "Venus/Orvin-Haarc (Skirmish)",
         "type": "Lith B8 Relic",
         "chance": 0.0244,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Orvin-Haarc (Exterminate)",
-        "type": "Lith G3 Relic",
+        "location": "Venus/Orvin-Haarc (Skirmish)",
+        "type": "Lith K6 Relic",
         "chance": 0.0244,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Orvin-Haarc (Exterminate)",
+        "location": "Venus/Orvin-Haarc (Skirmish)",
         "type": "Lith P5 Relic",
         "chance": 0.0244,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Orvin-Haarc (Exterminate)",
-        "type": "Lith T5 Relic",
+        "location": "Venus/Orvin-Haarc (Skirmish)",
+        "type": "Lith A4 Relic",
         "chance": 0.0244,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Orvin-Haarc (Exterminate)",
+        "location": "Venus/Orvin-Haarc (Skirmish)",
         "type": "Lith I1 Relic",
         "chance": 0.0244,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Orvin-Haarc (Exterminate)",
+        "location": "Venus/Orvin-Haarc (Skirmish)",
         "type": "Lith T4 Relic",
         "chance": 0.0244,
         "rarity": "Rare"
       },
       {
         "location": "Earth/Bendar Cluster (Skirmish)",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.03,
         "rarity": "Rare"
       },
@@ -6471,7 +6471,7 @@
       },
       {
         "location": "Earth/Bendar Cluster (Skirmish)",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.03,
         "rarity": "Rare"
       },
@@ -6483,7 +6483,7 @@
       },
       {
         "location": "Earth/Bendar Cluster (Skirmish)",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.03,
         "rarity": "Rare"
       },
@@ -6501,7 +6501,7 @@
       },
       {
         "location": "Earth/Iota Temple (Skirmish)",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.03,
         "rarity": "Rare"
       },
@@ -6513,7 +6513,7 @@
       },
       {
         "location": "Earth/Iota Temple (Skirmish)",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.03,
         "rarity": "Rare"
       },
@@ -6525,7 +6525,7 @@
       },
       {
         "location": "Earth/Iota Temple (Skirmish)",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.03,
         "rarity": "Rare"
       },
@@ -6543,7 +6543,7 @@
       },
       {
         "location": "Earth/Korm's Belt (Skirmish)",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.03,
         "rarity": "Rare"
       },
@@ -6555,7 +6555,7 @@
       },
       {
         "location": "Earth/Korm's Belt (Skirmish)",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.03,
         "rarity": "Rare"
       },
@@ -6567,7 +6567,7 @@
       },
       {
         "location": "Earth/Korm's Belt (Skirmish)",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.03,
         "rarity": "Rare"
       },
@@ -6585,7 +6585,7 @@
       },
       {
         "location": "Earth/Ogal Cluster (Skirmish)",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.03,
         "rarity": "Rare"
       },
@@ -6597,7 +6597,7 @@
       },
       {
         "location": "Earth/Ogal Cluster (Skirmish)",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.03,
         "rarity": "Rare"
       },
@@ -6609,7 +6609,7 @@
       },
       {
         "location": "Earth/Ogal Cluster (Skirmish)",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.03,
         "rarity": "Rare"
       },
@@ -6627,7 +6627,7 @@
       },
       {
         "location": "Earth/Sover Strait (Skirmish)",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.03,
         "rarity": "Rare"
       },
@@ -6639,7 +6639,7 @@
       },
       {
         "location": "Earth/Sover Strait (Skirmish)",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.03,
         "rarity": "Rare"
       },
@@ -6651,7 +6651,7 @@
       },
       {
         "location": "Earth/Sover Strait (Skirmish)",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.03,
         "rarity": "Rare"
       },
@@ -6681,7 +6681,7 @@
       },
       {
         "location": "Venus/Beacon Shield Ring (Caches), Rotation A",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.0435,
         "rarity": "Rare"
       },
@@ -6693,7 +6693,7 @@
       },
       {
         "location": "Venus/Beacon Shield Ring (Caches), Rotation A",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.0435,
         "rarity": "Rare"
       },
@@ -6705,7 +6705,7 @@
       },
       {
         "location": "Venus/Beacon Shield Ring (Caches), Rotation A",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.0435,
         "rarity": "Rare"
       },
@@ -6723,7 +6723,7 @@
       },
       {
         "location": "Venus/Bifrost Echo (Caches), Rotation A",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.0435,
         "rarity": "Rare"
       },
@@ -6735,7 +6735,7 @@
       },
       {
         "location": "Venus/Bifrost Echo (Caches), Rotation A",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.0435,
         "rarity": "Rare"
       },
@@ -6747,7 +6747,7 @@
       },
       {
         "location": "Venus/Bifrost Echo (Caches), Rotation A",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.0435,
         "rarity": "Rare"
       },
@@ -6765,7 +6765,7 @@
       },
       {
         "location": "Venus/Falling Glory (Caches), Rotation A",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.0435,
         "rarity": "Rare"
       },
@@ -6777,7 +6777,7 @@
       },
       {
         "location": "Venus/Falling Glory (Caches), Rotation A",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.0435,
         "rarity": "Rare"
       },
@@ -6789,7 +6789,7 @@
       },
       {
         "location": "Venus/Falling Glory (Caches), Rotation A",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.0435,
         "rarity": "Rare"
       },
@@ -6807,7 +6807,7 @@
       },
       {
         "location": "Venus/Orvin-Haarc (Caches), Rotation A",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.0435,
         "rarity": "Rare"
       },
@@ -6819,7 +6819,7 @@
       },
       {
         "location": "Venus/Orvin-Haarc (Caches), Rotation A",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.0435,
         "rarity": "Rare"
       },
@@ -6831,7 +6831,7 @@
       },
       {
         "location": "Venus/Orvin-Haarc (Caches), Rotation A",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.0435,
         "rarity": "Rare"
       },
@@ -6849,7 +6849,7 @@
       },
       {
         "location": "Venus/Vesper Strait (Caches), Rotation A",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.0435,
         "rarity": "Rare"
       },
@@ -6861,7 +6861,7 @@
       },
       {
         "location": "Venus/Vesper Strait (Caches), Rotation A",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.0435,
         "rarity": "Rare"
       },
@@ -6873,7 +6873,7 @@
       },
       {
         "location": "Venus/Vesper Strait (Caches), Rotation A",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.0435,
         "rarity": "Rare"
       },
@@ -6890,44 +6890,44 @@
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation B",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation B",
         "type": "Lith P5 Relic",
         "chance": 0.0455,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation B",
-        "type": "Lith T5 Relic",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation B",
+        "type": "Lith A4 Relic",
         "chance": 0.0455,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation B",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation B",
         "type": "Lith I1 Relic",
         "chance": 0.0455,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation B",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation B",
         "type": "Lith T4 Relic",
         "chance": 0.0455,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation A",
-        "type": "Lith D4 Relic",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation A",
+        "type": "Lith G4 Relic",
         "chance": 0.0476,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation A",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation A",
         "type": "Lith B8 Relic",
         "chance": 0.0476,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Vesper Strait (Orphix), Rotation A",
-        "type": "Lith G3 Relic",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation A",
+        "type": "Lith K6 Relic",
         "chance": 0.0476,
         "rarity": "Rare"
       },
@@ -6951,7 +6951,7 @@
       },
       {
         "location": "Void Storm (Earth)",
-        "type": "Lith D4 Relic (Radiant)",
+        "type": "Lith G4 Relic (Radiant)",
         "chance": 0.05,
         "rarity": "Rare"
       },
@@ -6975,13 +6975,13 @@
       },
       {
         "location": "Void Storm (Earth)",
-        "type": "Lith G3 Relic (Radiant)",
+        "type": "Lith K6 Relic (Radiant)",
         "chance": 0.05,
         "rarity": "Rare"
       },
       {
         "location": "Void Storm (Earth)",
-        "type": "Lith T5 Relic (Radiant)",
+        "type": "Lith A4 Relic (Radiant)",
         "chance": 0.05,
         "rarity": "Rare"
       },
@@ -6993,7 +6993,7 @@
       },
       {
         "location": "Void Storm (Venus)",
-        "type": "Lith D4 Relic (Radiant)",
+        "type": "Lith G4 Relic (Radiant)",
         "chance": 0.05,
         "rarity": "Rare"
       },
@@ -7017,13 +7017,13 @@
       },
       {
         "location": "Void Storm (Venus)",
-        "type": "Lith G3 Relic (Radiant)",
+        "type": "Lith K6 Relic (Radiant)",
         "chance": 0.05,
         "rarity": "Rare"
       },
       {
         "location": "Void Storm (Venus)",
-        "type": "Lith T5 Relic (Radiant)",
+        "type": "Lith A4 Relic (Radiant)",
         "chance": 0.05,
         "rarity": "Rare"
       },
@@ -7034,32 +7034,32 @@
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Falling Glory (Defense), Rotation C",
+        "location": "Venus/Falling Glory (Skirmish), Rotation C",
         "type": "Lith I1 Relic",
         "chance": 0.0526,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Falling Glory (Defense), Rotation C",
+        "location": "Venus/Falling Glory (Skirmish), Rotation C",
         "type": "Lith T4 Relic",
         "chance": 0.0526,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Falling Glory (Defense), Rotation B",
+        "location": "Venus/Falling Glory (Skirmish), Rotation B",
         "type": "Lith P5 Relic",
         "chance": 0.0588,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Falling Glory (Defense), Rotation B",
-        "type": "Lith T5 Relic",
+        "location": "Venus/Falling Glory (Skirmish), Rotation B",
+        "type": "Lith A4 Relic",
         "chance": 0.0588,
         "rarity": "Rare"
       },
       {
         "location": "Void/Stribog (Sabotage)",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.0588,
         "rarity": "Rare"
       },
@@ -7071,7 +7071,7 @@
       },
       {
         "location": "Void/Stribog (Sabotage)",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.0588,
         "rarity": "Rare"
       },
@@ -7083,7 +7083,7 @@
       },
       {
         "location": "Void/Stribog (Sabotage)",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.0588,
         "rarity": "Rare"
       },
@@ -7113,7 +7113,7 @@
       },
       {
         "location": "Void/Taranis (Defense), Rotation C",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.0588,
         "rarity": "Rare"
       },
@@ -7125,7 +7125,7 @@
       },
       {
         "location": "Void/Taranis (Defense), Rotation C",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.0588,
         "rarity": "Rare"
       },
@@ -7137,7 +7137,7 @@
       },
       {
         "location": "Void/Taranis (Defense), Rotation C",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.0588,
         "rarity": "Rare"
       },
@@ -7167,7 +7167,7 @@
       },
       {
         "location": "Void/Tiwaz (Mobile Defense)",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.0588,
         "rarity": "Rare"
       },
@@ -7179,7 +7179,7 @@
       },
       {
         "location": "Void/Tiwaz (Mobile Defense)",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.0588,
         "rarity": "Rare"
       },
@@ -7191,7 +7191,7 @@
       },
       {
         "location": "Void/Tiwaz (Mobile Defense)",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.0588,
         "rarity": "Rare"
       },
@@ -7221,7 +7221,7 @@
       },
       {
         "location": "Earth/Bendar Cluster (Caches)",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.0599,
         "rarity": "Rare"
       },
@@ -7233,7 +7233,7 @@
       },
       {
         "location": "Earth/Bendar Cluster (Caches)",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.0599,
         "rarity": "Rare"
       },
@@ -7245,7 +7245,7 @@
       },
       {
         "location": "Earth/Bendar Cluster (Caches)",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.0599,
         "rarity": "Rare"
       },
@@ -7263,7 +7263,7 @@
       },
       {
         "location": "Earth/Iota Temple (Caches)",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.0599,
         "rarity": "Rare"
       },
@@ -7275,7 +7275,7 @@
       },
       {
         "location": "Earth/Iota Temple (Caches)",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.0599,
         "rarity": "Rare"
       },
@@ -7287,7 +7287,7 @@
       },
       {
         "location": "Earth/Iota Temple (Caches)",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.0599,
         "rarity": "Rare"
       },
@@ -7305,7 +7305,7 @@
       },
       {
         "location": "Earth/Korm's Belt (Caches)",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.0599,
         "rarity": "Rare"
       },
@@ -7317,7 +7317,7 @@
       },
       {
         "location": "Earth/Korm's Belt (Caches)",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.0599,
         "rarity": "Rare"
       },
@@ -7329,7 +7329,7 @@
       },
       {
         "location": "Earth/Korm's Belt (Caches)",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.0599,
         "rarity": "Rare"
       },
@@ -7347,7 +7347,7 @@
       },
       {
         "location": "Earth/Ogal Cluster (Caches)",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.0599,
         "rarity": "Rare"
       },
@@ -7359,7 +7359,7 @@
       },
       {
         "location": "Earth/Ogal Cluster (Caches)",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.0599,
         "rarity": "Rare"
       },
@@ -7371,7 +7371,7 @@
       },
       {
         "location": "Earth/Ogal Cluster (Caches)",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.0599,
         "rarity": "Rare"
       },
@@ -7389,7 +7389,7 @@
       },
       {
         "location": "Earth/Sover Strait (Caches)",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.0599,
         "rarity": "Rare"
       },
@@ -7401,7 +7401,7 @@
       },
       {
         "location": "Earth/Sover Strait (Caches)",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.0599,
         "rarity": "Rare"
       },
@@ -7413,7 +7413,7 @@
       },
       {
         "location": "Earth/Sover Strait (Caches)",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.0599,
         "rarity": "Rare"
       },
@@ -7460,80 +7460,26 @@
         "rarity": "Rare"
       },
       {
-        "location": "Murex Raid, Rotation A",
-        "type": "Lith T5 Relic",
-        "chance": 0.0645,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Murex Raid, Rotation A",
-        "type": "Lith I1 Relic",
-        "chance": 0.0645,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Murex Raid, Rotation A",
-        "type": "Lith T4 Relic",
-        "chance": 0.0645,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Ground Assault, Rotation A",
-        "type": "Lith T5 Relic",
+        "location": "Venus/Falling Glory (Skirmish), Rotation A",
+        "type": "Lith G4 Relic",
         "chance": 0.0667,
         "rarity": "Rare"
       },
       {
-        "location": "Ground Assault, Rotation A",
-        "type": "Lith I1 Relic",
-        "chance": 0.0667,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Ground Assault, Rotation A",
-        "type": "Lith T4 Relic",
-        "chance": 0.0667,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Ground Assault, Rotation B",
-        "type": "Lith T5 Relic",
-        "chance": 0.0667,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Ground Assault, Rotation B",
-        "type": "Lith I1 Relic",
-        "chance": 0.0667,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Ground Assault, Rotation B",
-        "type": "Lith T4 Relic",
-        "chance": 0.0667,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Venus/Falling Glory (Defense), Rotation A",
-        "type": "Lith D4 Relic",
-        "chance": 0.0667,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Venus/Falling Glory (Defense), Rotation A",
+        "location": "Venus/Falling Glory (Skirmish), Rotation A",
         "type": "Lith B8 Relic",
         "chance": 0.0667,
         "rarity": "Rare"
       },
       {
-        "location": "Venus/Falling Glory (Defense), Rotation A",
-        "type": "Lith G3 Relic",
+        "location": "Venus/Falling Glory (Skirmish), Rotation A",
+        "type": "Lith K6 Relic",
         "chance": 0.0667,
         "rarity": "Rare"
       },
       {
         "location": "Ceres/Seimeni (Defense), Rotation A",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.069,
         "rarity": "Rare"
       },
@@ -7545,7 +7491,7 @@
       },
       {
         "location": "Ceres/Seimeni (Defense), Rotation A",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.069,
         "rarity": "Rare"
       },
@@ -7557,7 +7503,7 @@
       },
       {
         "location": "Ceres/Seimeni (Defense), Rotation A",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.069,
         "rarity": "Rare"
       },
@@ -7575,7 +7521,7 @@
       },
       {
         "location": "Earth/Coba (Defense), Rotation A",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.069,
         "rarity": "Rare"
       },
@@ -7587,7 +7533,7 @@
       },
       {
         "location": "Earth/Coba (Defense), Rotation A",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.069,
         "rarity": "Rare"
       },
@@ -7599,7 +7545,7 @@
       },
       {
         "location": "Earth/Coba (Defense), Rotation A",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.069,
         "rarity": "Rare"
       },
@@ -7617,7 +7563,7 @@
       },
       {
         "location": "Eris/Akkad (Defense), Rotation A",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.069,
         "rarity": "Rare"
       },
@@ -7629,7 +7575,7 @@
       },
       {
         "location": "Eris/Akkad (Defense), Rotation A",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.069,
         "rarity": "Rare"
       },
@@ -7641,7 +7587,7 @@
       },
       {
         "location": "Eris/Akkad (Defense), Rotation A",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.069,
         "rarity": "Rare"
       },
@@ -7659,7 +7605,7 @@
       },
       {
         "location": "Europa/Larzac (Defense), Rotation A",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.069,
         "rarity": "Rare"
       },
@@ -7671,7 +7617,7 @@
       },
       {
         "location": "Europa/Larzac (Defense), Rotation A",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.069,
         "rarity": "Rare"
       },
@@ -7683,7 +7629,7 @@
       },
       {
         "location": "Europa/Larzac (Defense), Rotation A",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.069,
         "rarity": "Rare"
       },
@@ -7701,7 +7647,7 @@
       },
       {
         "location": "Jupiter/Sinai (Defense), Rotation A",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.069,
         "rarity": "Rare"
       },
@@ -7713,7 +7659,7 @@
       },
       {
         "location": "Jupiter/Sinai (Defense), Rotation A",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.069,
         "rarity": "Rare"
       },
@@ -7725,7 +7671,7 @@
       },
       {
         "location": "Jupiter/Sinai (Defense), Rotation A",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.069,
         "rarity": "Rare"
       },
@@ -7743,7 +7689,7 @@
       },
       {
         "location": "Mars/Kadesh (Defense), Rotation A",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.069,
         "rarity": "Rare"
       },
@@ -7755,7 +7701,7 @@
       },
       {
         "location": "Mars/Kadesh (Defense), Rotation A",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.069,
         "rarity": "Rare"
       },
@@ -7767,7 +7713,7 @@
       },
       {
         "location": "Mars/Kadesh (Defense), Rotation A",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.069,
         "rarity": "Rare"
       },
@@ -7785,7 +7731,7 @@
       },
       {
         "location": "Pluto/Sechura (Defense), Rotation A",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.069,
         "rarity": "Rare"
       },
@@ -7797,7 +7743,7 @@
       },
       {
         "location": "Pluto/Sechura (Defense), Rotation A",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.069,
         "rarity": "Rare"
       },
@@ -7809,7 +7755,7 @@
       },
       {
         "location": "Pluto/Sechura (Defense), Rotation A",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.069,
         "rarity": "Rare"
       },
@@ -7827,7 +7773,7 @@
       },
       {
         "location": "Sedna/Sangeru (Defense), Rotation A",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.069,
         "rarity": "Rare"
       },
@@ -7839,7 +7785,7 @@
       },
       {
         "location": "Sedna/Sangeru (Defense), Rotation A",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.069,
         "rarity": "Rare"
       },
@@ -7851,7 +7797,7 @@
       },
       {
         "location": "Sedna/Sangeru (Defense), Rotation A",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.069,
         "rarity": "Rare"
       },
@@ -7869,7 +7815,7 @@
       },
       {
         "location": "Venus/Romula (Defense), Rotation A",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.069,
         "rarity": "Rare"
       },
@@ -7881,7 +7827,7 @@
       },
       {
         "location": "Venus/Romula (Defense), Rotation A",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.069,
         "rarity": "Rare"
       },
@@ -7893,7 +7839,7 @@
       },
       {
         "location": "Venus/Romula (Defense), Rotation A",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.069,
         "rarity": "Rare"
       },
@@ -7953,7 +7899,7 @@
       },
       {
         "location": "Ceres/Cinxia (Interception), Rotation A",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -7965,7 +7911,7 @@
       },
       {
         "location": "Ceres/Cinxia (Interception), Rotation A",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -7977,7 +7923,7 @@
       },
       {
         "location": "Ceres/Cinxia (Interception), Rotation A",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -7995,7 +7941,7 @@
       },
       {
         "location": "Ceres/Gabii (Survival), Rotation B",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -8007,7 +7953,7 @@
       },
       {
         "location": "Ceres/Gabii (Survival), Rotation B",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -8019,7 +7965,7 @@
       },
       {
         "location": "Ceres/Gabii (Survival), Rotation B",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -8037,7 +7983,7 @@
       },
       {
         "location": "Earth/Everest (Excavation), Rotation B",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -8049,7 +7995,7 @@
       },
       {
         "location": "Earth/Everest (Excavation), Rotation B",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -8061,7 +8007,7 @@
       },
       {
         "location": "Earth/Everest (Excavation), Rotation B",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -8079,7 +8025,7 @@
       },
       {
         "location": "Earth/Gaia (Interception), Rotation A",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -8091,7 +8037,7 @@
       },
       {
         "location": "Earth/Gaia (Interception), Rotation A",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -8103,7 +8049,7 @@
       },
       {
         "location": "Earth/Gaia (Interception), Rotation A",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -8121,7 +8067,7 @@
       },
       {
         "location": "Earth/Tikal (Excavation), Rotation B",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -8133,7 +8079,7 @@
       },
       {
         "location": "Earth/Tikal (Excavation), Rotation B",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -8145,7 +8091,7 @@
       },
       {
         "location": "Earth/Tikal (Excavation), Rotation B",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -8163,7 +8109,7 @@
       },
       {
         "location": "Mars/Alator (Interception), Rotation A",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -8175,7 +8121,7 @@
       },
       {
         "location": "Mars/Alator (Interception), Rotation A",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -8187,7 +8133,7 @@
       },
       {
         "location": "Mars/Alator (Interception), Rotation A",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -8205,7 +8151,7 @@
       },
       {
         "location": "Mars/Arcadia (Survival), Rotation B",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -8217,7 +8163,7 @@
       },
       {
         "location": "Mars/Arcadia (Survival), Rotation B",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -8229,7 +8175,7 @@
       },
       {
         "location": "Mars/Arcadia (Survival), Rotation B",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -8247,7 +8193,7 @@
       },
       {
         "location": "Mars/Augustus (Excavation), Rotation B",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -8259,7 +8205,7 @@
       },
       {
         "location": "Mars/Augustus (Excavation), Rotation B",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -8271,7 +8217,7 @@
       },
       {
         "location": "Mars/Augustus (Excavation), Rotation B",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -8289,7 +8235,7 @@
       },
       {
         "location": "Mercury/Apollodorus (Survival), Rotation B",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -8301,7 +8247,7 @@
       },
       {
         "location": "Mercury/Apollodorus (Survival), Rotation B",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -8313,7 +8259,7 @@
       },
       {
         "location": "Mercury/Apollodorus (Survival), Rotation B",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -8331,7 +8277,7 @@
       },
       {
         "location": "Mercury/Odin (Interception), Rotation A",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -8343,7 +8289,7 @@
       },
       {
         "location": "Mercury/Odin (Interception), Rotation A",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -8355,7 +8301,7 @@
       },
       {
         "location": "Mercury/Odin (Interception), Rotation A",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -8373,7 +8319,7 @@
       },
       {
         "location": "Phobos/Flimnap (Survival), Rotation B",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -8385,7 +8331,7 @@
       },
       {
         "location": "Phobos/Flimnap (Survival), Rotation B",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -8397,7 +8343,7 @@
       },
       {
         "location": "Phobos/Flimnap (Survival), Rotation B",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -8415,7 +8361,7 @@
       },
       {
         "location": "Phobos/Stickney (Survival), Rotation B",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -8427,7 +8373,7 @@
       },
       {
         "location": "Phobos/Stickney (Survival), Rotation B",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -8439,7 +8385,7 @@
       },
       {
         "location": "Phobos/Stickney (Survival), Rotation B",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -8457,7 +8403,7 @@
       },
       {
         "location": "Phobos/Wendell (Excavation), Rotation B",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -8469,7 +8415,7 @@
       },
       {
         "location": "Phobos/Wendell (Excavation), Rotation B",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -8481,7 +8427,7 @@
       },
       {
         "location": "Phobos/Wendell (Excavation), Rotation B",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -8499,7 +8445,7 @@
       },
       {
         "location": "Venus/Cytherean (Interception), Rotation A",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -8511,7 +8457,7 @@
       },
       {
         "location": "Venus/Cytherean (Interception), Rotation A",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -8523,7 +8469,7 @@
       },
       {
         "location": "Venus/Cytherean (Interception), Rotation A",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -8541,7 +8487,7 @@
       },
       {
         "location": "Venus/Kiliken (Excavation), Rotation B",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -8553,7 +8499,7 @@
       },
       {
         "location": "Venus/Kiliken (Excavation), Rotation B",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -8565,7 +8511,7 @@
       },
       {
         "location": "Venus/Kiliken (Excavation), Rotation B",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -8583,7 +8529,7 @@
       },
       {
         "location": "Venus/Malva (Survival), Rotation B",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -8595,7 +8541,7 @@
       },
       {
         "location": "Venus/Malva (Survival), Rotation B",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -8607,7 +8553,7 @@
       },
       {
         "location": "Venus/Malva (Survival), Rotation B",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -8625,7 +8571,7 @@
       },
       {
         "location": "Venus/V Prime (Survival), Rotation B",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -8637,7 +8583,7 @@
       },
       {
         "location": "Venus/V Prime (Survival), Rotation B",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -8649,7 +8595,7 @@
       },
       {
         "location": "Venus/V Prime (Survival), Rotation B",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.0769,
         "rarity": "Rare"
       },
@@ -8685,7 +8631,7 @@
       },
       {
         "location": "Void/Ani (Survival), Rotation A",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.086,
         "rarity": "Rare"
       },
@@ -8697,7 +8643,7 @@
       },
       {
         "location": "Void/Ani (Survival), Rotation A",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.086,
         "rarity": "Rare"
       },
@@ -8709,7 +8655,7 @@
       },
       {
         "location": "Void/Ani (Survival), Rotation A",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.086,
         "rarity": "Rare"
       },
@@ -8739,7 +8685,7 @@
       },
       {
         "location": "Void/Taranis (Defense), Rotation B",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.086,
         "rarity": "Rare"
       },
@@ -8751,7 +8697,7 @@
       },
       {
         "location": "Void/Taranis (Defense), Rotation B",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.086,
         "rarity": "Rare"
       },
@@ -8763,7 +8709,7 @@
       },
       {
         "location": "Void/Taranis (Defense), Rotation B",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.086,
         "rarity": "Rare"
       },
@@ -8793,7 +8739,7 @@
       },
       {
         "location": "Ceres/Casta (Defense), Rotation A",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.0909,
         "rarity": "Rare"
       },
@@ -8805,7 +8751,7 @@
       },
       {
         "location": "Ceres/Casta (Defense), Rotation A",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.0909,
         "rarity": "Rare"
       },
@@ -8817,7 +8763,7 @@
       },
       {
         "location": "Ceres/Casta (Defense), Rotation A",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.0909,
         "rarity": "Rare"
       },
@@ -8835,7 +8781,7 @@
       },
       {
         "location": "Ceres/Egeria (Defense), Rotation A",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.0909,
         "rarity": "Rare"
       },
@@ -8847,7 +8793,7 @@
       },
       {
         "location": "Ceres/Egeria (Defense), Rotation A",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.0909,
         "rarity": "Rare"
       },
@@ -8859,7 +8805,7 @@
       },
       {
         "location": "Ceres/Egeria (Defense), Rotation A",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.0909,
         "rarity": "Rare"
       },
@@ -8877,7 +8823,7 @@
       },
       {
         "location": "Ceres/Varro (Defense), Rotation A",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.0909,
         "rarity": "Rare"
       },
@@ -8889,7 +8835,7 @@
       },
       {
         "location": "Ceres/Varro (Defense), Rotation A",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.0909,
         "rarity": "Rare"
       },
@@ -8901,7 +8847,7 @@
       },
       {
         "location": "Ceres/Varro (Defense), Rotation A",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.0909,
         "rarity": "Rare"
       },
@@ -8919,7 +8865,7 @@
       },
       {
         "location": "Earth/Lith (Defense), Rotation A",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.0909,
         "rarity": "Rare"
       },
@@ -8931,7 +8877,7 @@
       },
       {
         "location": "Earth/Lith (Defense), Rotation A",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.0909,
         "rarity": "Rare"
       },
@@ -8943,7 +8889,7 @@
       },
       {
         "location": "Earth/Lith (Defense), Rotation A",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.0909,
         "rarity": "Rare"
       },
@@ -8961,7 +8907,7 @@
       },
       {
         "location": "Mars/Spear (Defense), Rotation A",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.0909,
         "rarity": "Rare"
       },
@@ -8973,7 +8919,7 @@
       },
       {
         "location": "Mars/Spear (Defense), Rotation A",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.0909,
         "rarity": "Rare"
       },
@@ -8985,7 +8931,7 @@
       },
       {
         "location": "Mars/Spear (Defense), Rotation A",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.0909,
         "rarity": "Rare"
       },
@@ -9003,7 +8949,7 @@
       },
       {
         "location": "Mercury/Lares (Defense), Rotation A",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.0909,
         "rarity": "Rare"
       },
@@ -9015,7 +8961,7 @@
       },
       {
         "location": "Mercury/Lares (Defense), Rotation A",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.0909,
         "rarity": "Rare"
       },
@@ -9027,7 +8973,7 @@
       },
       {
         "location": "Mercury/Lares (Defense), Rotation A",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.0909,
         "rarity": "Rare"
       },
@@ -9075,7 +9021,7 @@
       },
       {
         "location": "Phobos/Drunlo (Defense), Rotation A",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.0909,
         "rarity": "Rare"
       },
@@ -9087,7 +9033,7 @@
       },
       {
         "location": "Phobos/Drunlo (Defense), Rotation A",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.0909,
         "rarity": "Rare"
       },
@@ -9099,7 +9045,7 @@
       },
       {
         "location": "Phobos/Drunlo (Defense), Rotation A",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.0909,
         "rarity": "Rare"
       },
@@ -9117,7 +9063,7 @@
       },
       {
         "location": "Phobos/Gulliver (Defense), Rotation A",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.0909,
         "rarity": "Rare"
       },
@@ -9129,7 +9075,7 @@
       },
       {
         "location": "Phobos/Gulliver (Defense), Rotation A",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.0909,
         "rarity": "Rare"
       },
@@ -9141,7 +9087,7 @@
       },
       {
         "location": "Phobos/Gulliver (Defense), Rotation A",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.0909,
         "rarity": "Rare"
       },
@@ -9159,7 +9105,7 @@
       },
       {
         "location": "Venus/Tessera (Defense), Rotation A",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.0909,
         "rarity": "Rare"
       },
@@ -9171,7 +9117,7 @@
       },
       {
         "location": "Venus/Tessera (Defense), Rotation A",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.0909,
         "rarity": "Rare"
       },
@@ -9183,7 +9129,7 @@
       },
       {
         "location": "Venus/Tessera (Defense), Rotation A",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.0909,
         "rarity": "Rare"
       },
@@ -9201,7 +9147,7 @@
       },
       {
         "location": "Sanctuary Onslaught, Rotation A",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.0917,
         "rarity": "Rare"
       },
@@ -9213,7 +9159,7 @@
       },
       {
         "location": "Sanctuary Onslaught, Rotation A",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.0917,
         "rarity": "Rare"
       },
@@ -9225,7 +9171,7 @@
       },
       {
         "location": "Sanctuary Onslaught, Rotation A",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.0917,
         "rarity": "Rare"
       },
@@ -9243,7 +9189,7 @@
       },
       {
         "location": "Elite Sanctuary Onslaught, Rotation A",
-        "type": "Lith D4 Relic (Radiant)",
+        "type": "Lith G4 Relic (Radiant)",
         "chance": 0.0948,
         "rarity": "Rare"
       },
@@ -9255,7 +9201,7 @@
       },
       {
         "location": "Elite Sanctuary Onslaught, Rotation A",
-        "type": "Lith G3 Relic (Radiant)",
+        "type": "Lith K6 Relic (Radiant)",
         "chance": 0.0948,
         "rarity": "Rare"
       },
@@ -9267,7 +9213,7 @@
       },
       {
         "location": "Elite Sanctuary Onslaught, Rotation A",
-        "type": "Lith T5 Relic (Radiant)",
+        "type": "Lith A4 Relic (Radiant)",
         "chance": 0.0948,
         "rarity": "Rare"
       },
@@ -9285,7 +9231,7 @@
       },
       {
         "location": "Phobos/Kepler (Rush), Rotation C",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.0968,
         "rarity": "Rare"
       },
@@ -9297,7 +9243,7 @@
       },
       {
         "location": "Phobos/Kepler (Rush), Rotation C",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.0968,
         "rarity": "Rare"
       },
@@ -9309,7 +9255,7 @@
       },
       {
         "location": "Phobos/Kepler (Rush), Rotation C",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.0968,
         "rarity": "Rare"
       },
@@ -9405,7 +9351,7 @@
       },
       {
         "location": "Phobos/Memphis (Defection), Rotation B",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.1084,
         "rarity": "Uncommon"
       },
@@ -9417,7 +9363,7 @@
       },
       {
         "location": "Phobos/Memphis (Defection), Rotation B",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.1084,
         "rarity": "Uncommon"
       },
@@ -9429,7 +9375,7 @@
       },
       {
         "location": "Phobos/Memphis (Defection), Rotation B",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.1084,
         "rarity": "Uncommon"
       },
@@ -9447,7 +9393,7 @@
       },
       {
         "location": "Ceres/Gabii (Survival), Rotation C",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.1106,
         "rarity": "Uncommon"
       },
@@ -9459,7 +9405,7 @@
       },
       {
         "location": "Ceres/Gabii (Survival), Rotation C",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.1106,
         "rarity": "Uncommon"
       },
@@ -9471,7 +9417,7 @@
       },
       {
         "location": "Ceres/Gabii (Survival), Rotation C",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.1106,
         "rarity": "Uncommon"
       },
@@ -9489,7 +9435,7 @@
       },
       {
         "location": "Earth/Everest (Excavation), Rotation C",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.1106,
         "rarity": "Uncommon"
       },
@@ -9501,7 +9447,7 @@
       },
       {
         "location": "Earth/Everest (Excavation), Rotation C",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.1106,
         "rarity": "Uncommon"
       },
@@ -9513,7 +9459,7 @@
       },
       {
         "location": "Earth/Everest (Excavation), Rotation C",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.1106,
         "rarity": "Uncommon"
       },
@@ -9531,7 +9477,7 @@
       },
       {
         "location": "Earth/Tikal (Excavation), Rotation C",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.1106,
         "rarity": "Uncommon"
       },
@@ -9543,7 +9489,7 @@
       },
       {
         "location": "Earth/Tikal (Excavation), Rotation C",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.1106,
         "rarity": "Uncommon"
       },
@@ -9555,7 +9501,7 @@
       },
       {
         "location": "Earth/Tikal (Excavation), Rotation C",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.1106,
         "rarity": "Uncommon"
       },
@@ -9573,7 +9519,7 @@
       },
       {
         "location": "Mars/Arcadia (Survival), Rotation C",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.1106,
         "rarity": "Uncommon"
       },
@@ -9585,7 +9531,7 @@
       },
       {
         "location": "Mars/Arcadia (Survival), Rotation C",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.1106,
         "rarity": "Uncommon"
       },
@@ -9597,7 +9543,7 @@
       },
       {
         "location": "Mars/Arcadia (Survival), Rotation C",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.1106,
         "rarity": "Uncommon"
       },
@@ -9615,7 +9561,7 @@
       },
       {
         "location": "Mars/Augustus (Excavation), Rotation C",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.1106,
         "rarity": "Uncommon"
       },
@@ -9627,7 +9573,7 @@
       },
       {
         "location": "Mars/Augustus (Excavation), Rotation C",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.1106,
         "rarity": "Uncommon"
       },
@@ -9639,7 +9585,7 @@
       },
       {
         "location": "Mars/Augustus (Excavation), Rotation C",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.1106,
         "rarity": "Uncommon"
       },
@@ -9657,7 +9603,7 @@
       },
       {
         "location": "Mercury/Apollodorus (Survival), Rotation C",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.1106,
         "rarity": "Uncommon"
       },
@@ -9669,7 +9615,7 @@
       },
       {
         "location": "Mercury/Apollodorus (Survival), Rotation C",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.1106,
         "rarity": "Uncommon"
       },
@@ -9681,7 +9627,7 @@
       },
       {
         "location": "Mercury/Apollodorus (Survival), Rotation C",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.1106,
         "rarity": "Uncommon"
       },
@@ -9699,7 +9645,7 @@
       },
       {
         "location": "Phobos/Flimnap (Survival), Rotation C",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.1106,
         "rarity": "Uncommon"
       },
@@ -9711,7 +9657,7 @@
       },
       {
         "location": "Phobos/Flimnap (Survival), Rotation C",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.1106,
         "rarity": "Uncommon"
       },
@@ -9723,7 +9669,7 @@
       },
       {
         "location": "Phobos/Flimnap (Survival), Rotation C",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.1106,
         "rarity": "Uncommon"
       },
@@ -9741,7 +9687,7 @@
       },
       {
         "location": "Phobos/Memphis (Defection), Rotation C",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.1106,
         "rarity": "Uncommon"
       },
@@ -9753,7 +9699,7 @@
       },
       {
         "location": "Phobos/Memphis (Defection), Rotation C",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.1106,
         "rarity": "Uncommon"
       },
@@ -9765,7 +9711,7 @@
       },
       {
         "location": "Phobos/Memphis (Defection), Rotation C",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.1106,
         "rarity": "Uncommon"
       },
@@ -9783,7 +9729,7 @@
       },
       {
         "location": "Phobos/Stickney (Survival), Rotation C",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.1106,
         "rarity": "Uncommon"
       },
@@ -9795,7 +9741,7 @@
       },
       {
         "location": "Phobos/Stickney (Survival), Rotation C",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.1106,
         "rarity": "Uncommon"
       },
@@ -9807,7 +9753,7 @@
       },
       {
         "location": "Phobos/Stickney (Survival), Rotation C",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.1106,
         "rarity": "Uncommon"
       },
@@ -9825,7 +9771,7 @@
       },
       {
         "location": "Phobos/Wendell (Excavation), Rotation C",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.1106,
         "rarity": "Uncommon"
       },
@@ -9837,7 +9783,7 @@
       },
       {
         "location": "Phobos/Wendell (Excavation), Rotation C",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.1106,
         "rarity": "Uncommon"
       },
@@ -9849,7 +9795,7 @@
       },
       {
         "location": "Phobos/Wendell (Excavation), Rotation C",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.1106,
         "rarity": "Uncommon"
       },
@@ -9867,7 +9813,7 @@
       },
       {
         "location": "Venus/Kiliken (Excavation), Rotation C",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.1106,
         "rarity": "Uncommon"
       },
@@ -9879,7 +9825,7 @@
       },
       {
         "location": "Venus/Kiliken (Excavation), Rotation C",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.1106,
         "rarity": "Uncommon"
       },
@@ -9891,7 +9837,7 @@
       },
       {
         "location": "Venus/Kiliken (Excavation), Rotation C",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.1106,
         "rarity": "Uncommon"
       },
@@ -9909,7 +9855,7 @@
       },
       {
         "location": "Venus/Malva (Survival), Rotation C",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.1106,
         "rarity": "Uncommon"
       },
@@ -9921,7 +9867,7 @@
       },
       {
         "location": "Venus/Malva (Survival), Rotation C",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.1106,
         "rarity": "Uncommon"
       },
@@ -9933,7 +9879,7 @@
       },
       {
         "location": "Venus/Malva (Survival), Rotation C",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.1106,
         "rarity": "Uncommon"
       },
@@ -9951,7 +9897,7 @@
       },
       {
         "location": "Venus/V Prime (Survival), Rotation C",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.1106,
         "rarity": "Uncommon"
       },
@@ -9963,7 +9909,7 @@
       },
       {
         "location": "Venus/V Prime (Survival), Rotation C",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.1106,
         "rarity": "Uncommon"
       },
@@ -9975,7 +9921,7 @@
       },
       {
         "location": "Venus/V Prime (Survival), Rotation C",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.1106,
         "rarity": "Uncommon"
       },
@@ -9993,7 +9939,7 @@
       },
       {
         "location": "Deimos/Hyf (Defense), Rotation A",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.1111,
         "rarity": "Uncommon"
       },
@@ -10005,7 +9951,7 @@
       },
       {
         "location": "Deimos/Hyf (Defense), Rotation A",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.1111,
         "rarity": "Uncommon"
       },
@@ -10017,7 +9963,7 @@
       },
       {
         "location": "Deimos/Hyf (Defense), Rotation A",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.1111,
         "rarity": "Uncommon"
       },
@@ -10035,7 +9981,7 @@
       },
       {
         "location": "Deimos/Terrorem (Survival), Rotation A",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.1111,
         "rarity": "Uncommon"
       },
@@ -10047,13 +9993,13 @@
       },
       {
         "location": "Deimos/Terrorem (Survival), Rotation A",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.1111,
         "rarity": "Uncommon"
       },
       {
         "location": "Deimos/Terrorem (Survival), Rotation A",
-        "type": "Lith P5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.1111,
         "rarity": "Uncommon"
       },
@@ -10113,7 +10059,7 @@
       },
       {
         "location": "Void/Hepit (Capture)",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.1111,
         "rarity": "Uncommon"
       },
@@ -10125,7 +10071,7 @@
       },
       {
         "location": "Void/Hepit (Capture)",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.1111,
         "rarity": "Uncommon"
       },
@@ -10137,7 +10083,7 @@
       },
       {
         "location": "Void/Hepit (Capture)",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.1111,
         "rarity": "Uncommon"
       },
@@ -10167,7 +10113,7 @@
       },
       {
         "location": "Void/Taranis (Defense), Rotation A",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.1111,
         "rarity": "Uncommon"
       },
@@ -10179,7 +10125,7 @@
       },
       {
         "location": "Void/Taranis (Defense), Rotation A",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.1111,
         "rarity": "Uncommon"
       },
@@ -10191,7 +10137,7 @@
       },
       {
         "location": "Void/Taranis (Defense), Rotation A",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.1111,
         "rarity": "Uncommon"
       },
@@ -10221,7 +10167,7 @@
       },
       {
         "location": "Void/Teshub (Exterminate)",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.1111,
         "rarity": "Uncommon"
       },
@@ -10233,7 +10179,7 @@
       },
       {
         "location": "Void/Teshub (Exterminate)",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.1111,
         "rarity": "Uncommon"
       },
@@ -10245,7 +10191,7 @@
       },
       {
         "location": "Void/Teshub (Exterminate)",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.1111,
         "rarity": "Uncommon"
       },
@@ -10286,80 +10232,8 @@
         "rarity": "Uncommon"
       },
       {
-        "location": "Murex Raid, Rotation A",
-        "type": "Lith D4 Relic",
-        "chance": 0.129,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Murex Raid, Rotation A",
-        "type": "Lith B8 Relic",
-        "chance": 0.129,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Murex Raid, Rotation A",
-        "type": "Lith G3 Relic",
-        "chance": 0.129,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Murex Raid, Rotation A",
-        "type": "Lith P5 Relic",
-        "chance": 0.129,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Ground Assault, Rotation A",
-        "type": "Lith D4 Relic",
-        "chance": 0.1333,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Ground Assault, Rotation A",
-        "type": "Lith B8 Relic",
-        "chance": 0.1333,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Ground Assault, Rotation A",
-        "type": "Lith G3 Relic",
-        "chance": 0.1333,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Ground Assault, Rotation A",
-        "type": "Lith P5 Relic",
-        "chance": 0.1333,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Ground Assault, Rotation B",
-        "type": "Lith D4 Relic",
-        "chance": 0.1333,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Ground Assault, Rotation B",
-        "type": "Lith B8 Relic",
-        "chance": 0.1333,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Ground Assault, Rotation B",
-        "type": "Lith G3 Relic",
-        "chance": 0.1333,
-        "rarity": "Uncommon"
-      },
-      {
-        "location": "Ground Assault, Rotation B",
-        "type": "Lith P5 Relic",
-        "chance": 0.1333,
-        "rarity": "Uncommon"
-      },
-      {
         "location": "Ceres/Hapke (Spy), Rotation B",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.1429,
         "rarity": "Uncommon"
       },
@@ -10371,7 +10245,7 @@
       },
       {
         "location": "Ceres/Hapke (Spy), Rotation B",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.1429,
         "rarity": "Uncommon"
       },
@@ -10383,7 +10257,7 @@
       },
       {
         "location": "Ceres/Hapke (Spy), Rotation B",
-        "type": "Lith T5 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.1429,
         "rarity": "Uncommon"
       },
@@ -10401,7 +10275,7 @@
       },
       {
         "location": "Earth/Cambria (Spy), Rotation B",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.1429,
         "rarity": "Uncommon"
       },
@@ -10413,7 +10287,7 @@
       },
       {
         "location": "Earth/Cambria (Spy), Rotation B",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.1429,
         "rarity": "Uncommon"
       },
@@ -10425,7 +10299,7 @@
       },
       {
         "location": "Earth/Cambria (Spy), Rotation B",
-        "type": "Lith T5 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.1429,
         "rarity": "Uncommon"
       },
@@ -10443,7 +10317,7 @@
       },
       {
         "location": "Mars/Arval (Spy), Rotation B",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.1429,
         "rarity": "Uncommon"
       },
@@ -10455,7 +10329,7 @@
       },
       {
         "location": "Mars/Arval (Spy), Rotation B",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.1429,
         "rarity": "Uncommon"
       },
@@ -10467,7 +10341,7 @@
       },
       {
         "location": "Mars/Arval (Spy), Rotation B",
-        "type": "Lith T5 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.1429,
         "rarity": "Uncommon"
       },
@@ -10485,7 +10359,7 @@
       },
       {
         "location": "Mars/Olympus (Disruption), Rotation A",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.1429,
         "rarity": "Uncommon"
       },
@@ -10497,7 +10371,7 @@
       },
       {
         "location": "Mars/Olympus (Disruption), Rotation A",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.1429,
         "rarity": "Uncommon"
       },
@@ -10509,7 +10383,7 @@
       },
       {
         "location": "Mars/Olympus (Disruption), Rotation A",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.1429,
         "rarity": "Uncommon"
       },
@@ -10527,7 +10401,7 @@
       },
       {
         "location": "Mars/Olympus (Disruption), Rotation B",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.1429,
         "rarity": "Uncommon"
       },
@@ -10539,7 +10413,7 @@
       },
       {
         "location": "Mars/Olympus (Disruption), Rotation B",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.1429,
         "rarity": "Uncommon"
       },
@@ -10551,7 +10425,7 @@
       },
       {
         "location": "Mars/Olympus (Disruption), Rotation B",
-        "type": "Lith T5 Relic",
+        "type": "Lith A4 Relic",
         "chance": 0.1429,
         "rarity": "Uncommon"
       },
@@ -10569,7 +10443,7 @@
       },
       {
         "location": "Mercury/Suisei (Spy), Rotation B",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.1429,
         "rarity": "Uncommon"
       },
@@ -10581,7 +10455,7 @@
       },
       {
         "location": "Mercury/Suisei (Spy), Rotation B",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.1429,
         "rarity": "Uncommon"
       },
@@ -10593,7 +10467,7 @@
       },
       {
         "location": "Mercury/Suisei (Spy), Rotation B",
-        "type": "Lith T5 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.1429,
         "rarity": "Uncommon"
       },
@@ -10611,7 +10485,7 @@
       },
       {
         "location": "Phobos/Grildrig (Spy), Rotation B",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.1429,
         "rarity": "Uncommon"
       },
@@ -10623,7 +10497,7 @@
       },
       {
         "location": "Phobos/Grildrig (Spy), Rotation B",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.1429,
         "rarity": "Uncommon"
       },
@@ -10635,7 +10509,7 @@
       },
       {
         "location": "Phobos/Grildrig (Spy), Rotation B",
-        "type": "Lith T5 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.1429,
         "rarity": "Uncommon"
       },
@@ -10653,7 +10527,7 @@
       },
       {
         "location": "Phobos/Shklovsky (Spy), Rotation B",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.1429,
         "rarity": "Uncommon"
       },
@@ -10665,7 +10539,7 @@
       },
       {
         "location": "Phobos/Shklovsky (Spy), Rotation B",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.1429,
         "rarity": "Uncommon"
       },
@@ -10677,7 +10551,7 @@
       },
       {
         "location": "Phobos/Shklovsky (Spy), Rotation B",
-        "type": "Lith T5 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.1429,
         "rarity": "Uncommon"
       },
@@ -10695,7 +10569,7 @@
       },
       {
         "location": "Venus/Unda (Spy), Rotation B",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.1429,
         "rarity": "Uncommon"
       },
@@ -10707,7 +10581,7 @@
       },
       {
         "location": "Venus/Unda (Spy), Rotation B",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.1429,
         "rarity": "Uncommon"
       },
@@ -10719,7 +10593,7 @@
       },
       {
         "location": "Venus/Unda (Spy), Rotation B",
-        "type": "Lith T5 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.1429,
         "rarity": "Uncommon"
       },
@@ -10737,7 +10611,7 @@
       },
       {
         "location": "Venus/Vesper (Spy), Rotation B",
-        "type": "Lith D4 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.1429,
         "rarity": "Uncommon"
       },
@@ -10749,7 +10623,7 @@
       },
       {
         "location": "Venus/Vesper (Spy), Rotation B",
-        "type": "Lith G3 Relic",
+        "type": "Lith K6 Relic",
         "chance": 0.1429,
         "rarity": "Uncommon"
       },
@@ -10761,7 +10635,7 @@
       },
       {
         "location": "Venus/Vesper (Spy), Rotation B",
-        "type": "Lith T5 Relic",
+        "type": "Lith G4 Relic",
         "chance": 0.1429,
         "rarity": "Uncommon"
       },
@@ -10779,13 +10653,13 @@
       },
       {
         "location": "Venus/Orb Vallis (Level 40 - 60 PROFIT-TAKER - PHASE 1), Rotation C",
-        "type": "Lith D4 Relic (Radiant)",
+        "type": "Lith G4 Relic (Radiant)",
         "chance": 0.15,
         "rarity": "Uncommon"
       },
       {
         "location": "Venus/Orb Vallis (Level 40 - 60 PROFIT-TAKER - PHASE 2), Rotation C",
-        "type": "Lith G3 Relic (Radiant)",
+        "type": "Lith K6 Relic (Radiant)",
         "chance": 0.15,
         "rarity": "Uncommon"
       },
@@ -17786,6 +17660,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Lith G4 Relic",
+        "type": "Titania Prime Neuroptics Blueprint",
+        "chance": 0.11,
+        "rarity": "Uncommon"
+      },
+      {
         "location": "Lith M5 Relic",
         "type": "Titania Prime Blueprint",
         "chance": 0.11,
@@ -17825,6 +17705,12 @@
         "location": "Neo Z6 Relic",
         "type": "Titania Prime Neuroptics Blueprint",
         "chance": 0.11,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Lith G4 Relic (Exceptional)",
+        "type": "Titania Prime Neuroptics Blueprint",
+        "chance": 0.13,
         "rarity": "Uncommon"
       },
       {
@@ -17894,6 +17780,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Meso Z4 Relic (Radiant)",
+        "type": "Titania Prime Chassis Blueprint",
+        "chance": 0.1667,
+        "rarity": "Uncommon"
+      },
+      {
         "location": "Neo M3 Relic (Radiant)",
         "type": "Titania Prime Chassis Blueprint",
         "chance": 0.1667,
@@ -17903,6 +17795,12 @@
         "location": "Neo N14 Relic (Radiant)",
         "type": "Titania Prime Chassis Blueprint",
         "chance": 0.1667,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Lith G4 Relic (Flawless)",
+        "type": "Titania Prime Neuroptics Blueprint",
+        "chance": 0.17,
         "rarity": "Uncommon"
       },
       {
@@ -17960,6 +17858,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Lith G4 Relic (Radiant)",
+        "type": "Titania Prime Neuroptics Blueprint",
+        "chance": 0.2,
+        "rarity": "Uncommon"
+      },
+      {
         "location": "Lith M5 Relic (Radiant)",
         "type": "Titania Prime Blueprint",
         "chance": 0.2,
@@ -17992,6 +17896,12 @@
       {
         "location": "Meso P4 Relic (Radiant)",
         "type": "Titania Prime Neuroptics Blueprint",
+        "chance": 0.2,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Meso Z4 Relic (Flawless)",
+        "type": "Titania Prime Chassis Blueprint",
         "chance": 0.2,
         "rarity": "Uncommon"
       },
@@ -18074,6 +17984,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Meso Z4 Relic (Exceptional)",
+        "type": "Titania Prime Chassis Blueprint",
+        "chance": 0.2333,
+        "rarity": "Uncommon"
+      },
+      {
         "location": "Neo M3 Relic (Exceptional)",
         "type": "Titania Prime Chassis Blueprint",
         "chance": 0.2333,
@@ -18105,6 +18021,12 @@
       },
       {
         "location": "Meso I1 Relic",
+        "type": "Titania Prime Chassis Blueprint",
+        "chance": 0.2533,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Meso Z4 Relic",
         "type": "Titania Prime Chassis Blueprint",
         "chance": 0.2533,
         "rarity": "Uncommon"
@@ -19096,6 +19018,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Lith G4 Relic",
+        "type": "Titania Prime Neuroptics Blueprint",
+        "chance": 0.11,
+        "rarity": "Uncommon"
+      },
+      {
         "location": "Lith M5 Relic",
         "type": "Titania Prime Blueprint",
         "chance": 0.11,
@@ -19135,6 +19063,12 @@
         "location": "Neo Z6 Relic",
         "type": "Titania Prime Neuroptics Blueprint",
         "chance": 0.11,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Lith G4 Relic (Exceptional)",
+        "type": "Titania Prime Neuroptics Blueprint",
+        "chance": 0.13,
         "rarity": "Uncommon"
       },
       {
@@ -19192,6 +19126,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Meso Z4 Relic (Radiant)",
+        "type": "Titania Prime Chassis Blueprint",
+        "chance": 0.1667,
+        "rarity": "Uncommon"
+      },
+      {
         "location": "Neo M3 Relic (Radiant)",
         "type": "Titania Prime Chassis Blueprint",
         "chance": 0.1667,
@@ -19201,6 +19141,12 @@
         "location": "Neo N14 Relic (Radiant)",
         "type": "Titania Prime Chassis Blueprint",
         "chance": 0.1667,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Lith G4 Relic (Flawless)",
+        "type": "Titania Prime Neuroptics Blueprint",
+        "chance": 0.17,
         "rarity": "Uncommon"
       },
       {
@@ -19246,6 +19192,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Lith G4 Relic (Radiant)",
+        "type": "Titania Prime Neuroptics Blueprint",
+        "chance": 0.2,
+        "rarity": "Uncommon"
+      },
+      {
         "location": "Lith M5 Relic (Radiant)",
         "type": "Titania Prime Blueprint",
         "chance": 0.2,
@@ -19278,6 +19230,12 @@
       {
         "location": "Meso P4 Relic (Radiant)",
         "type": "Titania Prime Neuroptics Blueprint",
+        "chance": 0.2,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Meso Z4 Relic (Flawless)",
+        "type": "Titania Prime Chassis Blueprint",
         "chance": 0.2,
         "rarity": "Uncommon"
       },
@@ -19324,6 +19282,12 @@
         "rarity": "Uncommon"
       },
       {
+        "location": "Meso Z4 Relic (Exceptional)",
+        "type": "Titania Prime Chassis Blueprint",
+        "chance": 0.2333,
+        "rarity": "Uncommon"
+      },
+      {
         "location": "Neo M3 Relic (Exceptional)",
         "type": "Titania Prime Chassis Blueprint",
         "chance": 0.2333,
@@ -19343,6 +19307,12 @@
       },
       {
         "location": "Meso I1 Relic",
+        "type": "Titania Prime Chassis Blueprint",
+        "chance": 0.2533,
+        "rarity": "Uncommon"
+      },
+      {
+        "location": "Meso Z4 Relic",
         "type": "Titania Prime Chassis Blueprint",
         "chance": 0.2533,
         "rarity": "Uncommon"
