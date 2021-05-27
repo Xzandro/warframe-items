@@ -91971,7 +91971,7 @@
   {
     "uniqueName": "/Lotus/Types/Items/ShipFeatureItems/GeneticFoundryUpgradeFeatureItem",
     "name": "Nutrio Incubator Upgrade Segment",
-    "description": "Upgrades the Orbiter's Incubator with the following features:- Reduced price of stabilizers- Egg incubation reduced by a day- Stabilizers are permanent",
+    "description": "Upgrades the Orbiter's Incubator with the following features:- Regress Genetic-Aging of mature companions- Egg incubation reduced by a day",
     "buildPrice": 100000,
     "buildTime": 43200,
     "skipBuildTimePrice": 25,
@@ -92231,7 +92231,7 @@
       {
         "uniqueName": "/Lotus/Types/Items/ShipFeatureItems/GeneticFoundryUpgradeFeatureBlueprint",
         "name": "Blueprint",
-        "description": "Upgrades the Orbiter's Incubator with the following features:- Reduced price of stabilizers- Egg incubation reduced by a day- Stabilizers are permanent",
+        "description": "Upgrades the Orbiter's Incubator with the following features:- Regress Genetic-Aging of mature companions- Egg incubation reduced by a day",
         "itemCount": 1,
         "imageName": "blueprint.png",
         "tradable": false
