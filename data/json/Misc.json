@@ -16440,16 +16440,6 @@
     ]
   },
   {
-    "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/SentientShards/SentientShardUncommonItem",
-    "name": "Exceptional Sentient Shard",
-    "description": "",
-    "excludeFromCodex": true,
-    "type": "Eidolon Shard",
-    "imageName": "exceptional-sentient-shard.png",
-    "category": "Misc",
-    "tradable": false
-  },
-  {
     "uniqueName": "/Lotus/Types/Items/SyndicateDogTags/PerrinUncommonDogTag",
     "name": "Executive Quittance",
     "description": "Medallion of The Perrin Sequence syndicate. Can be traded in on relay syndicate hubs for additional standing.",
@@ -30848,16 +30838,6 @@
     "description": "Medallion of the New Loka syndicate. Can be traded in on relay syndicate hubs for additional standing.",
     "type": "Medallion",
     "imageName": "flawless-seed.png",
-    "category": "Misc",
-    "tradable": false
-  },
-  {
-    "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/SentientShards/SentientShardRareItem",
-    "name": "Flawless Sentient Shard",
-    "description": "",
-    "excludeFromCodex": true,
-    "type": "Eidolon Shard",
-    "imageName": "flawless-sentient-shard.png",
     "category": "Misc",
     "tradable": false
   },
@@ -83412,16 +83392,6 @@
         "fixes": "Fixed the Lega Prism Amp FX lingering for Clients. "
       }
     ]
-  },
-  {
-    "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/SentientShards/SentientShardLegendaryItem",
-    "name": "Legendary Sentient Shard",
-    "description": "",
-    "excludeFromCodex": true,
-    "type": "Eidolon Shard",
-    "imageName": "legendary-sentient-shard.png",
-    "category": "Misc",
-    "tradable": false
   },
   {
     "rewardName": "/Lotus/StoreItems/Upgrades/Mods/Fusers/LegendaryModFuser",
